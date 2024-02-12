@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Folder path where the text files are located
-const folderPath = 'C:/Users/islam/Desktop/fluncy/Fluency_Prim_6/xml1';
+const folderPath = 'C:/Users/islam/Downloads/drive-download-20240212T074255Z-001/Social Studies Book 1';
 
 // Read all files in the folder
 fs.readdir(folderPath, (err, files) => {
