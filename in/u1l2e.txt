@@ -1,0 +1,103 @@
+::U1L2Q1::Choose True or False.<br>The U.S. Constitution mandates a census every 20 years.{F}
+
+::U1L2Q2::Choose True or False.<br>The census is used to determine seats in the House of Representatives.{T}
+
+::U1L2Q3::Choose True or False.<br>Hawaii has over 300 islands.{F}
+
+::U1L2Q4::Choose True or False.<br>Honolulu is the capital and largest city of Hawaii.{T}
+
+::U1L2Q5::Choose True or False.<br>Hawaii was always part of the United States.{F}
+
+::U1L2Q6::Choose True or False.<br>Pineapples are a major agricultural product in Hawaii.{T}
+
+::U1L2Q7::Choose True or False.<br>Tourism is Hawaii's main industry.{T}
+
+::U1L2Q8::Choose True or False.<br>Hawaii's economy focuses on manufacturing.{F}
+
+::U1L2Q9::Choose True or False.<br>The nene is Hawaii's state bird.{T}
+
+::U1L2Q10::Choose True or False.<br>Hawaii is known as the "Friendly State."{F}
+
+::U1L2Q11::Complete the sentences with suitable words.<br>The U.S. Constitution requires that a census be conducted every ........................ years.{=ten years}
+
+::U1L2Q12::Complete the sentences with suitable words.<br>The purpose of the census is to determine representation in Congress, specifically the ................... .{=House of Representatives}
+
+::U1L2Q13::Complete the sentences with suitable words.<br>Hawaii consists of over 100 islands, with the ........................ being the largest.{=Hawaii/Big Island}
+
+::U1L2Q14::Complete the sentences with suitable words.<br>Hawaii has an economy focused on tourism, ........................ and defense industries.{=agriculture}
+
+::U1L2Q15::Complete the sentences with suitable words.<br>Unique aspects of Hawaii's culture come from a blend of ..................., Japanese, Chinese, Filipino and other ethnicities.{=Native Hawaiians}
+
+::U1L2Q16::Complete the sentences with suitable words.<br>Hawaii has diverse natural landscapes including ................... and sandy beaches.{=volcanoes and rainforests}
+
+::U1L2Q17::Complete the sentences with suitable words.<br>Symbols of Hawaii include the yellow hibiscus flower and the ........................ bird.{=nene}
+
+::U1L2Q18::Complete the sentences with suitable words.<br>The concept of "......................" represents the welcoming spirit of Hawaiian culture.{=aloha}
+
+::U1L2Q19::Complete the sentences with suitable words.<br>Hawaii was an independent ........................ before becoming part of the United States.{=kingdom/monarchy}
+
+::U1L2Q20::Complete the sentences with suitable words.<br>Honolulu, found on the island of ........................, is the capital and largest city.{=Oahu}
+
+::U1L2Q21::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>The U.S. Constitution requires a census every ........................ years.{=ten}
+
+::U1L2Q22::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>The census determines representation in the House of ........................ .{=Representatives}
+
+::U1L2Q23::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>........................ is the capital and largest city of Hawaii.{=Honolulu}
+
+::U1L2Q24::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>Hawaii became a U.S. ........................ before achieving statehood.{=territory}
+
+::U1L2Q25::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>Important industries in Hawaii include tourism and ........................ .{=agriculture}
+
+::U1L2Q26::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>The ........................ is a symbol of the welcoming spirit of Hawaii.{=aloha}
+
+::U1L2Q27::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>The ........................ is the state tree of Hawaii.{=kukui}
+
+::U1L2Q28::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>Hawaii has a history as an independent ........................ .{=kingdom}
+
+::U1L2Q29::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>The ........................ is Hawaii's state bird.{=nene}
+
+::U1L2Q30::Fill in the blanks using the words in the brackets.<br>(Japanese – kingdom – aloha – territory – Representatives – nene – kukui – agriculture – Honolulu – ten)<br>Hawaii has a diverse population including Native Hawaiians and ........................ .{=Japanese}
+
+::U1L2Q31::Choose the correct answer.<br>How often is the U.S. census conducted?{=Every 10 years~Every 5 years~Every 5 years~Every 25 years}
+
+::U1L2Q32::Choose the correct answer.<br>What does the census determine?{=All of the options~State populations~House seats~Taxes}
+
+::U1L2Q33::Choose the correct answer.<br>Which Hawaiian island is the largest?{=Hawaii~Oahu~Maui~Kauai}
+
+::U1L2Q34::Choose the correct answer.<br>What is Hawaii's capital and largest city?{=Honolulu~Hilo~Kailua~Lahaina}
+
+::U1L2Q35::Choose the correct answer.<br>When was Hawaii annexed by the U.S.?{=1898~1908~1918~1928}
+
+::U1L2Q36::Choose the correct answer.<br>What is a major industry in Hawaii?{=Tourism~Mining~Manufacturing~Fishing}
+
+::U1L2Q37::Choose the correct answer.<br>What is Hawaii's state flower?{=Orchid~Hibiscus~Plumeria~Anthurium}
+
+::U1L2Q38::Choose the correct answer.<br>What is the Hawaiian spirit of welcoming represented by?{=Aloha~Mahalo~Wikiwiki~Ohana}
+
+::U1L2Q39::Choose the correct answer.<br>What is Hawaii's state bird?{=Nene~Oriole~Cardinal~Sparrow}
+
+::U1L2Q40::Choose the correct answer.<br>What major ethnic groups live in Hawaii?{=Native Hawaiians, Chinese, Japanese~Mexicans, Chinese, Filipinos~Europeans, Africans, Indians~None of the options}
+
+::U1L2Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=ten years->Frequency of U.S. census=House of Representatives->Purpose of census=Hawaii/Big Island->Largest Hawaiian island=Honolulu->Capital and largest city=1898->Year Hawaii annexed by U.S.}
+
+::U1L2Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=tourism->Major Hawaii industry=hibiscus->Hawaii state flower=aloha->Welcoming spirit concept=nene->Hawaii state bird=Japanese->Major Hawaii ethnicity}
+
+::U1L2Q43::Answer the following questions.<br>Describe the political and geographic division of power within the U.S. federal system.{=The U.S. has a federal system with power divided between federal, state and local levels. The federal government oversees national-level issues, while state governments manage state-specific matters. Local governments handle community issues. States have autonomy but must follow certain federal laws.}
+
+::U1L2Q44::Answer the following questions.<br>What is the purpose and importance of the U.S. census?{=The census counts the population every 10 years to determine representation in Congress, specifically seats in the House of Representatives. It provides vital data to allocate resources and shape policy decisions.}
+
+::U1L2Q45::Answer the following questions.<br>Give an overview of Hawaiian history and culture.{=Hawaii was an independent kingdom before U.S. annexation in 1898. It became a U.S. territory and later a state in 1959. Its culture blends Native Hawaiian, Asian, European and other influences into a unique tapestry evident in customs, cuisine, music and dance. Tourism now dominates its economy.}
+
+::U1L2Q46::Answer the following questions.<br>Describe Hawaii's diverse natural geography.{=Hawaii consists of over 100 islands with volcanic mountains, lush rainforests, sandy beaches, ocean vistas and unique rock formations. The Big Island has the tallest volcanoes of Mauna Kea and Mauna Loa.}
+
+::U1L2Q47::Answer the following questions.<br>What are some unique state symbols of Hawaii?{=Hawaii is the "Aloha State" representing its welcoming spirit. Other symbols include the yellow hibiscus (state flower), nene goose (state bird) and kukui tree (state tree).}
+
+::U1L2Q48::Answer the following questions.<br>How does federalism shape governance and politics in America?{=Federalism divides power across federal, state and local governments. This system aims to balance centralized leadership with localized governance serving regional needs. It creates layers of checks and balances but also complex coordination.}
+
+::U1L2Q49::Answer the following questions.<br>How could understanding local contexts improve federal policymaking?{=Federal policies often impact communities unevenly. Understanding local contexts allows tailored solutions meeting regional needs. Input from local governments and community groups can make federal policies more responsive.}
+
+::U1L2Q50::Answer the following questions.<br>Should statehood decisions consider cultural cohesion or only geographic proximity?{=There are reasonable arguments on both sides. Shared culture eases governance yet risks alienating those outside the dominant culture. Geographic unity brings spatial efficiency yet perhaps fewer common bonds. Balancing cultural and regional factors may be ideal.}
+
+::U1L2Q51::Answer the following questions.<br>How does the census shape representation and resource allocation over time?{=The census determines seats in the House after population shifts, so growing states gain more representation. Data guides spending decisions, benefiting growing areas. Lagging investment in declining regions sparks calls for updated approaches.}
+
+::U1L2Q52::Answer the following questions.<br>Could Hawaii's cultural integration serve as a model for the rest of America?{=Perhaps so. Hawaii's ability to fuse diverse cultures while upholding shared values offers lessons. Respectful inclusion of minority voices and exchange of cultural gifts bred unity. America may apply this "aloha spirit" more broadly.}

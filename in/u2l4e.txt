@@ -1,0 +1,103 @@
+::U2L4Q1::Choose True or False.<br>Russia has the world's largest natural gas reserves.{T}
+
+::U2L4Q2::Choose True or False.<br>Russia's main coal deposits are located in the European part of the country.{F}
+
+::U2L4Q3::Choose True or False.<br>Lake Baikal is the world's largest freshwater lake.{F}
+
+::U2L4Q4::Choose True or False.<br>Wheat and barley are Russia's main agricultural products.{T}
+
+::U2L4Q5::Choose True or False.<br>The Siberian tiger is native to Russia.{T}
+
+::U2L4Q6::Choose True or False.<br>Polar bears inhabit the Arctic regions of Russia.{T}
+
+::U2L4Q7::Choose True or False.<br>The Amur leopard is abundant in Russia.{F}
+
+::U2L4Q8::Choose True or False.<br>Kamchatka Peninsula is known for its volcanoes.{T}
+
+::U2L4Q9::Choose True or False.<br>The brown bear is revered in Russian culture.{T}
+
+::U2L4Q10::Choose True or False.<br>Siberia has very fertile agricultural plains.{F}
+
+::U2L4Q11::Complete the sentences with suitable words.<br>Russia has the world's largest ........................ reserves.{=natural gas}
+
+::U2L4Q12::Complete the sentences with suitable words.<br>It has extensive iron ore reserves, particularly in the ............................... .{=Ural Mountains}
+
+::U2L4Q13::Complete the sentences with suitable words.<br>Russia possesses vast forests, primarily in Siberia and the Russian ……................... .{=Russian Far East}
+
+::U2L4Q14::Complete the sentences with suitable words.<br>Russia boasts rich biodiversity, with diverse ecosystems ranging from the ........................ and taiga to forests, steppe and Arctic regions.{=taiga}
+
+::U2L4Q15::Complete the sentences with suitable words.<br>The European part of Russia features vast fertile ............................., including the Russian Plain, which is well-suited for agriculture.{=plains}
+
+::U2L4Q16::Complete the sentences with suitable words.<br>Russia produces a variety of crops, including wheat, ........................, oats, rye, potatoes and various vegetables.{=barley}
+
+::U2L4Q17::Complete the sentences with suitable words.<br>Russia has established numerous national parks and protected areas to conserve its unique ....................... .{=wildlife}
+
+::U2L4Q18::Complete the sentences with suitable words.<br>The Siberian ........................ is one of the rarest big cats globally, with a critically endangered status.{=tiger}
+
+::U2L4Q19::Complete the sentences with suitable words.<br>The brown bear inhabits various regions of Russia, including .............................., the West Siberian Plain and Russian Far East.{=Siberia}
+
+::U2L4Q20::Complete the sentences with suitable words.<br>Russia has abundant freshwater resources including numerous rivers and .............................. .{=freshwater lakes}
+
+::U2L4Q21::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia has vast forests, primarily in Siberia; and the ................................. .{=Russian Far East}
+
+::U2L4Q22::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia is one of the world's top ........................ producers and exporters.{=oil}
+
+::U2L4Q23::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia possesses substantial ........................ potential due to its numerous rivers and lakes.{=hydropower}
+
+::U2L4Q24::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia is a significant ........................ producer with deposits in the Urals and Siberia.{=coal}
+
+::U2L4Q25::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia boasts rich ........................, with diverse ecosystems ranging from the tundra and taiga to forests, steppe and Arctic regions.{=biodiversity}
+
+::U2L4Q26::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia has established numerous national parks and protected areas to conserve its unique ........................ .{=wildlife}
+
+::U2L4Q27::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>The ................................. features vast fertile plains, which is well-suited for agriculture.{=Russian Plain}
+
+::U2L4Q28::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>Russia produces a variety of ........................, including wheat, barley, oats, rye, potatoes and various vegetables.{=crops}
+
+::U2L4Q29::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>The .............................. is known for its strength and endurance, often used as a sled dog.{=Siberian husky}
+
+::U2L4Q30::Fill in the blanks using the words in the brackets.<br>(carnivores – crops – wildlife – coal – oil – Siberian husky – Russian Plain – biodiversity – hydropower – Russian Far East)<br>The brown bear is one of the largest land .................... in the world.{=carnivores}
+
+::U2L4Q31::Choose the correct answer.<br>What is Russia's most significant energy resource?{=Natural gas~Oil~Hydropower~Coal}
+
+::U2L4Q32::Choose the correct answer.<br>Where are Russia's main diamond deposits located?{=Siberia~Urals~Russian Plain~Kola Peninsula}
+
+::U2L4Q33::Choose the correct answer.<br>Which species has the largest population in Russia?{=Brown bears~Snow leopards~Amur leopards~Polar bears}
+
+::U2L4Q34::Choose the correct answer.<br>What is Russia's main wheat growing region?{=Russian Plain~Kazakh Plain~West Siberian Plain~Siberian Plain}
+
+::U2L4Q35::Choose the correct answer.<br>Which is NOT an iconic Russian wildlife species?{=Siberian Tiger~Reindeer~Polar Bear~Brown Bear}
+
+::U2L4Q36::Choose the correct answer.<br>What is Russia's largest national park?{=Lake Baikal~Kamchatka~Altai~Russian Arctic}
+
+::U2L4Q37::Choose the correct answer.<br>What industry contributes significantly to Russia's economy?{=all of the options~fisheries~freshwater~Timber}
+
+::U2L4Q38::Choose the correct answer.<br>Which species is adapted to extremely cold climates?{=Polar bear~Amur leopard~Siberian tiger~Snow leopard}
+
+::U2L4Q39::Choose the correct answer.<br>Which region has rich biodiversity and diverse ecosystems?{=all of the options~Urals~Siberia~Arctic}
+
+::U2L4Q40::Choose the correct answer.<br>Which metals is Russia a major producer of?{=All of the options~Platinum~Aluminum~Copper}
+
+::U2L4Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Oil->one of the world's top producers and exporters=Natural Gas->world's largest reserves=Hydropower->substantial potential=Iron Ore->extensive reserves=Copper->significant producer}
+
+::U2L4Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Diamonds->leading producer=Timber->vast forests=Wheat->major exporter=Siberian Tiger->iconic species=Brown Bear->largest population}
+
+::U2L4Q43::Answer the following questions.<br>How have Russia's natural resources shaped its economy and global influence?{=Russia's natural resources like oil, gas, minerals, forests etc. have greatly shaped its economy by generating exports revenue. It has made Russia an important global supplier of energy, metals and timber. This has increased its geopolitical influence.}
+
+::U2L4Q44::Answer the following questions.<br>What are some of Russia's main mineral resources and where are they located geographically?{=Russia has iron ore reserves in the Ural Mountains and coal/diamonds deposits in Siberia. It is a leading global diamond producer.}
+
+::U2L4Q45::Answer the following questions.<br>Describe Russia's timber and forest resources and their economic significance.{=Russia possesses vast Siberia/Russian Far East forests which drive its lucrative timber industry. This provides wood-based products and jobs for economy.}
+
+::U2L4Q46::Answer the following questions.<br>What are some of Russia's major agricultural products and which regions are important for agriculture?{=Key agriculture products are wheat, barley, rye from fertile Russian Plains. Potatoes, vegetables from wider regions. Agriculture employs many Russians.}
+
+::U2L4Q47::Answer the following questions.<br>What iconic wildlife species inhabit Russia and what ecosystems are they adapted to?{=Iconic wildlife from the tundra, taiga, steppe and mountains include brown bears, Siberian tigers, reindeer, snow leopards. They showcase Russia's ecological diversity.}
+
+::U2L4Q48::Answer the following questions.<br>Why has Russia established national parks and protected areas and which regions are most important for conservation?{=National parks conserve pristine ecosystems and rare flora/fauna like Amur leopards, polar bears. Important areas are Kamchatka, Lake Baikal, Altai, Russian Arctic.}
+
+::U2L4Q49::Answer the following questions.<br>How could infrastructure limitations and other challenges affect Russia's ability to fully capitalize on its agricultural potential?{=Lack of infrastructure in remote areas and short growing seasons due to cold climate could limit Russia fully developing its agricultural output potential. Advanced technologies could help.}
+
+::U2L4Q50::Answer the following questions.<br>How does Russia's resource wealth shape its environmental footprint and sustainability challenges?{=Resource extraction causes pollution and habitat loss affecting ecosystems/wildlife. Balancing conservation, public health vs. economic priorities is Russia's big sustainability challenge.}
+
+::U2L4Q51::Answer the following questions.<br>Which industry sectors and export commodities benefit most from Russia's natural resources?{=Oil/gas, metals, minerals and timber industries along with agriculture benefit most and generate substantial export revenue for Russia from its natural capital.}
+
+::U2L4Q52::Answer the following questions.<br>How might climate change and other factors impact Russia's ecosystems, wildlife and resource extraction in the future?{=Climate change, environmental degradation, overexploitation could negatively impact Russia's ecosystems, wildlife and sustainable extraction of its natural resources in the long term. Careful monitoring and mitigation measures needs to be implemented.}

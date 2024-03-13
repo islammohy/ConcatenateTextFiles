@@ -1,0 +1,103 @@
+::U1L5Q1::Choose True or False.<br>The USA is often described as a "melting pot" due to its diverse population.{T}
+
+::U1L5Q2::Choose True or False.<br>English is the only language spoken in the United States.{F}
+
+::U1L5Q3::Choose True or False.<br>American cuisine includes fast food, regional specialties, international cuisines and organic eating.{T}
+
+::U1L5Q4::Choose True or False.<br>The White House is an iconic architectural landmark located in the USA.{T}
+
+::U1L5Q5::Choose True or False.<br>Broadway in New York City is renowned for its theater productions including plays and musicals.{T}
+
+::U1L5Q6::Choose True or False.<br>Jazz and hip-hop are examples of music genres that originated in the USA.{T}
+
+::U1L5Q7::Choose True or False.<br>Los Angeles, California is the center of the American film industry.{T}
+
+::U1L5Q8::Choose True or False.<br>Hollywood only produces blockbuster movies.{F}
+
+::U1L5Q9::Choose True or False.<br>Television and music are influenced by Hollywood.{T}
+
+::U1L5Q10::Choose True or False.<br>The USA's diverse cultural influences only include Native American, European, African and Asian contributions.{F}
+
+::U1L5Q11::Complete the sentences with suitable words.<br>The USA is often described as a "melting pot" due to its ............................. .{=diverse population}
+
+::U1L5Q12::Complete the sentences with suitable words.<br>............................. is the primary language spoken in the United States.{=English}
+
+::U1L5Q13::Complete the sentences with suitable words.<br>Broadway in New York City is renowned for its world-class ..................................... .{=theater productions}
+
+::U1L5Q14::Complete the sentences with suitable words.<br>Los Angeles, California is the epicenter of the global ..................................... .{=film industry}
+
+::U1L5Q15::Complete the sentences with suitable words.<br>The diverse cultural influences on the USA include Native American, European and .............................. contributions.{=African}
+
+::U1L5Q16::Complete the sentences with suitable words.<br>American cuisine reflects the ............................... of different culinary traditions.{=fusion}
+
+::U1L5Q17::Complete the sentences with suitable words.<br>Iconic American architectural landmarks include the White House and .................................. .{=Golden Gate Bridge}
+
+::U1L5Q18::Complete the sentences with suitable words.<br>Legendary American music artists include ..................., Elvis Presley and Beyoncé.{=Louis Armstrong}
+
+::U1L5Q19::Complete the sentences with suitable words.<br>The influence of Hollywood extends to .............................., music and celebrity culture.{=television}
+
+::U1L5Q20::Complete the sentences with suitable words.<br>Jazz and blues are examples of ..................................... that originated in the USA.{=music genres}
+
+::U1L5Q21::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>The USA is often described as a "...................." due to its diverse population.{=melting pot}
+
+::U1L5Q22::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>.................... is the primary language spoken in the United States.{=English}
+
+::U1L5Q23::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>American cuisine reflects the fusion of different .................................. .{=culinary traditions}
+
+::U1L5Q24::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>....................... in New York City is renowned for its world-class theater productions.{=Broadway}
+
+::U1L5Q25::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>.................... and blues are examples of music genres that originated in the USA.{=Jazz}
+
+::U1L5Q26::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>...................., California is the epicenter of the global film industry.{=Hollywood}
+
+::U1L5Q27::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>The influence of Hollywood extends to television, music and .................................. .{=celebrity culture}
+
+::U1L5Q28::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>The diverse cultural influences on the USA include ...................., European and African contributions.{=Native American}
+
+::U1L5Q29::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>Iconic American architectural landmarks include the .............................. and Golden Gate Bridge.{=White House}
+
+::U1L5Q30::Fill in the blanks using the words in the brackets.<br>(melting pot – celebrity culture – English – Louis Armstrong – culinary traditions – White House – Hollywood – Broadway – Native American – Jazz)<br>Legendary American music artists include ............................... Elvis Presley and Beyoncé.{=Louis Armstrong}
+
+::U1L5Q31::Choose the correct answer.<br>What is the USA often described as due to its diverse population?{=Melting pot~Salad bowl~Cultural mosaic~None of the options}
+
+::U1L5Q32::Choose the correct answer.<br>Which of the following languages is NOT commonly spoken in the USA?{=Arabic~Chinese~Spanish~English}
+
+::U1L5Q33::Choose the correct answer.<br>Which of the following is part of American cuisine?{=All of the options~Organic eating~Southern barbecue~Fast food}
+
+::U1L5Q34::Choose the correct answer.<br>Which American city is home to the iconic Broadway theater district?{=New York City~New Orleans~Chicago~Los Angeles}
+
+::U1L5Q35::Choose the correct answer.<br>Which music genre originated in the USA?{=Rock and roll~Reggae~K-pop~Opera}
+
+::U1L5Q36::Choose the correct answer.<br>Where is Hollywood located?{=Los Angeles~Las Vegas~Miami~Washington DC}
+
+::U1L5Q37::Choose the correct answer.<br>What does Hollywood produce?{=All of the options~Influential documentaries~Independent films~Blockbuster movies}
+
+::U1L5Q38::Choose the correct answer.<br>Which area of culture is NOT influenced by Hollywood?{=Literature~Television~Music~Celebrity culture}
+
+::U1L5Q39::Choose the correct answer.<br>The diverse cultural influences on the USA include which of the following?{=All of the options~European~Native American~African}
+
+::U1L5Q40::Choose the correct answer.<br>Which architectural landmark is located in the USA?{=Statue of Liberty~Stonehenge~Taj Mahal~Eiffel Tower}
+
+::U1L5Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Melting pot->Diverse population=English->Primary language=Broadway->Theater productions=Hollywood->Film industry=Jazz->Music genre}
+
+::U1L5Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=White House->Architectural landmark=Beyoncé->Music artist=New York City->Broadway=Los Angeles->Hollywood=Statue of Liberty->Iconic structure}
+
+::U1L5Q43::Answer the following questions.<br>How has the diversity of the American population influenced the culture of the USA?{=The diversity of the American population arising from successive waves of immigration from all over the world has profoundly influenced American culture, making it a vibrant tapestry. Cultural traditions, customs, cuisines, languages, arts, and values from disparate societies have blended and cross-pollinated to create a unique American identity.}
+
+::U1L5Q44::Answer the following questions.<br>What are some examples of Native American, European, African, Asian and Latin American cultural contributions that have shaped American culture?{=Native American cultures contributed indigenous traditions like powwows, dreamcatchers and turquoise jewelry-making. European settlers brought colonial architecture, folk music, and harvesting festivals. Africans introduced blues, soul food and racism resistance movements. Asian immigrants added Asian cuisine, martial arts and Buddhist traditions. Latin Americans contributed salsa, Cinco de Mayo celebrations and magical realism literature.}
+
+::U1L5Q45::Answer the following questions.<br>Why is the USA often referred to as a "cultural melting pot" and what does this metaphor signify?{=The USA is called a "cultural melting pot" because it has assimilated diverse cultures which have blended together through additions and syncretism over time. This metaphor signifies that American culture transcends individual source cultures, creating a heterogeneous whole greater than its composite parts.}
+
+::U1L5Q46::Answer the following questions.<br>How have different immigrant groups and their cultures impacted American cuisine over time?{=Different immigrant cuisines like Italian, Mexican, Chinese, Indian, etc. have become woven into the fabric of American food culture. Cross-influences are seen in Tex-Mex, Chinese-American chop suey and pizza variants. Food trucks and ethnic eateries have increased access to diverse culinary experiences.}
+
+::U1L5Q47::Answer the following questions.<br>What architectural landmarks exemplify iconic American architecture and why?{=Icons like the Statue of Liberty, Empire State Building, and Golden Gate Bridge exemplify American architectural ingenuity and ambition. The White House represents democracy. Skyscrapers like Willis Tower showcase American construction prowess. Native American sites like Mesa Verde highlight ancient indigenous genius.}
+
+::U1L5Q48::Answer the following questions.<br>How has American theater, comedy and music impacted popular culture both domestically and worldwide?{=American theater (Broadway), comedy (stand-up, sitcoms) and music (jazz, rock, hip-hop) have massively impacted global entertainment. Exports like Friends, Michael Jackson and Marvel movies have penetrated pop cultures worldwide through their creativity and production values.}
+
+::U1L5Q49::Answer the following questions.<br>What makes Hollywood the epicenter of the entertainment industry and how has it wielded cultural influence globally?{=Hollywood became an entertainment capital through early film industry growth, acting/production talent, and world-class facilities. Its cultural impact comes from pioneering cinematic storytelling, genres like Westerns and recognizable celebrities worldwide.}
+
+::U1L5Q50::Answer the following questions.<br>What does the prevalence of English in the USA reflect about the country's cultural assimilation process over generations?{=The predominance of English reflects the "melting pot" process where succeeding generations assimilated a common lingua franca, facilitating communication and integration of diverse cultures over time.}
+
+::U1L5Q51::Answer the following questions.<br>How do you think increased cultural diversity and globalization will continue to shape American culture going forward?{=Increasing diversity from new immigration and global connectivity will likely lead to American culture absorbing ever more international cultural influences. Appreciation for multiculturalism and easier sharing of customs globally will create an even richer tapestry going forward.}
+
+::U1L5Q52::Answer the following questions.<br>What aspects of American culture interest you the most and why?{=I'm most interested in how different artistic and pop culture expressions have crisscrossed American society as diverse talents blended. The creative ferment produced by cultural fusions is endlessly fascinating to explore.}

@@ -1,0 +1,99 @@
+::U2L5Q1::Choose True or False.<br>Russian culture has had little influence on the global arts scene.{F}
+
+::U2L5Q2::Choose True or False.<br>Anton Chekhov is known for his plays such as "The Cherry Orchard."{T}
+
+::U2L5Q3::Choose True or False.<br>The Firebird is an evil creature in Russian folklore.{F}
+
+::U2L5Q4::Choose True or False.<br>Pelmeni are small meat pies.{F}
+
+::U2L5Q5::Choose True or False.<br>Russia annexed Crimea in 2014 after Ukraine's Euromaidan protests.{T}
+
+::U2L5Q6::Choose True or False.<br>The conflict in eastern Ukraine started after the Minsk agreements were signed.{F}
+
+::U2L5Q7::Choose True or False.<br>Thousands of people have died due to the conflict in Ukraine.{T}
+
+::U2L5Q8::Choose True or False.<br>Ukraine was never part of the Soviet Union.{F}
+
+::U2L5Q9::Choose True or False.<br>The Domovoi protects households in Slavic folklore.{T}
+
+::U2L5Q10::Choose True or False.<br>Russian architecture does not utilize onion domes.{F}
+
+::U2L5Q11::Complete the sentences with suitable words.<br>Russian culture has produced literary giants like Leo Tolstoy, the author of "War and ........................ ."{=Peace}
+
+::U2L5Q12::Complete the sentences with suitable words.<br>The ................... Theatre in St. Petersburg, formerly known as the Kirov, is an internationally renowned ballet company.{=Mariinsky}
+
+::U2L5Q13::Complete the sentences with suitable words.<br>................... is a sequence of folk dances featuring ballet, acrobatics and music.{=Swan Lake}
+
+::U2L5Q14::Complete the sentences with suitable words.<br>................... is the administrative capital and largest city of Russia.{=Moscow}
+
+::U2L5Q15::Complete the sentences with suitable words.<br>The 2014 annexation of ................... by Russia was condemned by much of the international community.{=Crimea}
+
+::U2L5Q16::Complete the sentences with suitable words.<br>The ................... protests sparked unrest that ultimately led to the ousting of Ukrainian President Yanukovych.{=Euromaidan}
+
+::U2L5Q17::Complete the sentences with suitable words.<br>The conflict has displaced thousands of people from their ................... in Ukraine.{=homes}
+
+::U2L5Q18::Complete the sentences with suitable words.<br>Attempts like the Minsk agreements have tried to negotiate a ................... resolution.{=peaceful}
+
+::U2L5Q19::Complete the sentences with suitable words.<br>The ................... is a beautifully plumed mythical bird in Russian folklore.{=Firebird or Zhar-ptitsa}
+
+::U2L5Q20::Complete the sentences with suitable words.<br>................... architecture, exemplified by St. Basil's Cathedral, features colorful, onion-shaped domes.{=Russian}
+
+::U2L5Q21::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>................... is a hardy Russian beet soup often served with sour cream or meat.{=Borscht}
+
+::U2L5Q22::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>The ................... is an iconic Russian museum located in Moscow's Red Square.{=Kremlin}
+
+::U2L5Q23::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>................... was a influential Russian author known for novels like “Anna Karenina.”{=Tolstoy}
+
+::U2L5Q24::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>The ................... ballet company, based in Moscow, is renowned worldwide.{=Bolshoi}
+
+::U2L5Q25::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>........................ was the Russian President who was ousted during the Euromaidan protests in 2014.{=Yanukovych}
+
+::U2L5Q26::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>Pro-Russian ................... erupted in eastern Ukraine shortly after Crimea's annexation.{=separatists}
+
+::U2L5Q27::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>The ................... agreements attempted to broker ceasefires in eastern Ukraine.{=Minsk}
+
+::U2L5Q28::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>................... is a common Russian dumpling filling made from ground meat.{=Pelmeni}
+
+::U2L5Q29::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>................... is the name of the Russian household spirit in folklore.{=Domovoi}
+
+::U2L5Q30::Fill in the blanks using the words in the brackets.<br>(Tchaikovsky – Pelmeni – separatists – Bolshoi – Kremlin – Domovoi – Minsk – Yanukovych – Tolstoy – Borscht)<br>The Russian composer ................... created the ballets “Swan Lake” and “The Nutcracker.”{=Tchaikovsky}
+
+::U2L5Q31::Choose the correct answer.<br>Which author wrote the novels "Crime and Punishment" and "The Brothers Karamazov"?{=Fyodor Dostoevsky~Leo Tolstoy~Anton Chekhov~Ivan Turgenev}
+
+::U2L5Q32::Choose the correct answer.<br>What city is home to the renowned Hermitage Museum?{=St. Petersburg~Moscow~Kiev~Vladivostok}
+
+::U2L5Q33::Choose the correct answer.<br>The Euromaidan protests were sparked by: ................. .{=Abandoning an EU agreement~Attack by pro-Russian separatists~Crimea's annexation~Disputed election results}
+
+::U2L5Q34::Choose the correct answer.<br>Which dish is a type of Russian dumpling?{=Pelmeni~Pirozhki~Borscht~Kasha}
+
+::U2L5Q35::Choose the correct answer.<br>Which composer created iconic ballets like "Swan Lake"?{=Pyotr Ilyich Tchaikovsky~Igor Stravinsky~Dmitri Shostakovich~Sergei Rachmaninoff}
+
+::U2L5Q36::Choose the correct answer.<br>Baba Yaga is a character from: ............. .{=Russian folklore~Classic literature~Political speeches~Historical records}
+
+::U2L5Q37::Choose the correct answer.<br>Which event occurred first?{=Euromaidan protests~Eastern Ukraine conflict~Minsk Agreements~Annexation of Crimea}
+
+::U2L5Q38::Choose the correct answer.<br>Ivan Kupala day takes place on: ............... .{=The summer solstice~Christmas~New Year's Eve~The first day of spring}
+
+::U2L5Q39::Choose the correct answer.<br>What religion has significantly influenced Russian art and architecture?{=Russian Orthodoxy~Catholicism~Judaism~Islam}
+
+::U2L5Q40::Choose the correct answer.<br>Which architectural style features onion domes?{=Byzantine~Gothic~Baroque~Constructivism}
+
+::U2L5Q41::Answer the following questions.<br>How has Russian culture influenced the global arts and culture scene over the centuries?{=Russian culture has had a profound global impact over many centuries. In the arts, Russia produced some of the world's most renowned writers (Dostoevsky, Tolstoy, Chekhov), composers (Tchaikovsky, Stravinsky, Shostakovich), and ballet. The avant-garde art movements of suprematism and constructivism originated in Russia. Russian folk art like matryoshka dolls, Fabergé eggs and distinctive folk costumes have also gained worldwide recognition.}
+
+::U2L5Q42::Answer the following questions.<br>What were the key events that led up to the conflict between Ukraine and pro-Russian separatists?{=The conflict between Ukraine and pro-Russian separatists traces its roots to the 2014 Ukrainian revolution, which ousted pro-Russian president Viktor Yanukovych after he rejected an agreement with the EU. Russia proceeded to annex Crimea and pro-Russian unrest erupted in eastern Ukraine, where separatists seized territory to form the self-declared republics of Donetsk and Luhansk.}
+
+::U2L5Q43::Answer the following questions.<br>What role has Russia played in the conflict in eastern Ukraine?{=Russia has played a central role backing the separatist forces in eastern Ukraine with weapons, funding, troops and political support. While denying direct military involvement, Russia has enabled the separatists to battle Ukrainian forces for control of the Donbas region.}
+
+::U2L5Q44::Answer the following questions.<br>What humanitarian impacts has the conflict had?{=The conflict in eastern Ukraine has had devastating humanitarian impacts, causing over 14,000 deaths and displacing millions from their homes. Cities have been heavily damaged by artillery shelling. Access to water, electricity, healthcare and education has been disrupted for civilians living amid the fighting.}
+
+::U2L5Q45::Answer the following questions.<br>How is Russian folklore and mythology reflected in well-known stories and figures like Baba Yaga?{=Russian folklore and mythology are richly represented in fairy tales featuring figures like the terrifying witch Baba Yaga, who flies around in a mortar and lives in a hut on chicken legs. Stories about heroes like the knight-errant Ilya Muromets and the dragon-slaying Dobrynya Nikitich have also endured for centuries.}
+
+::U2L5Q46::Answer the following questions.<br>What architectural elements make Russian architecture distinctive?{=Perhaps the most distinctive elements of Russian architecture are the brightly-colored onion-shaped domes adorning Orthodox churches, particularly the St. Basil's Cathedral in Moscow. Heavy, sturdy construction materials like stone and wood were necessitated by Russia's harsh winters. Iconic imperial buildings like Moscow's Kremlin andWinter Palace in St. Petersburg blend Russian elements with Italian Renaissance influences.}
+
+::U2L5Q47::Answer the following questions.<br>Why was Russia's annexation of Crimea controversial internationally?{=Russia's 2014 annexation of Crimea from Ukraine was hugely controversial, denounced as an illegal violation of Ukraine's sovereignty and territorial integrity by most other nations and the UN. Beyond seizing the Crimean peninsula by military force, Russia held a disputed referendum there under military occupation.}
+
+::U2L5Q48::Answer the following questions.<br>How do Russian family dynamics and values differ from Western ones?{=Traditional Russian family values tend to be more patriarchal than Western norms, with men as primary decision-makers. Multi-generational households are common, with great respect afforded to grandparents and elders. Gender roles have also been more strictly defined, though evolving, especially in major cities.}
+
+::U2L5Q49::Answer the following questions.<br>What classic Russian dishes best exemplify Russian cuisine?{=Some of the most iconic and beloved Russian dishes include borscht (the beet and vegetable soup), beef stroganoff with noodles, pelmeni (meat dumplings), blini (thin pancakes) and the herring dish forshmak. Rich ingredients like sour cream, dill and beetroots feature prominently in Russian cuisine.}
+
+::U2L5Q50::Answer the following questions.<br>How have Russia's renowned composers, authors and visual artists left a mark on culture worldwide?{=Russian cultural giants have achieved global acclaim and influenced countless artists and works worldwide. Composers like Tchaikovsky authored immortal ballets and symphonies, while novelists like Tolstoy (War and Peace), Dostoevsky (Crime and Punishment) and Solzhenitsyn left an indelible literary mark. World-famous visual artists include the painter Kandinsky, sculptor Rodin and multi-talented Renaissance man Repin.}

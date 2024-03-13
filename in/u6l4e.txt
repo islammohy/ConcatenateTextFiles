@@ -1,0 +1,99 @@
+::U6L4Q1::Choose True or False.<br>The Congo Crisis occurred from 1950 to 1955.  {F}
+
+::U6L4Q2::Choose True or False.<br>Patrice Lumumba was the first Prime Minister of the newly independent Congo.  {T}
+
+::U6L4Q3::Choose True or False.<br>The Ogaden region was an area in western Ethiopia inhabited by ethnic Somalis.  {F}
+
+::U6L4Q4::Choose True or False.<br>The Angolan Civil War ended in 2002 after 27 years.  {T}
+
+::U6L4Q5::Choose True or False.<br>UNITA received support from the Soviet Union during the Angolan Civil War.  {F}
+
+::U6L4Q6::Choose True or False.<br>The Vietnam War ended with the fall of Saigon in 1975. {T}
+
+::U6L4Q7::Choose True or False.<br>The Tet Offensive was launched by U.S. forces in 1968.  {F}
+
+::U6L4Q8::Choose True or False.<br>The 1979 Soviet invasion of Afghanistan was in response to a coup that brought a communist government to power.  {T}
+
+::U6L4Q9::Choose True or False.<br>The Mujahideen received support only from the United States during the Soviet-Afghan War.  {F}
+
+::U6L4Q10::Choose True or False.<br>Afghanistan descended into civil war after the Soviet withdrawal in 1989.  {T}
+
+::U6L4Q11::Complete the sentences with suitable words.<br>The Congo Crisis occurred from 1960 to 19 ..................... . {=1965}
+
+::U6L4Q12::Complete the sentences with suitable words.<br>Patrice Lumumba became the first Prime Minister of the Congo after it gained independence from ..................... rule on June 30, 1960. {=Belgian colonial}
+
+::U6L4Q13::Complete the sentences with suitable words.<br>The ..................... region, led by Moïse Tshombe, attempted to declare independence from the Congo during the crisis. {=Katanga}
+
+::U6L4Q14::Complete the sentences with suitable words.<br>The Ogaden War was a conflict over the Ogaden region between ..................... and Ethiopia. {=Somalia}
+
+::U6L4Q15::Complete the sentences with suitable words.<br>The Angolan Civil War involved factions like the MPLA, supported by the Soviet Union and ....................., supported by the U.S. {=UNITA}
+
+::U6L4Q16::Complete the sentences with suitable words.<br>As part of the ..................... Accords in 1954, Vietnam was divided into North and South Vietnam. {=Geneva}
+
+::U6L4Q17::Complete the sentences with suitable words.<br>The Gulf of ..................... incident in 1964 led to greater U.S. escalation of the conflict in Vietnam. {=Tonkin}
+
+::U6L4Q18::Complete the sentences with suitable words.<br>..................... forces captured Saigon in 1975, leading to Vietnam's reunification under communist control. {=North Vietnamese}
+
+::U6L4Q19::Complete the sentences with suitable words.<br>The 1979 Soviet invasion of Afghanistan aimed to support the beleaguered ..................... government.  {=communist}
+
+::U6L4Q20::Complete the sentences with suitable words.<br>Following the Soviet withdrawal from Afghanistan, the rise of the ..................... led to greater instability and conflict. {=Taliban}
+
+::U6L4Q21::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The Congo gained ..................... from Belgium on June 30, 1960. {=independence}
+
+::U6L4Q22::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The United States government was concerned about Patrice Lumumba's perceived ..................... leanings. {=socialist}
+
+::U6L4Q23::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The Ogaden War was a conflict between ..................... and Ethiopia over the Ogaden region. {=Somalia}
+
+::U6L4Q24::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>Cuba provided thousands of ..................... to support the MPLA faction in the Angolan Civil War. {=troops}
+
+::U6L4Q25::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The 17th ..................... divided Vietnam into North and South Vietnam after the Geneva Accords. {=parallel}
+
+::U6L4Q26::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The Gulf of ..................... incident led to greater U.S. military involvement in Vietnam in the 1960s. {=Tonkin}
+
+::U6L4Q27::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>U.S. forces withdrew from Vietnam after signing the ..................... Peace Accords in 1973. {=Paris}
+
+::U6L4Q28::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>The Soviet invasion of Afghanistan in 1979 was justified as an effort to combat ..................... extremism. {=Islamic}
+
+::U6L4Q29::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>Various Afghan rebel groups fighting Soviet forces were known as the ..................... .  {=Mujahideen}
+
+::U6L4Q30::Fill in the blanks using the words in the brackets.<br>(civil war – Mujahideen – Islamic – Paris – Tonkin – parallel – troops – Somalia – socialist – independence)<br>After the Soviet withdrawal from Afghanistan, the country descended into a period of ..................... .  {=civil war}
+
+::U6L4Q31::Choose the correct answer.<br>What two superpowers were involved in supporting different sides during the Congo Crisis? {=The United States and the Soviet Union ~The United Kingdom and Germany~The Soviet Union and China~France and Belgium }
+
+::U6L4Q32::Choose the correct answer.<br>What mineral-rich province attempted to declare independence during the Congo Crisis? {=Katanga~Kasai ~Equateur~Bas-Congo }
+
+::U6L4Q33::Choose the correct answer.<br>What year did Somalia invade the Ogaden region, sparking the Ogaden War? {=1977~1976~1972~1965}
+
+::U6L4Q34::Choose the correct answer.<br>What were the two main factions in the Angolan Civil War?  {=The MPLA and UNITA ~The MPLA and Portugal ~Cuba and South Africa~UNITA and the FLNA }
+
+::U6L4Q35::Choose the correct answer.<br>When did the Vietnam War officially end? Vietnam after the Gulf of Tonkin incident?  {=1975~1974~1973~1971}
+
+::U6L4Q36::Choose the correct answer.<br>What was the name of the resolution passed by U.S. Congress authorizing greater military involvement in Vietnam after the Gulf of Tonkin incident?  {=Gulf of Tonkin Resolution ~Military Assistance Act~Southeast Asia Resolution ~Vietnam Resolution }
+
+::U6L4Q37::Choose the correct answer.<br>What radical Islamist group eventually took control of most of Afghanistan following the post-Soviet civil war?  {=Taliban~Hezbollah ~Hamas ~Al-Qaeda }
+
+::U6L4Q38::Choose the correct answer.<br>What term was used to refer to the various Afghan rebel groups fighting Soviet forces?  {=Mujahideen~Fedayeen ~Hizbollah ~Taliban}
+
+::U6L4Q39::Choose the correct answer.<br>What country invaded Afghanistan in 1979 to support the communist government?  {=The Soviet Union ~The United States ~China ~Pakistan}
+
+::U6L4Q40::Choose the correct answer.<br>Who led the resistance against French colonial rule during the First Indochina War prior to the Vietnam War?  {=Ho Chi Minh ~Vo Nguyen Giap ~Le Duan~Ngo Dinh Diem }
+
+::U6L4Q41::Answer the following questions.<br>What were some of the causes and consequences of the Congo Crisis in the early 1960s?{=The Congo Crisis in the early 1960s stemmed from internal divisions after independence, separatist movements, intervention by Belgium and the US/USSR as proxies and competition over mineral resources. It led to extended instability and civil war in the Congo.}
+
+::U6L4Q42::Answer the following questions.<br>How did the Cold War context influence and exacerbate the Ogaden War between Somalia and Ethiopia?{=The Ogaden War was influenced by Somalia's ambitions for a Greater Somalia and the context of superpower competition in the Horn of Africa. The Soviet Union backed Somalia while Cuba and the USSR backed Ethiopia, increasing the conflict's intensity.}
+
+::U6L4Q43::Answer the following questions.<br>What role did foreign powers like the Soviet Union and the United States play in fueling conflicts like the Angolan Civil War?{=The Angolan Civil War saw major foreign intervention, with the USSR and Cuba supporting the MPLA and the US and South Africa backing UNITA rebels during the Cold War, fueling and prolonging the conflict.}
+
+::U6L4Q44::Answer the following questions.<br>What impact did the Vietnam War have on American foreign policy in subsequent decades?{=The Vietnam War led to the "Vietnam Syndrome" in the US, increased public skepticism of military intervention abroad and a reluctance to commit ground forces overseas.}
+
+::U6L4Q45::Answer the following questions.<br>Why did the Soviet Union invade Afghanistan in 1979 and what was the Mujahideen resistance that emerged?{=The USSR invaded Afghanistan in 1979 to shore up a communist regime faced with Islamic rebellion. This fueled the rise of the Mujahideen as a militant Islamist resistance to the Soviet occupation.}
+
+::U6L4Q46::Answer the following questions.<br>How did Afghanistan descend into instability and conflict in the post-Soviet era leading to the rise of the Taliban?{=After the Soviet withdrawal, Afghanistan descended into civil war in the 1990s, leading to the emergence of the Pakistan-backed Taliban regime, which provided a safe haven for groups like Al-Qaeda.}
+
+::U6L4Q47::Answer the following questions.<br>What were some similarities in the ways that the Soviet-Afghan War and the Vietnam War turned into Cold War proxy conflicts?{=Both wars saw superpowers intervene to prop up ideologically-aligned regimes facing insurgencies, leading to lengthy and bloody occupations and domestic controversy in the US/USSR.}
+
+::U6L4Q48::Answer the following questions.<br>What significance did Cuban military intervention have on the course of the Angolan Civil War?{=Cuban troops played a decisive role helping the MPLA defeat UNITA, allowing Angola to avoid secession and consolidating MPLA rule backed by the USSR and Cuba.}
+
+::U6L4Q49::Answer the following questions.<br>How did mineral resources and secessionist movements contribute to the Congo Crisis becoming an internationalized conflict?{=Secessionist movements in mineral-rich Katanga and ethnic violence sparked the Congo Crisis, which was exacerbated by Belgian, American and Soviet intervention.}
+
+::U6L4Q50::Answer the following questions.<br>What might have been some long-term consequences of superpower involvement in Third World conflicts like the Ogaden War?{=These conflicts may have intensified Cold War "proxy politics", racialized perceptions of ethnic conflicts and global south distrust of neo-colonial foreign policy.}

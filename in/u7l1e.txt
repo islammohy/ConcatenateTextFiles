@@ -1,0 +1,97 @@
+::U7L1Q1::Choose True or False.<br>The State of Israel was declared on May 15, 1948.  {T}
+
+::U7L1Q2::Choose True or False.<br>The Six-Day War ended on June 11, 1967.{T}
+
+::U7L1Q3::Choose True or False.<br>The Yom Kippur War began with a coordinated surprise attack on Israel by Egypt and Syria. {T}
+
+::U7L1Q4::Choose True or False.<br>The Nakba refers to the forced displacement of Palestinian Arabs during and after the 1948 Arab-Israeli War. {T}
+
+::U7L1Q5::Choose True or False.<br>Over 1 million Palestinian Arabs were displaced during the Nakba. {T}
+
+::U7L1Q6::Choose True or False.<br>The Camp David Accords were signed in 1967 between Israel and Egypt. {F}
+
+::U7L1Q7::Choose True or False.<br>Territorial disputes contributed to tensions before the Six-Day War. {T}
+
+::U7L1Q8::Choose True or False.<br>The Yom Kippur War resolved all underlying issues related to the Arab-Israeli conflict..  {F}
+
+::U7L1Q9::Choose True or False.<br>The Syrian Civil War started in 2011 and is still ongoing.{T}
+
+::U7L1Q10::Choose True or False.<br>The Israeli-Palestinian conflict revolves around issues like borders and the status of Jerusalem. {T}
+
+::U7L1Q11::Complete the sentences with suitable words.<br>Hundreds of thousands of Palestinian Arabs were displaced as ................... during and after the 1948 war.{=refugees}
+
+::U7L1Q12::Complete the sentences with suitable words.<br>The Six-Day War further deteriorated  relations between Israel and its ................... neighbors.{=Arab}
+
+::U7L1Q13::Complete the sentences with suitable words.<br>The desire to reclaim lost ................... partially motivated Arab states before the 1973 war.{=territory}
+
+::U7L1Q14::Complete the sentences with suitable words.<br>While it did not resolve  underlying issues, the Yom Kippur War opened the door for .................................... like the Camp David Accords.{=peace talks}
+
+::U7L1Q15::Complete the sentences with suitable words.<br>The status of ..................., borders and settlements  are central issues in the Israeli-Palestinian conflict.{=Jerusalem}
+
+::U7L1Q16::Complete the sentences with suitable words.<br>The ongoing ...................................... War in Syria has led to massive humanitarian crises . {=  Civil  }
+
+::U7L1Q17::Complete the sentences with suitable words.<br>Extremist groups  groups like ISIS continue to ................... security in parts of the Middle East.{=threaten}
+
+::U7L1Q18::Complete the sentences with suitable words.<br>The Middle East has vast ................... and natural gas deposits that often fuel resource conflicts.{=oil}
+
+::U7L1Q19::Complete the sentences with suitable words.<br>Regional conflicts have created complex ...................................., with millions displaced both within and outside the region.{=refugee crises}
+
+::U7L1Q20::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The forced displacement of Palestinians during the 1948 war is known as the ................. . {=Nakba Egypt}
+
+::U7L1Q21::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>Egypt, Syria and ................... were among the Arab states that intervened against Israel during the 1948 war.{=Jordan}
+
+::U7L1Q22::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The Six-Day War ended in a .................... brokered by the United Nations.{=ceasefire  }
+
+::U7L1Q23::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The West Bank and .................... were among the territories captured by Israel during the Six-Day War.{=Gaza}
+
+::U7L1Q24::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The coordinated attack that started the Yom Kippur War was launched by Egypt and .................. . {=Syria diplomatic }
+
+::U7L1Q25::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>Following the Yom Kippur War, .................... efforts like the Camp David Accords were initiated.{=peace}
+
+::U7L1Q26::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>Issues like borders and Palestinian .................... are central to the Israeli-Palestinian conflict.{=statehood}
+
+::U7L1Q27::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The devastating ...................................... war in Syria started in 2011.{=civil }
+
+::U7L1Q28::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>Tensions between Turkey and Kurdish groups like the .................... have persisted for decades.{=PKK}
+
+::U7L1Q29::Fill in the blanks using the words in the brackets.<br>(Nakba Egypt – Jordan – ceasefire – Gaza – Syria diplomatic – peace – statehood – civil – PKK – internal)<br>The Middle East has experienced significant ..................................... displacement.{=internal}
+
+::U7L1Q30::Choose the correct answer.<br>What event marked the culmination of tensions between Jewish immigrants and Arab Palestinians in British Mandate Palestine?  {=Israel's War of Independence ~Camp David Accords~Yom Kippur War~Six-Day War }
+
+::U7L1Q31::Choose the correct answer.<br>What pressing issue resulted from the 1948 Arab-Israeli War and Palestinian Nakba?  {=Palestinian refugees ~Democratic elections~Weapons stockpiling ~Water scarcity }
+
+::U7L1Q32::Choose the correct answer.<br>Which territories were captured by Israel in the Six-Day War of 1967?  {=Sinai Peninsula and Golan Heights ~East Jerusalem and Red Sea coast ~Southern Lebanon and Nile Delta~West Bank and Gaza Strip }
+
+::U7L1Q33::Choose the correct answer.<br>The Yom Kippur War in 1973 demonstrated that .................. .   {=Israel could be vulnerable militarily ~Palestine deserved statehood~lasting peace was achievable ~Israel was militarily invincible }
+
+::U7L1Q34::Choose the correct answer.<br>The Camp David Accords were signed between ................. . {=Israel and Egypt~Israel and Syria ~Israel and Jordan ~Israel and Saudi Arabia}
+
+::U7L1Q35::Choose the correct answer.<br>One consequence of the Yom Kippur War was .................. .   {=worsening global oil crisis ~easing travel restrictions ~increased arms sales globally~resolving refugee issues }
+
+::U7L1Q36::Choose the correct answer.<br>The Israeli-Palestinian conflict revolves around all the following issues EXCEPT ................. .  {=fishing rights ~status of Jerusalem ~borders ~rights of refugees}
+
+::U7L1Q37::Choose the correct answer.<br>Who are the primary participants in the ongoing Syrian Civil War?  {=Syrian government and rebel groups ~Syrian government and Kurdish forces ~Israel and rebel groups ~Russia and United States}
+
+::U7L1Q38::Choose the correct answer.<br>What initiated the latest Yemeni Civil War in 2015?  {=Houthi rebellion against government~Kurdish uprising ~al-Qaeda terrorist attack ~Hunger riots}
+
+::U7L1Q39::Choose the correct answer.<br>A source of tensions between Iran and Saudi Arabia has been ................ .{=sectarian differences~proxy conflicts ~oil production quotas ~weapons programs}
+
+::U7L1Q40::Answer the following questions.<br>What were some of the key factors that contributed to tensions between Jewish immigrants and Palestinian Arabs under the British Mandate leading up to the 1948 war?{=Key factors that contributed to tensions included increased Jewish immigration and land purchases displacing Palestinian peasants, Arab nationalist resistance to Zionism and clashes over holy sites.}
+
+::U7L1Q41::Answer the following questions.<br>What were some of the major consequences of Palestinian displacement during the Nakba, both short-term and long-term?{=Short-term displacement caused humanitarian crises. Long-term it meant Palestinian refugees passed status down generations, fueling resentment.}
+
+::U7L1Q42::Answer the following questions.<br>How did the territorial changes from the Six-Day War alter the geopolitical dynamics of the Middle East?{=The Six-Day War gave Israel control of the West Bank, Gaza, Golan Heights and Sinai, altering power dynamics and setting the stage for future conflicts.}
+
+::U7L1Q43::Answer the following questions.<br>What motivated Egypt and Syria to launch attacks against Israel in 1973, despite risks of provoking war?{=Egypt and Syria wanted to regain lost territory and reestablish credibility after poor performance in 1967. But miscalculations led to war.}
+
+::U7L1Q44::Answer the following questions.<br>How did the outcome of the Yom Kippur War reshape diplomatic efforts in subsequent years?{=The war showed limitations of force for all sides. This opened the way for US-led peace efforts like the Camp David Accords and Madrid Conference.}
+
+::U7L1Q45::Answer the following questions.<br>Why has resolving the Israeli-Palestinian conflict through peace agreements proven so difficult thus far?{=Issues like borders, settlements, Jerusalem's status and Palestinian statehood make compromises complex for both Israelis and Palestinians.}
+
+::U7L1Q46::Answer the following questions.<br>What complex humanitarian issues have resulted from the Syrian Civil War?{=The civil war caused massive civilian deaths, cities reduced to rubble, chemical weapons attacks, millions displaced as refugees.}
+
+::U7L1Q47::Answer the following questions.<br>How do you think issues like terrorism, geopolitical rivalries and proxy conflicts contribute to ongoing tensions in the Middle East?{=These factors perpetuate instability by empowering extremist groups, enabling foreign meddling and sidelining diplomatic solutions.}
+
+::U7L1Q48::Answer the following questions.<br>In what ways have natural resources like oil and gas deposits been a source of conflict in the region?{=Competition over regional oil and gas resources has fueled both economic and military conflicts between states.}
+
+::U7L1Q49::Answer the following questions.<br>What solutions could help address the refugee crisis resulting from regional conflicts?{=Increasing humanitarian aid, negotiating ceasefires, pressuring for political solutions and countries opening borders to more refugees could help.}

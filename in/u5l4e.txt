@@ -1,0 +1,99 @@
+::U5L4Q1::Choose True or False.<br>The Civil War saw the first widespread use of ambulances to transport wounded soldiers. {T}
+
+::U5L4Q2::Choose True or False.<br>Nursing did not gain prominence as a profession until after the Civil War. {T}
+
+::U5L4Q3::Choose True or False.<br>Medical knowledge of infection control worsened after the Civil War, increasing the spread of diseases.{T}
+
+::U5L4Q4::Choose True or False.<br>The Declaration of Independence asserts the rights to life, liberty and the pursuit of property. {F}
+
+::U5L4Q5::Choose True or False.<br>The United States has historically attracted immigrants seeking worse economic opportunities. {F}
+
+::U5L4Q6::Choose True or False.<br>Upward social mobility is not an important part of American culture. {F}
+
+::U5L4Q7::Choose True or False.<br>Lowering the flag to half-staff is a symbol of celebration and joy. {F}
+
+::U5L4Q8::Choose True or False.<br>Globalization and trade after a war can slow down technological progress. {F}
+
+::U5L4Q9::Choose True or False.<br>The Civil War was the first conflict recorded by photographers. {T}
+
+::U5L4Q10::Choose True or False.<br>The right to freedom of religion does not include the right to change one's religion. {F}
+
+::U5L4Q11::Complete the sentences with suitable words.<br>The Civil War saw the widespread use of ....................  to transport wounded soldiers.{=ambulances}
+
+::U5L4Q12::Complete the sentences with suitable words.<br>After the war, many cities began to establish formal ..................... services, often run by hospitals or local government agencies.{=ambulance}
+
+::U5L4Q13::Complete the sentences with suitable words.<br>Thanks in part to the efforts of Florence Nightingale, the concept of ....................  as a profession gained prominence during the Civil War.{=nursing}
+
+::U5L4Q14::Complete the sentences with suitable words.<br>The Declaration of Independence asserts the unalienable rights to life, liberty and the pursuit of ....................  . {=happiness}
+
+::U5L4Q15::Complete the sentences with suitable words.<br>Throughout history, the United States has attracted ..................... from diverse backgrounds seeking better prospects.{=immigrants}
+
+::U5L4Q16::Complete the sentences with suitable words.<br>The belief that hard work can lead to a ................................... is deeply ingrained in American culture. {=higher social mobility}
+
+::U5L4Q17::Complete the sentences with suitable words.<br>Lowering the flag to half-staff is a symbol of ................... and respect . {=mourning}
+
+::U5L4Q18::Complete the sentences with suitable words.<br>After wars, the .................... of technology and ideas among nations can accelerate progress.{=progress}
+
+::U5L4Q19::Complete the sentences with suitable words.<br>The Civil War was the first conflict recorded  by .................... . {=photographers}
+
+::U5L4Q20::Complete the sentences with suitable words.<br>Freedom of ................... includes the right to change one's religion or belief.{=religion}
+
+::U5L4Q21::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>Horse-drawn .................... were used to transport wounded soldiers during the Civil War.{=ambulances}
+
+::U5L4Q22::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>The quality of .................... care improved in hospitals after the Civil War.{=medical}
+
+::U5L4Q23::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>Medical knowledge of ...................................... and sanitation improved after the Civil War.{=infection control}
+
+::U5L4Q24::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>The Declaration of Independence asserts the rights to life, liberty and the pursuit of .................. . {=happiness}
+
+::U5L4Q25::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>The United States has historically attracted immigrants seeking better ..................... opportunities.{=economic}
+
+::U5L4Q26::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>Upward .................................. refers to achieving a higher socioeconomic status than one's parents.{=social mobility}
+
+::U5L4Q27::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>Displaying the flag at .....................  is a symbol of mourning and respect.{=half staff}
+
+::U5L4Q28::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>.....................  and trade after wars can accelerate technological progress.{=Globalization}
+
+::U5L4Q29::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>....................  was the most famous photographer who recorded images of the Civil War.{=Mathew Brady}
+
+::U5L4Q30::Fill in the blanks using the words in the brackets.<br>(freedom – Mathew Brady – Globalization – half staff – social mobility – economic – happiness – infection control – medical – ambulances)<br>The right to .....................  of religion includes the right to change one's religion.{=freedom}
+
+::U5L4Q31::Choose the correct answer.<br>What transported wounded soldiers during the Civil War?  {=Ambulances ~Carts ~Wheelbarrows ~Stretchers}
+
+::U5L4Q32::Choose the correct answer.<br>What concept gained prominence as a profession during the Civil War?  {=Nursing ~Teaching~Banking ~Engineering }
+
+::U5L4Q33::Choose the correct answer.<br>What did the Civil War help improve knowledge of?  {=Infection control ~Nutrition~Astronomy ~Agriculture }
+
+::U5L4Q34::Choose the correct answer.<br>The Declaration of Independence asserts the rights to: .................... .{=Life, liberty and the pursuit of happiness ~Liberty, property and security ~Equality, fellowship and peace ~Truth, sanctity and destiny}
+
+::U5L4Q35::Choose the correct answer.<br>Immigrants have historically been attracted to the United States seeking {=Lower quality education ~Fewer political rights~Limited social prospects~Worse economic opportunities }
+
+::U5L4Q36::Choose the correct answer.<br>Upward social mobility refers to:  {=Achieving a higher socioeconomic status than one's parents~Gaining international fame ~Moving to a better neighborhood ~Achieving a lower socioeconomic status than one's parents}
+
+::U5L4Q37::Choose the correct answer.<br>Lowering the flag to half-staff signals: {=Caution ~Celebration ~Mourning~Danger}
+
+::U5L4Q38::Choose the correct answer.<br>Globalization after a war can:  {=Accelerate technological progress ~Slow technological progress ~Reverse technological progress ~Not impact technological progress}
+
+::U5L4Q39::Choose the correct answer.<br>Who recorded the first images of the Civil War?  {=Photographers~Government officials ~Military commanders ~Civilian journalists }
+
+::U5L4Q40::Choose the correct answer.<br>The right to freedom of religion includes the right to:  {=All of the options~Promote one's beliefs ~Change one's religion ~Attend a place of worship }
+
+::U5L4Q41::Answer the following questions.<br>How did ambulances used during the Civil War impact medical care after the war?{=Ambulances helped transport wounded soldiers quickly, leading to advances in emergency medical services after the war. This likely reduced mortality and improved medical outcomes.}
+
+::U5L4Q42::Answer the following questions.<br>What led to advancements in hospitals and nursing after the Civil War?{=The overwhelming number and severity of wounds during the war forced improvements in hospitals and medical knowledge to deal with issues like infection control, cleanliness, organization, etc. It also led more women like Florence Nightingale to become nurses.}
+
+::U5L4Q43::Answer the following questions.<br>How did medical knowledge and techniques improve as a result of treating injuries during the Civil War?{=Treating a huge number of battle wounds forced doctors and nurses to gain better knowledge of infection control, use of anesthesia, sterilization, hygiene/sanitation, surgery techniques, etc. This knowledge persisted after the war.}
+
+::U5L4Q44::Answer the following questions.<br>What aspects of American society and culture have promoted the idea of the United States as a land of opportunity?{=Aspects like abundant natural resources, political stability, civil liberties, lack of rigid class structures and economic opportunities have promoted the idea of upward mobility.}
+
+::U5L4Q45::Answer the following questions.<br>How has immigration contributed to America being seen as a melting pot?{=Immigration has led to the mixing of cultures and ethnicities, contributing to the idea of America as a melting pot. Immigrants bring diversity of ideas and viewpoints as well.}
+
+::U5L4Q46::Answer the following questions.<br>What role has education played in providing economic opportunities in American history?{=Education and training provide knowledge and skills needed to qualify for jobs/careers offering economic stability or advancement, enabling generational improvement.}
+
+::U5L4Q47::Answer the following questions.<br>How can everyday citizens appropriately honor fallen soldiers through their actions?{=Citizens can honor fallen soldiers by flying flags at half staff, supporting veterans organizations, volunteering at cemeteries, participating in memorial events, etc.}
+
+::U5L4Q48::Answer the following questions.<br>What are some ways that wartime technology gets adapted for civilian/commercial use after wars?{=Wartime technologies like vehicles, communications systems, medical techniques, transport methods etc often get adapted to civilian commercial uses. This spreads innovation quickly.}
+
+::U5L4Q49::Answer the following questions.<br>How did photography and photojournalism expand during the Civil War and what was the impact?{=Photography expanded greatly during Civil War due to improvements allowing documentation of images from the battlefield that could be distributed widely afterwards. This boosted photojournalism.}
+
+::U5L4Q50::Answer the following questions.<br>Why is freedom of religion considered a fundamental human right?{=Freedom of religion recognizes that personal beliefs are a profound part of identity and that coercion in this area is morally wrong. Thus people should have liberty in choosing and changing faiths.}

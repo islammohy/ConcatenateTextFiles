@@ -1,0 +1,99 @@
+::U5L5Q1::Choose True or False.<br>The Gold Rush took place in the early 1900s. {F}
+
+::U5L5Q2::Choose True or False.<br>World War I started due to the assassination of Archduke Franz Ferdinand. {T}
+
+::U5L5Q3::Choose True or False.<br>The Teapot Dome Scandal involved bribery over weapon contracts. {F}
+
+::U5L5Q4::Choose True or False.<br>The Great Depression began with the stock market crash of 1929. {T}
+
+::U5L5Q5::Choose True or False.<br>World War II started when Germany invaded Britain.  {F}
+
+::U5L5Q6::Choose True or False.<br>The Yalta Conference discussed the formation of the United Nations.  {T}
+
+::U5L5Q7::Choose True or False.<br>The Potsdam Conference set the foundations for the Nuremberg Trials.  {T}
+
+::U5L5Q8::Choose True or False.<br>The atomic bomb has never been used in warfare.  {F}
+
+::U5L5Q9::Choose True or False.<br>The Cold War was a direct military conflict between the US and Soviet Union.  {F}
+
+::U5L5Q10::Choose True or False.<br>The Space Race was fueled by competition between the superpowers.  {T}
+
+::U5L5Q11::Complete the sentences with suitable words.<br>The Gold Rush led to rapid growth and development in .................. . {=California}
+
+::U5L5Q12::Complete the sentences with suitable words.<br>Commercial air travel first took place between St. Petersburg and .................... in 1914.{=Tanya}
+
+::U5L5Q13::Complete the sentences with suitable words.<br>Trench warfare and bloody battles occurred on the ................... Front during World War I.{=Western}
+
+::U5L5Q14::Complete the sentences with suitable words.<br>The ..................................... was established after WW1 to prevent future wars but failed.{=League of Nations}
+
+::U5L5Q15::Complete the sentences with suitable words.<br>The Great Depression was triggered by the ...................................... in October 1929.{=stock market crash}
+
+::U5L5Q16::Complete the sentences with suitable words.<br>Franklin D. Roosevelt's New Deal programs helped stimulate the economy during the ................. . {=Great Depression}
+
+::U5L5Q17::Complete the sentences with suitable words.<br>D-Day, the Allied invasion of Normandy, took place in .................. . {=1944}
+
+::U5L5Q18::Complete the sentences with suitable words.<br>At the Yalta Conference, the leaders agreed Poland should have a free government based on ................................. after the war.{=free elections}
+
+::U5L5Q19::Complete the sentences with suitable words.<br>The ................................... resulted in the Soviets controlling Eastern Europe after WW2.{=Iron Curtain}
+
+::U5L5Q20::Complete the sentences with suitable words.<br>The Cold War led to many .................... occurring in Korea, Vietnam and other regions.{=proxy wars}
+
+::U5L5Q21::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The .................... was a migration of people to California to find gold in the mid-1800s.{=Gold Rush}
+
+::U5L5Q22::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>.................................... were wealthy businessmen involved in the Teapot Dome Scandal.{=oil executives}
+
+::U5L5Q23::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>October 29, 1929 was known as .................................... when stock prices suddenly crashed.{=Black Tuesday}
+
+::U5L5Q24::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The rise of .................... in Germany and his expansionist policies were a major cause of World War II.{=Hitler}
+
+::U5L5Q25::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The .................................... was held in 1945 among Stalin, Churchill and Roosevelt.{=Yalta Conference}
+
+::U5L5Q26::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>At the Potsdam Conference, Germany was divided into ................... occupation zones after the war.{=four}
+
+::U5L5Q27::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>Atomic bombs were dropped on the Japanese cities of .................... and Nagasaki  in August 1945.{=Hiroshima }
+
+::U5L5Q28::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The ................... Curtain after WW2 divided Europe into Western and Eastern blocs aligned with capitalism or communism.{=Iron }
+
+::U5L5Q29::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The two superpowers built up huge stockpiles of ................... weapons as a deterrent during the Cold War.{=nuclear }
+
+::U5L5Q30::Fill in the blanks using the words in the brackets.<br>(Space Race – nuclear – Iron Curtain – Nagasaki – four – Yalta Conference – Hitler – Black Tuesday – oil executives – Gold Rush)<br>The ................................ was a competition between the US and USSR to achieve space exploration feats.{=Space Race}
+
+::U5L5Q31::Choose the correct answer.<br>What year did the Gold Rush begin?  {=1849~1875~1892~1903}
+
+::U5L5Q32::Choose the correct answer.<br>Where was Archduke Franz Ferdinand assassinated? {=Sarajevo ~Paris ~Berlin~Vienna }
+
+::U5L5Q33::Choose the correct answer.<br>Which president was involved in the Teapot Dome Scandal?  {=Warren G. Harding ~Calvin Coolidge ~Herbert Hoover ~Franklin D. Roosevelt}
+
+::U5L5Q34::Choose the correct answer.<br>When did Black Tuesday occur?  {=Tuesday, October 29, 1929~Tuesday, September 1, 1931~Monday, May 6, 1929~Thursday, October 29, 1925}
+
+::U5L5Q35::Choose the correct answer.<br>Who led Nazi Germany during World War II?  {=Adolf Hitler ~Hideki Tojo~Francisco Franco ~Benito Mussolini }
+
+::U5L5Q36::Choose the correct answer.<br>Which conference led to the creation of the United Nations?  {=The Yalta Conference ~The Potsdam Conference~The Cairo Conference ~The Quebec Conference }
+
+::U5L5Q37::Choose the correct answer.<br>Where were the Nuremberg Trials held?  {=Nuremberg ~The Hague~Geneva ~Berlin }
+
+::U5L5Q38::Choose the correct answer.<br>On what date was the first atomic bomb dropped on Japan?  {=Monday, August 6, 1945~Wednesday, August 8, 1945~Wednesday, August 15, 1945~Saturday, August 4, 1945}
+
+::U5L5Q39::Choose the correct answer.<br>What two countries were the superpowers during the Cold War?  {=The US and the Soviet Union ~Germany and Japan~The Soviet Union and China ~The US and Great Britain }
+
+::U5L5Q40::Choose the correct answer.<br>What early satellite spurred the Space Race?  {=Sputnik ~Explorer 1 ~Vostok 1~Apollo 11 }
+
+::U5L5Q41::Answer the following questions.<br>How did the California Gold Rush impact the growth and development of the United States in the 19th century?{=The California Gold Rush fueled massive westward expansion and growth in the 1840s and 1850s. It led to increased migration, development of land and infrastructure and economic prosperity. It solidified California's importance and contributed to making it a state.}
+
+::U5L5Q42::Answer the following questions.<br>What were some key innovations in technology that transformed air travel in the 20th century?{=Key innovations include jet engines, stronger and lighter aircraft materials, advanced avionics and navigation systems, and more powerful and reliable propulsion systems. These transformed speed, safety, range and efficiency.}
+
+::U5L5Q43::Answer the following questions.<br>What were the major causes of World War I and how did the assassination of Franz Ferdinand trigger the start of the war?{=Major causes were imperialism, nationalism, militarism and a complex system of alliances. Franz Ferdinand's assassination triggered competing declarations of war that activated this tangled web of pacts.}
+
+::U5L5Q44::Answer the following questions.<br>How did speculation, overproduction and the stock market crash help precipitate the Great Depression?{=Rampant speculation in the overheated 1920s stock market and overproduction/overexpansion in several key industries left the economy extremely vulnerable. The 1929 crash initiated a severe loss of confidence and wealth that precipitated the Great Depression.}
+
+::U5L5Q45::Answer the following questions.<br>What events and decisions at the Yalta Conference had long-lasting impacts after World War II ended?{=Yalta Conference decisions that had major impacts include: the unconditional surrender mandate on Germany, the division of Germany into occupation zones, reparations from Germany, the creation of the United Nations and the concession of Eastern European countries to Soviet influence.}
+
+::U5L5Q46::Answer the following questions.<br>How did the Potsdam Conference set the stage for the Nuremberg Trials and the resolution of post-war conflict?{=The Potsdam Conference established policies for the administration of defeated Germany, including war crimes trials, demilitarization, denazification and reparations. This paved the way for the Nuremberg trials to hold Nazi leaders accountable.}
+
+::U5L5Q47::Answer the following questions.<br>What influenced the United States' decision to drop atomic bombs on Hiroshima and Nagasaki? What were the short and long-term effects?{=Motivations included seeking quick end to war, preventing vast casualties from land invasion of Japan, demonstrating power to intimidate Soviet Union. Effects included massive death/destruction, radiation sickness, decades of tension/arms race with USSR.}
+
+::U5L5Q48::Answer the following questions.<br>How did ideological differences between capitalism and communism contribute to nearly a half-century of indirect conflict during the Cold War?{=Capitalist and communist economic/political ideologies were seen as incompatible. Military, economic, technological and ideological competition for global influence led to substantial conflicts by proxy but avoided direct war between powers.}
+
+::U5L5Q49::Answer the following questions.<br>How did advancements in rocket and satellite technology drive innovation during the Space Race? What impact did this have?{=Rapid innovation in rockets and satellite technology was driven by competition for military applications and national prestige. This drove science education and tech advancements with broad economic impacts that still resonate.}
+
+::U5L5Q50::Answer the following questions.<br>Looking at 20th century American history holistically, what do you think were some of its defining elements and how did they shape the America we live in today?{=Defining elements include economic growth, global power struggles, technological innovation, cultural upheaval. These variously shaped current US leadership role, economic status, globalization of economy/culture, computerization, relative peace among strong nations.}

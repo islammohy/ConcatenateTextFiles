@@ -1,0 +1,99 @@
+::U7L4Q1::Choose True or False.<br>The Afghan War began before the 9/11 attacks.  {F}
+
+::U7L4Q2::Choose True or False.<br>The U.S. invaded Afghanistan in October 2001. {T}
+
+::U7L4Q3::Choose True or False.<br>The Taliban regime supported Al-Qaeda.  {T}
+
+::U7L4Q4::Choose True or False.<br>The Northern Alliance wanted the Taliban to stay in power.  {F}
+
+::U7L4Q5::Choose True or False.<br>Osama bin Laden was captured early in the war.  {F}
+
+::U7L4Q6::Choose True or False.<br>The AUMF gave legal authority for military action after 9/11.  {T}
+
+::U7L4Q7::Choose True or False.<br>The Taliban maintained control over Afghan cities after the invasion.  {F}
+
+::U7L4Q8::Choose True or False.<br>Pakistan provided sanctuary for Taliban fighters.  {T}
+
+::U7L4Q9::Choose True or False.<br>The Afghan government was effective in rural areas. {F}
+
+::U7L4Q10::Choose True or False.<br>Opium trade financing assisted the Taliban insurgency.  {T}
+
+::U7L4Q11::Complete the sentences with suitable words.<br>The …................. began in 2001 after the 9/11 terrorist attacks.  {= Afghan War}
+
+::U7L4Q12::Complete the sentences with suitable words.<br>................... quickly became the prime suspect behind 9/11.{=Al-Qaeda}
+
+::U7L4Q13::Complete the sentences with suitable words.<br>The Northern Alliance opposed ................... rule in Afghanistan.{=Taliban}
+
+::U7L4Q14::Complete the sentences with suitable words.<br>The U.S. invasion attempted to topple the ................... .  {=Taliban regime}
+
+::U7L4Q15::Complete the sentences with suitable words.<br>Intelligence agencies tried to locate and capture ................... .  {=Osama bin Laden}
+
+::U7L4Q16::Complete the sentences with suitable words.<br>The Authorization for Use of Military Force provided ................... .  {=legal justification}
+
+::U7L4Q17::Complete the sentences with suitable words.<br>................... became a key U.S. ally against the Taliban.{=Pakistan}
+
+::U7L4Q18::Complete the sentences with suitable words.<br>The Taliban leadership found sanctuary in ................... .  {=Pakistan}
+
+::U7L4Q19::Complete the sentences with suitable words.<br>................... allowed the Taliban to finance their insurgency.{=The opium}
+
+::U7L4Q20::Complete the sentences with suitable words.<br>The Afghan government struggled with ................... and weak governance.  {=corruption }
+
+::U7L4Q21::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The 9/11 attacks triggered the start of the .................. . {=Afghan War}
+
+::U7L4Q22::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The .................... regime in Afghanistan supported Al-Qaeda.{=Taliban}
+
+::U7L4Q23::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>Osama bin Laden was the leader of the terrorist group .................. . {=Al-Qaeda}
+
+::U7L4Q24::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>.................... forces assisted the U.S. invasion of Afghanistan.{=Northern Alliance}
+
+::U7L4Q25::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The .................... provided legal basis for military action after 9/11.{=AUMF}
+
+::U7L4Q26::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>.................... was a prominent Northern Alliance military commander.{=Ahmad Shah Massoud}
+
+::U7L4Q27::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The U.S. prioritized the search for Osama bin .................. . {=Laden}
+
+::U7L4Q28::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The Taliban derived funding from .................... trade.{=opium}
+
+::U7L4Q29::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>The Taliban took advantage of weak .................... in rural areas.{=governance}
+
+::U7L4Q30::Fill in the blanks using the words in the brackets.<br>(havens – governance – opium – Laden – Ahmad Shah Massoud – AUMF – Northern Alliance – Al-Qaeda – Taliban – Afghan War)<br>Safe .................... in Pakistan helped the Taliban regroup.{=havens}
+
+::U7L4Q31::Choose the correct answer.<br>What terrorist organization was responsible for the 9/11 attacks?  {=Al-Qaeda ~Taliban ~Northern Alliance ~Hamas}
+
+::U7L4Q32::Choose the correct answer.<br>Who led the Northern Alliance?  {=Ahmad Shah Massoud ~Osama bin Laden ~Mullah Omar ~Hamid Karzai}
+
+::U7L4Q33::Choose the correct answer.<br>What legal document authorized military force after 9/11? {=AUMF ~Patriot Act ~Homeland Security Act ~Military Commissions Act}
+
+::U7L4Q34::Choose the correct answer.<br>What was the name of the U.S.-led invasion of Afghanistan in 2001?  {=Operation Enduring Freedom ~Operation New Dawn~Operation Iraqi Freedom ~Operation Desert Storm }
+
+::U7L4Q35::Choose the correct answer.<br>Who declared a national emergency after 9/11?  {=President George W. Bush ~Supreme Court~Department of Defense ~Congress }
+
+::U7L4Q36::Choose the correct answer.<br>What group took control of Afghanistan after the Taliban's defeat?  {=New Afghan Government ~Northern Alliance ~United Nations~Al-Qaeda }
+
+::U7L4Q37::Choose the correct answer.<br>Where did Taliban fighters find sanctuary after being overthrown? {=Pakistan ~Tajikistan~Saudi Arabia ~Iran }
+
+::U7L4Q38::Choose the correct answer.<br>What allowed the Taliban to finance their insurgency?  {=Drug trafficking ~Oil exports ~Ransom money ~Outside donations}
+
+::U7L4Q39::Choose the correct answer.<br>Which area did the Taliban focus on regaining control?  {=Rural areas ~Cities ~Border regions ~Highway system}
+
+::U7L4Q40::Choose the correct answer.<br>What eroded public trust in the new Afghan government? {=Governance issues ~Ties to the U.S.~Human rights abuses ~Fraudulent elections }
+
+::U7L4Q41::Answer the following questions.<br>What were the key objectives and motivations behind the U.S. invasion of Afghanistan?{=The key objectives were to overthrow the Taliban regime that was harboring al-Qaeda terrorists responsible for 9/11 attacks, deny al-Qaeda a safe haven in Afghanistan and prevent Afghanistan from again becoming a hub of transnational terrorism.}
+
+::U7L4Q42::Answer the following questions.<br>How did the Northern Alliance assist the U.S. in overthrowing the Taliban regime?{=The Northern Alliance provided key support on the ground, including intelligence and troops that worked with U.S. special forces and air power to quickly overthrow Taliban control.}
+
+::U7L4Q43::Answer the following questions.<br>Why was the Taliban able to regain strength and mount an insurgency after their initial defeat?{=The Taliban were able to regain strength due to ineffective post-invasion strategy, corruption in new Afghan government, safe havens in Pakistan, appeal among rural Pashtuns.}
+
+::U7L4Q44::Answer the following questions.<br>What role did Pakistan play in the Taliban's resurgence?{=Pakistan's intelligence service maintained ties to the Taliban and likely provided them with safe havens, strategic guidance and other support that aided their resurgence.}
+
+::U7L4Q45::Answer the following questions.<br>How did the Afghan government's limitations help give an opening for the Taliban to regain a foothold?{=The Afghan government failed to establish legitimacy and governance capacity across Afghanistan, leaving rural areas vulnerable to Taliban control and influence. Poor leadership and corruption were major issues.}
+
+::U7L4Q46::Answer the following questions.<br>What were some of the consequences or long-term impacts of the Afghan War on Afghanistan and the surrounding region?{=Consequences include over 100,000 civilians deaths, displacement of millions and continued instability that fuels extremism. The region remains volatile.}
+
+::U7L4Q47::Answer the following questions.<br>In what ways did the invasion and occupation fail to achieve the initial U.S. objectives in Afghanistan?{=The invasion failed to achieve long-term political stability and security in Afghanistan. Taliban remain powerful despite trillions spent on war and reconstruction.}
+
+::U7L4Q48::Answer the following questions.<br>How was the Taliban able to finance their insurgent activity?{=The Taliban financed operations through opium trade, extortion networks, outside donations, taxation in areas they controlled.}
+
+::U7L4Q49::Answer the following questions.<br>What parallels or contrasts do you see between the Soviet occupation of Afghanistan in the 1980s and the U.S. invasion and occupation after 2001?{=There are clear parallels - both conflicts saw superpowers stalled by rural Afghan insurgencies adept at guerrilla warfare. However, the U.S. brought more advanced technology and weaponry.}
+
+::U7L4Q50::Answer the following questions.<br>Could the outcome of the Afghan War have been different if certain strategies or decisions played out differently? If so, how?{=Different policy decisions regarding Pakistan's involvement, Afghan political leadership, pacing of reform, or allocation of reconstruction aid may have changed the trajectory. But success was very uncertain from the outset.}

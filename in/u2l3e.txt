@@ -1,0 +1,103 @@
+::U2L3Q1::Choose True or False.<br>Russia spans only the European continent.{F}
+
+::U2L3Q2::Choose True or False.<br>Lake Baikal is the deepest lake in the world.{T}
+
+::U2L3Q3::Choose True or False.<br>The West Siberian Plain has a mountainous landscape.{F}
+
+::U2L3Q4::Choose True or False.<br>The Volga River flows into the Black Sea.{F}
+
+::U2L3Q5::Choose True or False.<br>The Ural Mountains mark the border between Europe and Asia in Russia.{T}
+
+::U2L3Q6::Choose True or False.<br>Russia has a tropical climate.{F}
+
+::U2L3Q7::Choose True or False.<br>The Caucasus Mountains are located in southern Russia.{T}
+
+::U2L3Q8::Choose True or False.<br>Siberia is known for its hot temperatures.{F}
+
+::U2L3Q9::Choose True or False.<br>Russia has diverse ecosystems and wildlife.{T}
+
+::U2L3Q10::Choose True or False.<br>Lake Ladoga is the smallest lake in Russia.{F}
+
+::U2L3Q11::Complete the sentences with suitable words.<br>Spanning over 17 million square kilometers, Russia is the ........................ country in the world.{=largest}
+
+::U2L3Q12::Complete the sentences with suitable words.<br>Serving as a dividing line between European and Asian Russia are the .................................... .{=Ural Mountains}
+
+::U2L3Q13::Complete the sentences with suitable words.<br>Covering much of European Russia is the vast ........................ plain.{=Russian Plain}
+
+::U2L3Q14::Complete the sentences with suitable words.<br>Located in Siberia, ........................ is the deepest freshwater lake in the world.{=Baikal}
+
+::U2L3Q15::Complete the sentences with suitable words.<br>Flowing into the Caspian Sea is the mighty ........................ River.{=Volga}
+
+::U2L3Q16::Complete the sentences with suitable words.<br>The ........................ region of Russia has a harsh, frozen landscape.{=Arctic}
+
+::U2L3Q17::Complete the sentences with suitable words.<br>Rich in natural resources like oil and timber, Russia has a ........................ economy.{=mixed}
+
+::U2L3Q18::Complete the sentences with suitable words.<br>Cutting through the Russian Far East are the ........................ Mountains.{=Sikhote-Alin}
+
+::U2L3Q19::Complete the sentences with suitable words.<br>The large ........................ Sea borders Russia between Kazakhstan.{=Caspian}
+
+::U2L3Q20::Complete the sentences with suitable words.<br>With cold winters and mountainous terrain, much of Russia has a ........................ climate.{=subarctic}
+
+::U2L3Q21::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>Russia spans two continents - Europe and .................. .{=Asia}
+
+::U2L3Q22::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>Lake ................... is located in northwestern Russia and is the largest lake in Europe.{=Ladoga}
+
+::U2L3Q23::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>The ........................ Mountains stretch across western Russia and serve as a dividing line between Europe and Asia.{=Ural}
+
+::U2L3Q24::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>The West Siberian Plain contains valuable oil and ........................ reserves.{=natural gas}
+
+::U2L3Q25::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>The ................... Peninsula of Russia's far east contains many active volcanoes.{=Kamchatka}
+
+::U2L3Q26::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>The ................... tundra landscape covers Russia's frozen northern regions.{=arctic}
+
+::U2L3Q27::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>Russia has a ........................ economy with abundant natural resources.{=mixed}
+
+::U2L3Q28::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>The ........................ River flows northward through Siberia into the Arctic Ocean.{=Ob}
+
+::U2L3Q29::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>........................ winters in Siberia can be extremely cold.{=Siberian}
+
+::U2L3Q30::Fill in the blanks using the words in the brackets.<br>(biodiversity – Ob – arctic – natural gas – Ladoga – Siberian – mixed – Kamchatka – Ural – Asia)<br>Russia has established protected areas to conserve its natural .................. .{=biodiversity}
+
+::U2L3Q31::Choose the correct answer.<br>What is the world's deepest freshwater lake located in Russia?{=Lake Baikal~Lake Ladoga~Lake Onega~Lake Balkhash}
+
+::U2L3Q32::Choose the correct answer.<br>Which river serves as part of the border between Russia and China?{=Amur~Ob~Volga~Lena}
+
+::U2L3Q33::Choose the correct answer.<br>What landscape feature covers much of European Russia?{=Russian Plain~Caucasus Mountains~Central Siberian Plateau~West Siberian Plain}
+
+::U2L3Q34::Choose the correct answer.<br>What sea does the Volga River flow into?{=Caspian Sea~Sea of Japan~Baltic Sea~Black Sea}
+
+::U2L3Q35::Choose the correct answer.<br>What is the largest country in the world in terms of land area?{=Russia~China~Canada~United States}
+
+::U2L3Q36::Choose the correct answer.<br>What climate zone covers northern Russia and Siberia?{=Polar~Arid~Temperate~Tropical}
+
+::U2L3Q37::Choose the correct answer.<br>Which geographic feature serves as the traditional Europe-Asia border in Russia?{=Ural Mountains~Altai Mountains~Caucasus Mountains~Kamchatka Peninsula}
+
+::U2L3Q38::Choose the correct answer.<br>What unique water body is located between Kazakhstan and Russia?{=Caspian Sea~Kara Sea~White Sea~Sea of Okhotsk}
+
+::U2L3Q39::Choose the correct answer.<br>Which landform stretches across western Siberia?{=West Siberian Plain~Kolyma Lowland~Central Siberian Plateau~East Siberian Ranges}
+
+::U2L3Q40::Choose the correct answer.<br>What Russian city is situated on the Neva River?{=St. Petersburg~Perm~Vladivostok~Volgograd}
+
+::U2L3Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=West Siberian Plain->vast boreal forest=Volga River->flows into Caspian Sea=Lake Baikal->deepest freshwater lake=Caucasus Mountains->southern Russia=Yamal Peninsula->polar desert landscape}
+
+::U2L3Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Yenisei River->major Siberian river=Ural Mountains->Europe/Asia border=Russian Plain->covers western Russia=Taiga->across northern Russia=Subarctic climate->cold, long winters}
+
+::U2L3Q43::Answer the following questions.<br>How does Russia's vast size contribute to its diverse landscapes and climates?{=Russia's vast size, spanning across 11 time zones and two continents, contributes to its diverse landscapes and climates. The country stretches from the Arctic tundra in the north to the semi-arid steppes in the south and from the temperate forests in the west to the subarctic regions in the east, resulting in a wide range of ecosystems and climatic conditions.}
+
+::U2L3Q44::Answer the following questions.<br>What role have Russia's major rivers played throughout its history?{=Russia's major rivers, such as the Volga, Ob, Yenisei and Lena, have played a crucial role throughout its history. They served as vital transportation routes for trade and exploration, facilitated the movement of people and goods, and influenced the development of settlements along their banks. These rivers also provided water resources for agriculture and industry.}
+
+::U2L3Q45::Answer the following questions.<br>Why are the Ural Mountains considered a significant geographical feature?{=The Ural Mountains are considered a significant geographical feature because they serve as the natural boundary between Europe and Asia, dividing the European part of Russia from the Asian part. They are also rich in mineral resources, particularly iron ore, coal, and precious metals, contributing to Russia's industrial development.}
+
+::U2L3Q46::Answer the following questions.<br>What makes Siberia's climate and environment so extreme?{=Siberia's climate and environment are considered extreme due to its vast size, high latitudes, and continental climate. Temperatures can range from extremely cold in winter, with averages below -20°C, to hot summers in some regions. The presence of permafrost, a permanently frozen layer of soil, also contributes to the harsh conditions and unique ecosystems found in Siberia.}
+
+::U2L3Q47::Answer the following questions.<br>Why is Lake Baikal considered an ecological treasure for Russia?{=Lake Baikal, the world's deepest and oldest freshwater lake, is considered an ecological treasure for Russia due to its exceptional biodiversity and unique ecosystems. It contains about 20% of the world's unfrozen freshwater and is home to thousands of plant and animal species, many of which are endemic to the lake.}
+
+::U2L3Q48::Answer the following questions.<br>How have Russia's natural resources contributed to its economy and industry?{=Russia's natural resources, including vast reserves of oil, natural gas, coal, precious metals and timber, have significantly contributed to its economy and industry. The extraction and export of these resources have played a vital role in the country's economic development and have been a major source of revenue.}
+
+::U2L3Q49::Answer the following questions.<br>What environmental issues currently impact Russia?{=Some of the environmental issues currently impacting Russia include air and water pollution, deforestation, soil erosion, and the effects of climate change, such as melting permafrost and sea ice in the Arctic regions. Nuclear contamination from past accidents and improper waste disposal is also a concern in certain areas.}
+
+::U2L3Q50::Answer the following questions.<br>How does Russia's geography shape settlement patterns and population distribution?{=Russia's geography has shaped settlement patterns and population distribution, with the majority of the population concentrated in the European part of the country and along major rivers and transportation routes. The harsh climatic conditions and remoteness of many regions, particularly in Siberia and the Far East, have contributed to lower population densities in these areas.}
+
+::U2L3Q51::Answer the following questions.<br>What opportunities exist for Russia to develop tourism based on its natural assets?{=Russia possesses significant opportunities for developing tourism based on its natural assets, such as its diverse landscapes, vast wilderness areas, and unique ecosystems. Potential areas for tourism development include eco-tourism, adventure tourism, cultural tourism in remote regions and Arctic tourism, including Northern Lights viewing.}
+
+::U2L3Q52::Answer the following questions.<br>How might climate change alter Russia's Arctic regions in the future?{=Climate change is expected to have a significant impact on Russia's Arctic regions in the future. Potential effects include the melting of sea ice and permafrost, which could lead to coastal erosion, infrastructure damage, and the release of methane from thawing permafrost. However, it may also open up new shipping routes and opportunities for resource exploration in the Arctic.}

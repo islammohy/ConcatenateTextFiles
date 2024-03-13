@@ -1,0 +1,103 @@
+::U2L2Q1::Choose True or False.<br>The Kievan Rus was established in the 10th century.{F}
+
+::U2L2Q2::Choose True or False.<br>The Mongol Empire had little impact on Russian culture and governance.{F}
+
+::U2L2Q3::Choose True or False.<br>Ivan the Terrible assumed the title of Tsar in the 17th century.{F}
+
+::U2L2Q4::Choose True or False.<br>Russia sold Alaska to the United States in 1867.{T}
+
+::U2L2Q5::Choose True or False.<br>The Soviet Union consisted of only Russia and Ukraine.{F}
+
+::U2L2Q6::Choose True or False.<br>Joseph Stalin was the first leader of the Soviet Union.{F}
+
+::U2L2Q7::Choose True or False.<br>The Soviet Union made no significant cultural contributions.{F}
+
+::U2L2Q8::Choose True or False.<br>Mikhail Gorbachev implemented reforms called glasnost and perestroika.{T}
+
+::U2L2Q9::Choose True or False.<br>The Soviet Union dissolved in 1991.{T}
+
+::U2L2Q10::Choose True or False.<br>Belarus became the successor state to the Soviet Union.{F}
+
+::U2L2Q11::Complete the sentences with suitable words.<br>The Kievan Rus was a medieval state centered around the city of ................................. .{=Kyiv (modern-day Ukraine)}
+
+::U2L2Q12::Complete the sentences with suitable words.<br>In the 13th century, the Mongol Empire conquered parts of Russia in a period known as the ................... .{=Mongol Yoke}
+
+::U2L2Q13::Complete the sentences with suitable words.<br>................... emerged as a powerful Russian state in the late medieval period.{=The principality of Muscovy (Moscow)}
+
+::U2L2Q14::Complete the sentences with suitable words.<br>….................... expanded Russia's borders to the Baltic region and made St. Petersburg the new capital.{=Peter the Great}
+
+::U2L2Q15::Complete the sentences with suitable words.<br>In 1867, Russia sold the territory of ..................... to the United States.{=Alaska}
+
+::U2L2Q16::Complete the sentences with suitable words.<br>The Soviet Union broke apart in December 1991, marking its official ….................. .{=dissolution}
+
+::U2L2Q17::Complete the sentences with suitable words.<br>......................, led by Vladimir Lenin, overthrew the Russian government in 1917.{=Bolsheviks}
+
+::U2L2Q18::Complete the sentences with suitable words.<br>The Soviet Union consisted of multiple …….................... across Eurasia.{=Soviet republics}
+
+::U2L2Q19::Complete the sentences with suitable words.<br>Reforms under Gorbachev included ....................... and perestroika (restructuring).{=glasnost (openness)}
+
+::U2L2Q20::Complete the sentences with suitable words.<br>…….................. became the successor state and inherited the Soviet Union's UN Security Council seat.{=Russia}
+
+::U2L2Q21::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>The medieval state centered around Kyiv was called the ........................ .{=Kievan Rus}
+
+::U2L2Q22::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>Much of Russia was conquered by the ........................ Empire led by Genghis Khan.{=Mongol}
+
+::U2L2Q23::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>Ivan the Terrible expanded the territory of the principality of ........................ .{=Muscovy}
+
+::U2L2Q24::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>St. Petersburg became the new capital under ........................ the Great.{=Peter}
+
+::U2L2Q25::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>The ........................ purchased Alaska from Russia in 1867.{=United States}
+
+::U2L2Q26::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>The Soviet Union was established following the 1917 ........................ Revolution.{=Russian}
+
+::U2L2Q27::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>........................ was the largest ethnic group in the Soviet Union.{=Russians}
+
+::U2L2Q28::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>Mikhail Gorbachev's reforms included glasnost and ........................ .{=perestroika}
+
+::U2L2Q29::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>The Soviet Union broke up into 15 ........................ states.{=independent}
+
+::U2L2Q30::Fill in the blanks using the words in the brackets.<br>(Russia – perestroika – Russian – Peter – Mongol – independent – Russians – United States – United States – Muscovy – Kievan Rus)<br>........................ became the successor state to the Soviet Union.{=Russia}
+
+::U2L2Q31::Choose the correct answer.<br>When was the Kievan Rus established?{=9th century~10th century~8th century~7th century}
+
+::U2L2Q32::Choose the correct answer.<br>Which leader of the Mongol Empire conquered parts of Russia?{=Genghis Khan~Napoleon Bonaparte~Otto von Bismarck~Attila the Hun}
+
+::U2L2Q33::Choose the correct answer.<br>Who was the first Russian ruler to take on the title of Tsar?{=Ivan the Terrible~Peter the Great~Catherine the Great~Alexander II}
+
+::U2L2Q34::Choose the correct answer.<br>What territory did Russia sell to the U.S. in 1867?{=Alaska~California~Louisiana~Florida}
+
+::U2L2Q35::Choose the correct answer.<br>Which was NOT a Soviet Republic?{=Poland~Kazakhstan~Latvia~Ukraine}
+
+::U2L2Q36::Choose the correct answer.<br>Who was the first leader of the Soviet Union?{=Lenin~Stalin~Khrushchev ~Gorbachev}
+
+::U2L2Q37::Choose the correct answer.<br>Which cultural field did the Soviet Union NOT make contributions to?{=None of the options~Film~Painting~Literature}
+
+::U2L2Q38::Choose the correct answer.<br>What reforms did Gorbachev implement?{=Perestroika and glasnost~Shock therapy and privatization~Collectivization and industrialization~De-Stalinization and detente}
+
+::U2L2Q39::Choose the correct answer.<br>When did the Soviet Union dissolve?{=1991~1992~1990~1989}
+
+::U2L2Q40::Choose the correct answer.<br>Which became the successor state to the Soviet Union?{=Russia~Kazakhstan~Belarus~Ukraine}
+
+::U2L2Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Genghis Khan->Mongol Invasion=Ivan the Terrible->Took title of Tsar=Peter the Great->Baltic Expansion}
+
+::U2L2Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=United States->Alaska Purchase=Vladimir Lenin->Soviet Founding=Mikhail Gorbachev->Glasnost and Perestroika}
+
+::U2L2Q43::Answer the following questions.<br>What were some key factors that contributed to the expansion of Russia throughout its history?{=Some key factors that contributed to the expansion of Russia included its vast geographic size, ambitions of rulers like Ivan the Terrible and Peter the Great, natural resources that supported economic growth, and strategic imperatives around security, access to warm-water ports and access to trade routes.}
+
+::U2L2Q44::Answer the following questions.<br>How did the Mongol invasion impact Russia's culture and governance over the long-term?{=The Mongol invasion had a significant impact on Russia's culture and governance. The period of Mongol rule delayed Russia's ties with the West, increased Oriental influences, centralized state power and impacted the Russian economy for centuries. The Mongol Yoke left a legacy of authoritarian rule.}
+
+::U2L2Q45::Answer the following questions.<br>What were some significant consequences of the breakup of the Soviet Union in 1991?{=Significant consequences of the 1991 Soviet collapse included the transition to capitalism and democracy in former Soviet states, economic shock therapy policies, tensions around nationality and ethnic conflicts, migration issues and the emergence of an oligarch class. It also led to Russia losing its superpower status.}
+
+::U2L2Q46::Answer the following questions.<br> What core ideological principles guided the founding of the Soviet Union?{=Core ideological principles that guided the Soviet Union's founding included Marxism-Leninism, anti-capitalism and opposition to market economies, state control of production and the concept of a one-party socialist state. Equal rights to work and leisure, social services provisions and communist morality were also key principles.}
+
+::U2L2Q47::Answer the following questions.<br>How did Soviet policies influence culture, religion, ethnic tensions and daily life for its citizens?{=Soviet policies influenced nearly all aspects of citizens' lives - from choices in education, jobs, information access, creative expression, religion, travel and emigration options to exposure to Western culture and economic goods. Policies led to repression of certain ethnic and religious groups. Daily life involved shortages, long queues and rationing.}
+
+::U2L2Q48::Answer the following questions.<br>What led to the downfall of the Soviet system under Gorbachev?{=Key reasons for the Soviet system's downfall under Gorbachev included economic stagnation, unsustainable defense spending, rising nationalism in Soviet republics and glasnost policies that led people to question one-party authoritarian rule once censorship lightened. The Chernobyl disaster also eroded public trust.}
+
+::U2L2Q49::Answer the following questions.<br>Why was the Russian Revolution of 1917 a pivotal moment in 20th century history?{=The Russian Revolution was pivotal for ending the tsarist regime, the rise of the world’s first communist state, and the emergence of the Soviet Union as a global superpower that shaped 20th century geopolitics. It sparked communist movements across the world and formation of the Eastern Bloc.}
+
+::U2L2Q50::Answer the following questions.<br>What distinguishing features - political, cultural, geographical - defined the Soviet Union as a global power during the 20th century?{=As a 20th century global superpower, the Soviet Union was defined by features like its Marxist-Leninist one-party political structure, socialist economic system, highly centralized planning, sprawling geographic territory across Eurasia, military strength, scientific and technological innovations, space program achievements and an alternative development model to Western liberal democracies.}
+
+::U2L2Q51::Answer the following questions.<br>How does Russia's historical legacy of territorial expansion and occupation still impact regional politics today?{=Russia's legacy of territorial occupation and forced Russification of areas like Ukraine, Central Asia and the Caucasus sow ongoing tensions following the Soviet collapse. This shapes regional alliances, fears of renewed Russian imperialism under Putin and conflicts around nationality and separatist movements.}
+
+::U2L2Q52::Answer the following questions.<br>What parallels, if any, are there between Russian imperialism under the Tsars and Soviet policies toward satellite states during the Cold War era?{=Parallels between Russian imperial and Soviet policies include motives to expand territorial control over neighboring lands and gain access to resources and warm-water ports, efforts to spread political and cultural influence over subjugated groups, policies forcing minority groups to assimilate and adopt the Russian language and highly centralized authoritarian models of governance.}

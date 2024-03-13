@@ -1,0 +1,104 @@
+::U3L2Q1::Choose True or False.<br>Fossil fuels like coal and oil are considered renewable resources.{F}
+
+::U3L2Q2::Choose True or False.<br>Solar energy relies on an abundant and inexhaustible resource: the sun.{T}
+
+::U3L2Q3::Choose True or False.<br>Hydropower plants use turbines to convert kinetic energy into heat.{F}
+
+::U3L2Q4::Choose True or False.<br>Wind energy produces air and water pollution.{F}
+
+::U3L2Q5::Choose True or False.<br>Geothermal energy harness the Earth's internal heat to produce electricity.{T}
+
+::U3L2Q6::Choose True or False.<br>Crude oil is primarily used for transportation and manufacturing.{T}
+
+::U3L2Q7::Choose True or False.<br>Natural gas produces more greenhouse gases than other fossil fuels when combusted.{F}
+
+::U3L2Q8::Choose True or False.<br>Coal combustion does not release any air pollutants.{F}
+
+::U3L2Q9::Choose True or False.<br>Uranium is used as fuel in nuclear power plants.{T}
+
+::U3L2Q10::Choose True or False.<br>Flow resources cannot be depleted through human use.{T}
+
+::U3L2Q11::Complete the sentences with suitable words.<br>Crude oil is extracted from underground reservoirs and refined into products like gasoline and ........................ .{=diesel}
+
+::U3L2Q12::Complete the sentences with suitable words.<br>Wind turbines convert the ......................................... of wind into electricity using blades and a generator.{=kinetic energy}
+
+::U3L2Q13::Complete the sentences with suitable words.<br>Solar energy is considered ........................................ because it produces no greenhouse gases.{=environmentally friendly}
+
+::U3L2Q14::Complete the sentences with suitable words.<br>.................................... helps reduce reliance on finite resources like fossil fuels.{=Renewable energy}
+
+::U3L2Q15::Complete the sentences with suitable words.<br>................................ allow remote sensing of resources and minimizing ecological disruptions.{=Sustainable technologies}
+
+::U3L2Q16::Complete the sentences with suitable words.<br>Electricity generation and industrial processes widely use ..........................................  .{=fossil fuels like coal}
+
+::U3L2Q17::Complete the sentences with suitable words.<br>............................... are a transition away from higher emission fossil fuels like coal.{=Natural gases}
+
+::U3L2Q18::Complete the sentences with suitable words.<br>........................... are the remains of organisms compressed over millions of years into fuel.{=Fossil fuels}
+
+::U3L2Q19::Complete the sentences with suitable words.<br>...................... are continuously replenished resources like sunlight and geothermal heat.{=Inexhaustible resources}
+
+::U3L2Q20::Complete the sentences with suitable words.<br>Unlike fossil fuels, ......................... does not emit greenhouse gases while operating.{=nuclear energy}
+
+::U3L2Q21::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>........................ energy comes from the kinetic power of wind, which turns blades to spin a rotor.{=wind}
+
+::U3L2Q22::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>Solar panels convert sunlight into ........................ by dislodging electrons from atoms.{=electricity}
+
+::U3L2Q23::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>................... energy uses heat from hot underground reservoirs to produce electricity.{=Geothermal}
+
+::U3L2Q24::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>................... energy relies on the Earth's natural tides and tidal currents.{=Tidal}
+
+::U3L2Q25::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>................... is a renewable resource that comes from plants and organic waste.{=Biomass}
+
+::U3L2Q26::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>Fossil fuels like coal and oil are .................................., meaning they cannot be readily replaced.{=non-renewable}
+
+::U3L2Q27::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>........................ is the process used to improve the yield and quality of crude oil.{=Refining}
+
+::U3L2Q28::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>The main element used to fuel nuclear fission in reactors is ........................ .{=uranium}
+
+::U3L2Q29::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>................... release the most greenhouse gases when combusted for energy.{=Coal}
+
+::U3L2Q30::Fill in the blanks using the words in the brackets.<br>(Renewable resources – uranium – non-renewable – Tidal – electricity – Coal – Refining – Biomass – Geothermal – wind)<br>.................................. are replenished naturally and are considered sustainable.{=Renewable resources}
+
+::U3L2Q31::Choose the correct answer.<br>Which of the following is an example of a non-renewable resource?{=Uranium~Biomass~Sunlight~Wind}
+
+::U3L2Q32::Choose the correct answer.<br>What technology is used to convert the kinetic energy in wind into electricity?{=Wind turbines~Solar cells~Tidal turbines~Geothermal plants}
+
+::U3L2Q33::Choose the correct answer.<br>Which fossil fuel is found in underground reservoirs and refined into gasoline?{=Crude oil~Uranium~Coal~Natural gas}
+
+::U3L2Q34::Choose the correct answer.<br>Which energy source uses heat from the Earth's mantle and core?{=Geothermal~Biomass~Hydropower~Solar}
+
+::U3L2Q35::Choose the correct answer.<br>Which energy source relies on plant matter that was compressed over millions of years?{=Coal~Nuclear~Crude oil~Natural gas}
+
+::U3L2Q36::Choose the correct answer.<br>Which greenhouse gas is primarily released from the combustion of fossil fuels?{=Carbon dioxide~Ozone~Carbon monoxide~Methane}
+
+::U3L2Q37::Choose the correct answer.<br>Which element serves as the primary fuel source in nuclear power plants?{=Uranium~Radium~Thorium~Plutonium}
+
+::U3L2Q38::Choose the correct answer.<br>Which energy source relies on the Earth's natural tidal currents?{=Tidal~Solar~Biomass~Geothermal}
+
+::U3L2Q39::Choose the correct answer.<br>Which energy source relies on ancient plant and animal remains underground?{=Fossil fuels~Hydroelectric~Wind~Solar}
+
+::U3L2Q40::Choose the correct answer.<br>Which energy source is generated from flowing water and rivers?{=Hydroelectric~Biomass~Geothermal~Tidal}
+
+::U3L2Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Coal->Solid fossil fuel from compressed plant matter=Crude oil->Liquid petroleum extracted and refined into various fuels=Natural gas->Primary composed of methane gas found in reservoirs=Wind turbines->Convert kinetic wind energy into electricity=Solar panels->Convert sunlight into electric current using PV cells}
+
+::U3L2Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Geothermal plants->Use heat from the Earth's core to make electricity=Uranium->Primary nuclear fuel used in fission reactions=Biomass->Renewable fuel from organic plant and waste matter=Hydroelectric dams->Use flowing water's kinetic energy for power=Tidal energy->Power from ocean tides moving turbines}
+
+::U3L2Q43::Answer the following questions.<br>Why are fossil fuels like coal considered nonrenewable resources?{=Fossil fuels like coal are considered non-renewable resources because they are formed from the remains of ancient plants and animals that were subjected to intense heat and pressure over millions of years. These resources are finite and cannot be replenished at a rate comparable to their consumption.}
+
+::U3L2Q44::Answer the following questions.<br>What are some pros and cons of using crude oil as an energy source?{=Pros of using crude oil as an energy source include its high energy density, widespread availability and established infrastructure for extraction, transportation and refining. Cons include its non-renewable nature, contribution to greenhouse gas emissions and climate change, environmental risks from spills and air pollution from combustion.}
+
+::U3L2Q45::Answer the following questions.<br>How does hydraulic fracturing enable greater fossil fuel extraction and what are some concerns associated with this practice?{=Hydraulic fracturing, or fracking, involves injecting a high-pressure mixture of water, sand and chemicals into rock formations to create fractures and extract trapped oil and natural gas. It has enabled greater extraction of fossil fuels from previously inaccessible reserves. However, concerns include potential water contamination, induced seismic activity and air pollution from the release of methane and other pollutants.}
+
+::U3L2Q46::Answer the following questions.<br>Why are renewable energy sources generally considered more sustainable than fossil fuels?{=Renewable energy sources like solar, wind and hydroelectric power are generally considered more sustainable than fossil fuels because they rely on replenishable resources and produce little to no greenhouse gas emissions or air pollution during operation.}
+
+::U3L2Q47::Answer the following questions.<br>What technologies are allowing greater adoption of renewable power sources?{=Technologies enabling greater adoption of renewable power sources include improved solar panel efficiency and manufacturing, advanced wind turbine designs, better energy storage systems (batteries, pumped hydro, etc.) and smart grid technologies for integrating intermittent renewable sources into the electricity grid.}
+
+::U3L2Q48::Answer the following questions.<br>How is technology enabling more responsible and sustainable management of nonrenewable mineral resources?{=Technology is enabling more responsible and sustainable management of non-renewable mineral resources through improved exploration techniques, more efficient mining and processing methods and advanced recycling and waste management practices.}
+
+::U3L2Q49::Answer the following questions.<br>What are some of the environmental concerns related to coal power and why is it declining in many countries?{=Some environmental concerns related to coal power include air pollution (particulate matter, sulfur dioxide, nitrogen oxides), greenhouse gas emissions contributing to climate change, water pollution from mining and waste disposal and land disturbance from surface mining. Many countries are phasing out coal power due to these concerns and the availability of cleaner energy alternatives.}
+
+::U3L2Q50::Answer the following questions.<br>Why is natural gas considered a "transition" fuel? What role might it play in the global shift towards renewable energy?{=Natural gas is considered a "transition" fuel because it produces fewer greenhouse gas emissions and air pollutants than coal or oil when combusted. It could play a role in the transition towards renewable energy by replacing more polluting fossil fuels in the short to medium term, while renewable sources are scaled up.}
+
+::U3L2Q51::Answer the following questions.<br>What are some arguments for and against expanding nuclear power generation?{=Arguments for expanding nuclear power generation include its low greenhouse gas emissions, reliable baseload power generation and high energy density. Arguments against include concerns over radioactive waste disposal, potential accidents, nuclear proliferation risks and high upfront construction costs.}
+
+::U3L2Q52::Answer the following questions.<br>How could inexhaustible renewable "flow" resources like sunlight meet a greater portion of global energy demand in the coming decades?{=Inexhaustible renewable "flow" resources like sunlight could meet a greater portion of global energy demand in the coming decades through continued technological advancements and scaling up of solar photovoltaic and concentrated solar power systems. Other renewable flow resources like wind, hydroelectric and geothermal power could also contribute significantly, especially when combined with improved energy storage solutions and grid modernization.}
+

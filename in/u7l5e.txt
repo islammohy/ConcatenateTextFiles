@@ -1,0 +1,99 @@
+::U7L5Q1::Choose True or False.<br>The 1990-1991 Gulf War resulted in Iraq's unconditional surrender. {F}
+
+::U7L5Q2::Choose True or False.<br>Iraq invaded Kuwait in 1991, triggering the Gulf War. {F}
+
+::U7L5Q3::Choose True or False.<br>The U.S. suspected Iraq had chemical and biological weapons.  {T}
+
+::U7L5Q4::Choose True or False.<br>The U.S. sought and obtained explicit UN Security Council authorization for the invasion.  {F}
+
+::U7L5Q5::Choose True or False.<br>Coalition forces faced no armed resistance after toppling Saddam Hussein.  {F}
+
+::U7L5Q6::Choose True or False.<br>Iraq's alleged possession of WMDs was later verified.  {F}
+
+::U7L5Q7::Choose True or False.<br>The initial invasion phase relied on overwhelming force for shock and awe.  {T}
+
+::U7L5Q8::Choose True or False.<br>The UK Chilcot Report was critical of Tony Blair's relationship with George W. Bush.  {T}
+
+::U7L5Q9::Choose True or False.<br>The insurgency targeted only U.S. forces. {F}
+
+::U7L5Q10::Choose True or False.<br>Iraq today is a peaceful democratic state. {F}
+
+::U7L5Q11::Complete the sentences with suitable words.<br>Iraq's 1990 invasion of Kuwait triggered the 1991 Gulf .................. .{=Gulf War}
+
+::U7L5Q12::Complete the sentences with suitable words.<br>The U.S. cited Iraq's suspected ................... of mass destruction as a key reason for invasion.{=possession}
+
+::U7L5Q13::Complete the sentences with suitable words.<br>UN Resolution 1441 demanded Iraq's full ................... with disarmament in late 2002.{=compliance}
+
+::U7L5Q14::Complete the sentences with suitable words.<br>The initial success of U.S. forces led President Bush to prematurely declare ................... in May 2003.{=victory}
+
+::U7L5Q15::Complete the sentences with suitable words.<br>The failure to ensure post-invasion ................... and governance contributed to years of conflict.{=security}
+
+::U7L5Q16::Complete the sentences with suitable words.<br>Sectarian clashes and attacks by ................... groups destabilized Iraq after Hussein's fall.{=insurgent}
+
+::U7L5Q17::Complete the sentences with suitable words.<br>The 2016 Chilcot Report in the UK issued ................... findings regarding Britain's decision to join the invasion.{=critical}
+
+::U7L5Q18::Complete the sentences with suitable words.<br>The absence of UN ................... for the invasion has led to ongoing controversy.{=authorization}
+
+::U7L5Q19::Complete the sentences with suitable words.<br>The inability to confirm Iraq's ................... of WMDs undermined the rationale given for war.{=possession}
+
+::U7L5Q20::Complete the sentences with suitable words.<br>Instability and violence in Iraq ................... many years after the 2003 invasion.{=persisted}
+
+::U7L5Q21::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Iraq was required to comply with UN ................... following the 1991 Gulf War. {=War}
+
+::U7L5Q22::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Inspectors sought to verify Iraq's ................... of weapons of mass destruction. {=possession}
+
+::U7L5Q23::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Following 9/11, the U.S. focused on combating ................... and hostile states. {=compliance}
+
+::U7L5Q24::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>The U.S. assembled a ................... of nations to support invading Iraq. {=victory}
+
+::U7L5Q25::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Initial optimism faded as Iraq experienced a violent .................. . {=insurgency}
+
+::U7L5Q26::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>The Chilcot Report was highly ................... of the UK government.{=critical}
+
+::U7L5Q27::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Bush declared major combat operations ................... in May 2003. {=over}
+
+::U7L5Q28::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Use of overwhelming ................... was central to "shock and awe." {=force}
+
+::U7L5Q29::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>Sectarian ................... between Sunnis and Shias helped fuel instability. {=violence}
+
+::U7L5Q30::Fill in the blanks using the words in the brackets.<br>(discovered – violence – force – over – critical – insurgency – victory – compliance – possession – War)<br>The absence of WMDs in Iraq was ................... after the invasion. {=discovered}
+
+::U7L5Q31::Choose the correct answer.<br>What prompted the 1991 Gulf War?  {=Iraq's invasion of Kuwait ~Iraq's use of chemical weapons ~The 9/11 terrorist attacks~Iraq's invasion of Saudi Arabia }
+
+::U7L5Q32::Choose the correct answer.<br>What justification did the U.S. initially cite for invading Iraq in 2003?  {=Weapons of mass destruction~Territorial expansion~Terrorist ties ~Human rights }
+
+::U7L5Q33::Choose the correct answer.<br>Who led the UN weapons inspections in Iraq in early 2003?  {=Hans Blix and Mohamed ElBaradei ~Saddam Hussein~George W. Bush ~Tony Blair }
+
+::U7L5Q34::Choose the correct answer.<br>What strategy did the U.S. use to rapidly topple Saddam Hussein's regime?  {=Shock and awe ~Targeted strikes~Aid and assistance ~Diplomatic negotiations }
+
+::U7L5Q35::Choose the correct answer.<br>Who governed Iraq during the post-invasion occupation period?  {=The Coalition Provisional Authority ~The Iraqi Governing Council~NATO forces ~The U.N. }
+
+::U7L5Q36::Choose the correct answer.<br>What fueled the insurgency against coalition forces after the invasion?   {=All of the options ~Sectarian divisions ~Baathist loyalists ~Kurdish rebels }
+
+::U7L5Q37::Choose the correct answer.<br>What conclusion did the Chilcot Report reach regarding the UK's decision to go to war?  {=It was not the last resort~It enjoyed full UN support ~All peaceful options were exhausted ~It was legally justified }
+
+::U7L5Q38::Choose the correct answer.<br>The absence of post-invasion planning contributed to what outcome?  {=Insurgency and instability ~Reconstruction projects~Economic growth ~Democratic reforms }
+
+::U7L5Q39::Choose the correct answer.<br>Who criticized Tony Blair's relationship with George W. Bush?  {=The Chilcot Report ~Conservative MPs~American liberals ~The UN Secretary General }
+
+::U7L5Q40::Choose the correct answer.<br>What criticism has the war sparked regarding legality? {=It lacked UN Security Council authorization ~It violated US-Iraq agreements~It lacked Congressional approval ~It violated NATO guidelines }
+
+::U7L5Q41::Answer the following questions.<br>What were the key factors that led to the 2003 invasion of Iraq?{=Key factors that led to the 2003 invasion of Iraq included: Saddam Hussein's perceived possession of weapons of mass destruction (WMDs); his violation of UN Security Council resolutions and weapons inspections regimes; allegations he supported terrorists and posed a threat beyond his borders; the desire to spread democracy in the Middle East; Iraq's oil reserves; and a personal animosity toward Saddam held by key American officials.}
+
+::U7L5Q42::Answer the following questions.<br>How did 9/11 and the "War on Terror" impact the decision to invade Iraq?{=9/11 dramatically shaped the War on Terror, making the U.S. more aggressive toward perceived extremist threats abroad. Though no link was found between Iraq and 9/11, policymakers used terrorism concerns and the post-9/11 political climate to help justify action against Iraq as part of the War on Terror.}
+
+::U7L5Q43::Answer the following questions.<br>What evidence did inspectors find regarding Iraq's weapons programs leading up to the war? What was the controversy regarding this issue?{=UN weapons inspectors ultimately found no stockpiles of WMDs in Iraq leading up to 2003. However, Iraq was criticized for falling short of transparency benchmarks about past WMD programs. The failure to locate active WMD stockpiles fueled controversy about the accuracy and appropriateness of pre-war intelligence regarding Iraq's capabilities.}
+
+::U7L5Q44::Answer the following questions.<br>What strategies and tactics were involved in the initial invasion of Iraq by U.S.-led forces? What was "shock and awe"?{=The initial invasion involved a massive bombing campaign ("shock and awe") followed by a multi-pronged ground assault with coalition troops moving swiftly from Kuwait toward Baghdad. U.S. technological and force superiority allowed for the quick takedown of Iraqi defenses and infrastructure.}
+
+::U7L5Q45::Answer the following questions.<br>What happened in Iraq after Saddam Hussein's regime was toppled? What post-invasion challenges emerged?{=Following the fall of Saddam's regime, a power vacuum, instability and a lack of security emerged, along with sectarian divisions and violence. This was exacerbated by controversies like the Abu Ghraib scandal and policy missteps made by the Coalition Provisional Authority.}
+
+::U7L5Q46::Answer the following questions.<br>Why did an insurgency emerge following the fall of Saddam Hussein? Who was involved and what tactics did they use?{=Various Iraqi groups resentful of foreign occupation and newly ascendant political rivals launched an insurgency campaign involving guerrilla assaults, suicide bombings, kidnappings and more. Key insurgent groups included al-Qaeda in Iraq, former Baath party loyalists, Shiite militias and Sunni tribes.}
+
+::U7L5Q47::Answer the following questions.<br>Summarize the purpose, key findings and criticisms contained in the United Kingdom's Chilcot Report.{=The UK's Chilcot Inquiry criticized flawed pre-war intelligence, unsatisfactory legal justifications, poor post-invasion planning and Tony Blair's commitment to invade Iraq before peaceful options were exhausted. It did not ascribe bad faith but faulted Blair's judgment.}
+
+::U7L5Q48::Answer the following questions.<br>What factors made the 2003 Iraq War highly controversial internationally?{=Controversies included faulty WMD evidence, insufficient UN approval, lack of proof linking Iraq to terrorism, significantly higher than expected casualties, damage to US/UK credibility and the perception that oil interests and imperialism were central motivators.}
+
+::U7L5Q49::Answer the following questions.<br>How did the failure to locate WMDs in Iraq affect the political debate about the invasion?{=The failure to locate WMD stockpiles undermined the credibility of invasion supporters by eliminating what was for many the most compelling stated reason for war. This heightened criticism that alternative motives were behind the invasion decision.}
+
+::U7L5Q50::Answer the following questions.<br>More than 15 years later, what is the current situation today in Iraq regarding governance, security, economy and reconstruction?{=Present-day Iraq continues to suffer from political instability, economic troubles, corruption issues and security threats from Islamic State holdouts and sectarian militias. However, its military has regained some strength and ISIS territorial control has been nearly eliminated. Democratic governance persists despite weaknesses. Reconstruction efforts have had mixed results so far.}

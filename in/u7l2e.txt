@@ -1,0 +1,99 @@
+::U7L2Q1::Choose True or False.<br>The Iraq-Iran War lasted for over a decade. {T}
+
+::U7L2Q2::Choose True or False.<br>Iraq invaded Iran due to border disputes and alleged provocations.  {T}
+
+::U7L2Q3::Choose True or False.<br>Iran made early territorial gains in the war before it settled into a stalemate. {F}
+
+::U7L2Q4::Choose True or False.<br>The UN brokered a ceasefire agreement to end the Iraq-Iran War.  {T}
+
+::U7L2Q5::Choose True or False.<br>The war had no significant economic impact on either country. {F}
+
+::U7L2Q6::Choose True or False.<br>Iraq emerged from the war with enhanced political stability. {F}
+
+::U7L2Q7::Choose True or False.<br>The Gulf War started due to Iraq's invasion of Saudi Arabia.  {F}
+
+::U7L2Q8::Choose True or False.<br>A US-led coalition liberated Kuwait from Iraqi forces.  {T}
+
+::U7L2Q9::Choose True or False.<br>The Gulf War resulted in heavy damage to Iraq's infrastructure. {T}
+
+::U7L2Q10::Choose True or False.<br>UN sanctions on Iraq were lifted soon after ceasefire.  {F}
+
+::U7L2Q11::Complete the sentences with suitable words.<br>The longstanding rivalry between Iraq and Iran was exacerbated by .................... over the Shatt al-Arab waterway. {=territorial disputes}
+
+::U7L2Q12::Complete the sentences with suitable words.<br>In September 1980, Iraq launched a surprise ................... of Iran, leading to the outbreak of war. {=invasion}
+
+::U7L2Q13::Complete the sentences with suitable words.<br>The Iraq-Iran War settled into a brutal deadlock as neither side could make .................... and use gains. {=decisive proliferation}
+
+::U7L2Q14::Complete the sentences with suitable words.<br>The use of chemical weapons highlighted the need to address the .................... and use of such arms. {=economic warfare }
+
+::U7L2Q15::Complete the sentences with suitable words.<br>Iraq claimed that Kuwait's economic policies amounted to ................... .  {=coalition}
+
+::U7L2Q16::Complete the sentences with suitable words.<br>A US-led .................. was assembled to oust Iraqi forces from Kuwait. {=Desert}
+
+::U7L2Q17::Complete the sentences with suitable words.<br>The initial phase of coalition deployment was known as Operation ................... .{=Shield}
+
+::U7L2Q18::Complete the sentences with suitable words.<br>Iraq's .................... from Kuwait marked a key turning point in the Gulf War.{=liberation }
+
+::U7L2Q19::Complete the sentences with suitable words.<br>The Gulf War left a legacy of ......................................... in the region.{=unresolved issues }
+
+::U7L2Q20::Complete the sentences with suitable words.<br>The UN ..................... had severe economic impacts on Iraq over time. {=sanctions}
+
+::U7L2Q21::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>The Iraq-Iran War was one of the longest and .................... conflicts of the 20th century. {=deadliest }
+
+::U7L2Q22::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>Territorial disputes over the .................... waterway contributed to tensions before the war. {=Shatt al-Arab }
+
+::U7L2Q23::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>Iraq cited alleged .................... by Iran as a pretext for invasion. {=Provocations}
+
+::U7L2Q24::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>The war saw extensive use of ......................................., causing immense suffering. {=chemical weapons}
+
+::U7L2Q25::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>A UN-brokered .................... brought the Iraq-Iran War to an end in 1988.{=ceasefire }
+
+::U7L2Q26::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>The Gulf War started with Iraq's invasion and occupation of .................... .  {=Kuwait}
+
+::U7L2Q27::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>The US assembled a .................... of nations to liberate Kuwait. {=Coalition}
+
+::U7L2Q28::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>Operation Desert .................... marked the start of the Gulf War air campaign. {=Storm}
+
+::U7L2Q29::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>Iraq's invasion was met with widespread .................... condemnation. {=international }
+
+::U7L2Q30::Fill in the blanks using the words in the brackets.<br>(sanctions – international – Storm – Coalition – Kuwait – ceasefire – chemical weapons – Provocations – Shatt al-Arab – deadliest)<br>The Gulf War had consequences including economic .................... on Iraq. {=sanctions}
+
+::U7L2Q31::Choose the correct answer.<br>What waterway formed part of the border dispute between Iraq and Iran?  {=Shatt al-Arab ~Karun River~Euphrates River ~Tigris River }
+
+::U7L2Q32::Choose the correct answer.<br>Which country provided military support to Iran during the war? {=Soviet Union ~France ~Kuwait~United States }
+
+::U7L2Q33::Choose the correct answer.<br>What action marked the beginning of the Iraq-Iran War?  {=Iraq's invasion of Iran ~Iran's attack on Basra~Iraq's annexation of Khuzestan province ~Iran closing the Shatt al-Arab}
+
+::U7L2Q34::Choose the correct answer.<br>Which banned weapons were used extensively during the war? {=Chemical weapons ~Landmines ~Incendiary weapons~Cluster munitions }
+
+::U7L2Q35::Choose the correct answer.<br>Who led Iraq during the Gulf War?  {=Saddam Hussein ~Hafez al-Assad ~Hosni Mubarak ~Ali Abdullah Saleh}
+
+::U7L2Q36::Choose the correct answer.<br>What was the ground offensive during the Gulf War known as?  {=Operation Desert Storm ~Operation Desert Shield~Operation Desert Fox ~Operation Desert Sword }
+
+::U7L2Q37::Choose the correct answer.<br>When was the ceasefire declared to end the Gulf War?  {=Thursday, February 28, 1991~Friday, March 1, 1991~Monday, February 25, 1991~Tuesday, January 15, 1991}
+
+::U7L2Q38::Choose the correct answer.<br>What country led the international coalition against Iraq?  {=United States ~United Kingdom~Soviet Union ~France }
+
+::U7L2Q39::Choose the correct answer.<br>What UN resolution demanded Iraq's withdrawal from Kuwait? {=Resolution 598~Resolution 597~Resolution 595 ~Resolution 590 }
+
+::U7L2Q40::Choose the correct answer.<br>What was the initial deployment of forces to Saudi Arabia called?  {=Operation Desert Shield~Operation Desert Storm ~Operation Desert Sword ~Operation Desert Fox }
+
+::U7L2Q41::Answer the following questions.<br>What were some of the underlying historical causes and tensions that contributed to the outbreak of the Iraq-Iran War?{=The Iraq-Iran War from 1980-1988 had its roots in longstanding territorial, political, ethnic and religious tensions between the two countries. Specific drivers included: Iraq's desire to gain full control of the Shatt al-Arab waterway; Iranian calls to export its Islamic revolution which threatened Iraq's secular regime; ethnic Kurdish rebellions; and the 1979 Iranian Revolution which overturned the Iranian monarchy that Iraq had supported.}
+
+::U7L2Q42::Answer the following questions.<br>How and why did the dynamic of the Iraq-Iran War shift from early Iraqi gains to an extended stalemate?{=Early in the war, Iraq made some swift advances and captured Iranian territory, hoping for a quick victory while Iran was weakened and disorganized after its revolution. However, Iran was soon able to stall Iraq's momentum. Iran's leaders framed the war as a patriotic defense of the revolution, helping them mobilize large volunteer militias. As the war bogged down into trench warfare and attrition, neither side could break the stalemate for most of the 1980s.}
+
+::U7L2Q43::Answer the following questions.<br>In what ways did the Iraq-Iran War have severe and long-lasting consequences for both countries?{=The drawn-out Iraq-Iran War resulted in catastrophic costs for both countries, leaving long-term economic, social and political damage. Hundreds of thousands were killed or injured, economic development was setback, oil exports hampered and cities/infrastructure destroyed. It consolidated Saddam Hussein's authoritarian rule in Iraq but also fueled later domestic unrest. It led to further regional interventions down the line.}
+
+::U7L2Q44::Answer the following questions.<br>How did Iraq's invasion and annexation of Kuwait escalate tensions in the region and trigger an international response?{=Iraq's 1990 invasion and occupation of Kuwait led to a crisis as Kuwait's oil reserves gave Iraq potential regional dominance. The invasion threatened Saudi Arabia and prompted an urgent international response led by the US, resulting in the Gulf War in early 1991 to expel Iraqi forces from Kuwait.}
+
+::U7L2Q45::Answer the following questions.<br>Analyze how technology and weapons, from airpower to chemical arms, impacted the prosecution and outcome of the Gulf War.{=The 1991 Gulf War saw modern high-tech weaponry employed on a large scale, including precision-guided bombs, stealth aircraft, cruise missiles and satellite coordination. This overwhelming US/coalition use of air power decimated Iraqi command, control, communications, infrastructure and combat capabilities - preparing the way for a ground assault.}
+
+::U7L2Q46::Answer the following questions.<br>What were some of the significant political, economic and diplomatic effects of Iraq's defeat in the Gulf War?{=Iraq's defeat came at extraordinary cost - its military was devastated, economic assets ruined, and Saddam's prestige was harmed abroad and at home. Iraq was forced to destroy its advanced weapons programs andfaced punishing international sanctions for years after. It remained a pariah state in the region after the war.}
+
+::U7L2Q47::Answer the following questions.<br>In what ways did the Iraq-Iran War and Gulf War have broader impacts on stability and security in the Middle East?{=The wars fueled greater militarization and interventionism in the Middle East, intensified Sunni-Shia sectarian divides, solidified US military presence and exacerbated instability that enabled groups like Al-Qaeda to gain footholds. They led to upheavals like the Iraqi Kurdish and Shia Arab revolts.}
+
+::U7L2Q48::Answer the following questions.<br>How did the wars influence relations between key regional players and global powers?{=The invasion of Kuwait made strategic ties between the West and oil-rich Gulf Arab states much stronger. Tensions between Israel and Arab states eased with shared alarm over Iraq. But Iraq's defeat also fueled resentment toward US domination among some Arab groups. Iran gained leverage during the Gulf War by staying neutral.}
+
+::U7L2Q49::Answer the following questions.<br>Discuss the human costs and humanitarian consequences of the wars on civilian populations.{=There was immense humanitarian suffering - estimates indicate combined war fatalities could exceed 500,000 lives, plus countless injured and displaced across the two wars. Iraq's suppression of rebellions after the Gulf War also killed tens of thousands. Environmental damage from burning oil wells also took a heavy toll.}
+
+::U7L2Q50::Answer the following questions.<br>Why did Iraq's conflicts with Iran and Kuwait fail to decisively resolve regional power dynamics, leading to lingering tensions after the wars ended?{=Rather than resolving power balances, Iraq remained volatile after the wars while tensions persisted between it, Iran, Kurdish groups and even a newly assertive Saudi Arabia. Iraq's weakened state also opened the door for future US military intervention, setting the stage for internal strife and the eventual 2003 US invasion.}

@@ -1,0 +1,103 @@
+::U2L6Q1::Choose True or False.<br>Moscow is the capital of Russia.{T}
+
+::U2L6Q2::Choose True or False.<br>The Kremlin is located in St. Petersburg.{F}
+
+::U2L6Q3::Choose True or False.<br>Moscow has a continental climate with very cold winters.{T}
+
+::U2L6Q4::Choose True or False.<br>Moscow's summers are usually mild and pleasant.{T}
+
+::U2L6Q5::Choose True or False.<br>The Cathedral of St. Basil is located inside the Kremlin complex.{T}
+
+::U2L6Q6::Choose True or False.<br>Moscow has a subtropical climate.{F}
+
+::U2L6Q7::Choose True or False.<br>Temperatures in Moscow remain constant throughout the year.{F}
+
+::U2L6Q8::Choose True or False.<br>Sparrow Hills offers panoramic views of the city.{T}
+
+::U2L6Q9::Choose True or False.<br>Tretyakov Gallery is a famous museum in Moscow.{T}
+
+::U2L6Q10::Choose True or False.<br>Moscow has no suburbs or surrounding districts.{F}
+
+::U2L6Q11::Complete the sentences with suitable words.<br>The Moscow Kremlin has served as the ................... of Russian power for centuries.{=seat}
+
+::U2L6Q12::Complete the sentences with suitable words.<br>Moscow is home to over ................... million residents within city limits.{=15}
+
+::U2L6Q13::Complete the sentences with suitable words.<br>Moscow has an extensive public transportation system including the metro, trains, airports and ....................... .{=buses}
+
+::U2L6Q14::Complete the sentences with suitable words.<br>Moscow boasts vibrant commercial ................... alongside historic neighborhoods.{=districts}
+
+::U2L6Q15::Complete the sentences with suitable words.<br>The Tretyakov Gallery and Pushkin Museum showcase Russian ............................... .{=visual arts}
+
+::U2L6Q16::Complete the sentences with suitable words.<br>Moscow's urban landscape seamlessly integrates old and ................... developments.{=new}
+
+::U2L6Q17::Complete the sentences with suitable words.<br>Moscow’s climate experiences significant .................................. throughout the year.{=seasonal changes}
+
+::U2L6Q18::Complete the sentences with suitable words.<br>Major cultural venues include the acclaimed ................... theater.{=Bolshoi}
+
+::U2L6Q19::Complete the sentences with suitable words.<br>Panoramic city views can be enjoyed from Sparrow ................... park.{=Hills}
+
+::U2L6Q20::Complete the sentences with suitable words.<br>The city layout features a ................... of historic buildings and modern areas.{=blend}
+
+::U2L6Q21::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>The ................... is the historic fortress complex at the heart of Moscow.{=Kremlin}
+
+::U2L6Q22::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Moscow blends old and ................... architecture.{=modern}
+
+::U2L6Q23::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>The Moscow ................... offers a retreat within the city.{=Metro}
+
+::U2L6Q24::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Moscow has an extensive ................... system.{=subway}
+
+::U2L6Q25::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Temperatures range from frigidly cold to mildly ................... .{=mild}
+
+::U2L6Q26::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Sparrow ................... offers panoramic views of the city.{=Hills }
+
+::U2L6Q27::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Moscow's historic neighborhoods feature ................... buildings.{=ancient}
+
+::U2L6Q28::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>The city has numerous ................... including the Bolshoi Theater.{=cultural institutions}
+
+::U2L6Q29::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Moscow has cold snowy winters and pleasant warm ............................... .{=summers}
+
+::U2L6Q30::Fill in the blanks using the words in the brackets.<br>(complex – cultural institutions – Hills – subway – modern – summers – ancient – mild – Metro – Kremlin)<br>Moscow's layout reflects its ................... history.{=complex}
+
+::U2L6Q31::Choose the correct answer.<br>What is the Kremlin?{=The seat of Russian governmental power~A park~A church~A museum}
+
+::U2L6Q32::Choose the correct answer.<br>What river runs through Moscow?{=The Volga~The Thames~The Seine~The Rhine}
+
+::U2L6Q33::Choose the correct answer.<br>What type of climate does Moscow have?{=Continental~Mediterranean~Tropical~Polar}
+
+::U2L6Q34::Choose the correct answer.<br>What is Moscow's population?{=15 million~20 million~10 million~5 million}
+
+::U2L6Q35::Choose the correct answer.<br>What is a well-known suburb of Moscow?{=Odintsovo~Sochi~Warsaw~Prague}
+
+::U2L6Q36::Choose the correct answer.<br>Where is Sheremetyevo located?{=An airport in Moscow~A university in Moscow~A museum in Moscow~None of the options}
+
+::U2L6Q37::Choose the correct answer.<br>Which is NOT a cultural institution in Moscow?{=The Guggenheim Museum~The Bolshoi Theater~The Tretyakov Gallery~The Pushkin Museum of Fine Arts}
+
+::U2L6Q38::Choose the correct answer.<br>What offers panoramic views of Moscow?{=Sparrow Hills~Red Square~Gorky Park~The Kremlin}
+
+::U2L6Q39::Choose the correct answer.<br>What is Moscow's historic core known for?{=Ancient buildings~Suburban districts~Large parks~Modern architecture}
+
+::U2L6Q40::Choose the correct answer.<br>What best describes Moscow's layout?{=Blend of old and new areas~Haphazard layout~Circular concentric pattern~Organized grid pattern}
+
+::U2L6Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Kremlin->Government complex=Tverskaya->Major street=Volga->Russian river=Odintsovo->Suburb=Botanical Garden->Park}
+
+::U2L6Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Kazansky->Train station=Winter->Cold and snowy season=Bolshoi->Acclaimed theater=Zelenograd->Suburban district=Krasnogorsk->Neighboring town}
+
+::U2L6Q43::Answer the following questions.<br>Discuss Moscow’s historical significance and its role in shaping Russia’s national identity.{=Moscow's historical significance stems from its founding in the 12th century and evolution into the political, economic and cultural heart of Russia. As the capital of the Grand Duchy of Moscow and later the Russian Empire and Soviet Union, Moscow shaped the national identity through domination of the region, imperial expansionism, and communist ideology. Key events like the Mongol invasions, rise of the Romanovs and 1917 Revolutions occurred there.}
+
+::U2L6Q44::Answer the following questions.<br>Compare and contrast Moscow’s architecture, highlighting key landmarks from different eras such as medieval, Czarist, Soviet and modern.{=Moscow's architecture blends styles across nine centuries. Medieval landmarks like the Kremlin's cathedrals exemplify Russian Byzantine architecture. The ornate St. Basil's Cathedral represents Russian revival style. Stalinist Gothic buildings like Moscow State University convey Soviet grandeur. Modern skyscrapers like the Federation Tower bring contemporary glass and steel design.}
+
+::U2L6Q45::Answer the following questions.<br>Explain how Moscow’s city layout and transportation systems reflect different stages of its urban development over time.{=Moscow developed concentrically around the Kremlin citadel at its center, radiating outward with circular and radial boulevards. Stalin's monumental plan in the 1930s entailed wide prospekts for military parades. The Moscow Metro's iconic underground stations facilitated rapid Soviet industrialization and urbanization. Today's gridlock prompts new highways and rail lines.}
+
+::U2L6Q46::Answer the following questions.<br>Describe Moscow’s cultural institutions such as museums, theaters, and concert halls and their importance.{=The Tretyakov Gallery houses the world's finest Russian art collection. The Bolshoi Theatre is among the most prestigious opera and ballet venues. Institutions like the Pushkin Museum and Tchaikovsky Concert Hall enrich Moscow's cultural life through history, art, music, and performances enjoyed by visitors and residents.}
+
+::U2L6Q47::Answer the following questions.<br>Analyze how political power has been centered in Moscow for over 800 years from early Russian rulers to the modern Kremlin.{=From the Grand Princes to the Czars to the Communist rulers, Moscow has been the seat of power and decision-making for the Russian state throughout its over 800-year history. The Kremlin has continuously housed the head of state and military command, making it the nucleus of authority and national affairs.}
+
+::U2L6Q48::Answer the following questions.<br>Discuss the climate and weather patterns that characterize Moscow’s seasons.{=Moscow has a humid continental climate with very cold, snowy winters due to its northerly continental interior position. Summers are warm and humid. Weather patterns are influenced by air masses from Siberia and the North Atlantic, as well as atmospheric blocking events.}
+
+::U2L6Q49::Answer the following questions.<br>Compare Moscow to other major European capital cities like London or Paris in terms of history, architecture, culture, size and global influence.{=Like London and Paris, Moscow is a prominent capital with over a millennium of history influencing present-day grandeur and global power status. However, Moscow's more compact layout, architectural eclecticism incorporating Slavic elements, harsher winters, and lower population density give it a more distinctly Russian character compared to its Western European counterparts.}
+
+::U2L6Q50::Answer the following questions.<br>Explain the unique features, geography and culture of some of Moscow’s major suburban districts.{=Areas like Zelenograd developed as dense Soviet-era industrial and residential districts. Rublyovo-Arkhangelskoye west of Moscow features elite dachas (country houses) of the political and business elite surrounded by forests. Krasnogorsk has a renowned artisanal community producing traditional Russian woodcarvings, pottery and lace.}
+
+::U2L6Q51::Answer the following questions.<br>Assess the strengths and weaknesses of Moscow’s urban planning, transportation infrastructure, preservation of historic sites and city services.{=Strengths include Moscow's radial urban design, investments in public transit infrastructure like the Metro, and preservation efforts around the Kremlin and historic Kitay-gorod district. Weaknesses are traffic congestion, poor road maintenance, air pollution, lack of public park spaces, and uneven economic development favoring the city center.}
+
+::U2L6Q52::Answer the following questions.<br>Predict Moscow’s future development and speculate whether it will retain its historic Russian character or become more globalized like other world cities.{=Moscow will likely retain its status as Russia's preeminent city while undergoing continued growth, globalization and Westernization. The city's historic architectural core and cultural institutions will adapt to rapid urbanization and potentially strive to become a leading global financial center and technology hub while maintaining Russian identity.}

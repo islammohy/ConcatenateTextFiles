@@ -1,0 +1,99 @@
+::U7L3Q1::Choose True or False.<br>The 9/11 attacks involved the hijacking of 3 planes that were crashed into targets. {T}
+
+::U7L3Q2::Choose True or False.<br>The intended target of United Flight 93 was the Empire State Building.  {F}
+
+::U7L3Q3::Choose True or False.<br>Al-Qaeda immediately denied responsibility for the 9/11 attacks. {F}
+
+::U7L3Q4::Choose True or False.<br>The USA PATRIOT Act expanded law enforcement powers to investigate terrorism.  {T}
+
+::U7L3Q5::Choose True or False.<br>Osama bin Laden was confirmed as the 9/11 mastermind in 2002.  {F}
+
+::U7L3Q6::Choose True or False.<br>The 9/11 Commission found too much information sharing among agencies.  {F}
+
+::U7L3Q7::Choose True or False.<br>The TSA was established after 9/11 to improve airport security.  {T}
+
+::U7L3Q8::Choose True or False.<br>Only 19 hijackers were involved in the 9/11 attacks.  {F}
+
+::U7L3Q9::Choose True or False.<br>The Black Box recorders provided no useful information about the hijackings. {F}
+
+::U7L3Q10::Choose True or False.<br>The DHS was established in 2011. {F}
+
+::U7L3Q11::Complete the sentences with suitable words.<br>The September 11, 2001 terrorist attacks are often referred to as .................... .  {=11-Sep}
+
+::U7L3Q12::Complete the sentences with suitable words.<br>The intended target of Flight 93 was believed to be the U.S. Capitol or ..................... .{= White House}
+
+::U7L3Q13::Complete the sentences with suitable words.<br>Almost immediately after the attacks, .................... issued statements claiming responsibility. {=Al-Qaeda}
+
+::U7L3Q14::Complete the sentences with suitable words.<br>Investigators identified the .................... involved in each hijacked plane. {=hijackers}
+
+::U7L3Q15::Complete the sentences with suitable words.<br>The ........................................ found that agencies failed to share enough intelligence prior to 9/11. {=9/11 Commission}
+
+::U7L3Q16::Complete the sentences with suitable words.<br>........................................ acknowledged planning the 9/11 attacks in a 2004 video tape. {=Osama bin Laden}
+
+::U7L3Q17::Complete the sentences with suitable words.<br>The TSA was established after 9/11 to improve .................................... at airports{=security screening}
+
+::U7L3Q18::Complete the sentences with suitable words.<br>Proponents argue that surveillance programs help identify ........................................ .  {=potential threats}
+
+::U7L3Q19::Complete the sentences with suitable words.<br>DNA analysis helped identify hijackers and attack .................... .  {=victims}
+
+::U7L3Q20::Complete the sentences with suitable words.<br>The ........................................ Act strengthened America’s ability to intercept and obstruct terrorism. {=USA PATRIOT}
+
+::U7L3Q21::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>The World Trade Center towers ultimately .................... due to the damage sustained in the attacks. {=collapsed}
+
+::U7L3Q22::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>Flight 11 crashed into the .................... Tower of the World Trade Center. {=North}
+
+::U7L3Q23::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>The headquarters of the Department of Defense, known as the ...................., was struck by Flight 77. {=Pentagon}
+
+::U7L3Q24::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>Passengers on Flight 93 fought back against the .................... .  {=hijackers}
+
+::U7L3Q25::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>DNA testing helped identify both the hijackers and .................... of the attacks. {=victims}
+
+::U7L3Q26::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>The .................... Act expanded law enforcement powers to investigate terrorism. {=PATRIOT}
+
+::U7L3Q27::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>Al-Qaeda had previously conducted attacks consistent with their ideology of .................... .  {=global jihad}
+
+::U7L3Q28::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>Flight 77 crashed into its target at .................... AM on September 11, 2001. {=9:37 AM}
+
+::U7L3Q29::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>The .................... was established in 2002 to coordinate domestic security agencies. {=DHS/Department of Homeland Security}
+
+::U7L3Q30::Fill in the blanks using the words in the brackets.<br>(leader – Department of Homeland Security – 9:37 AM – global jihad – PATRIOT – victims – hijackers – Pentagon – North – collapsed)<br>Osama bin Laden was the .................... of the terrorist group Al-Qaeda. {=leader}
+
+::U7L3Q31::Choose the correct answer.<br>How many planes were hijacked on 9/11?  {=4~5~2~3}
+
+::U7L3Q32::Choose the correct answer.<br>What time did the South Tower collapse?  {=9:59am~11:02am ~10:28am ~9:03am }
+
+::U7L3Q33::Choose the correct answer.<br>How many people died in the attacks?  {=2000-3000 ~500-1000 ~Less than 100 ~Over 4000 }
+
+::U7L3Q34::Choose the correct answer.<br>Where did flight 77 crash?   {=Pentagon~Pennsylvania ~North Tower ~South Tower }
+
+::U7L3Q35::Choose the correct answer.<br>When was Osama bin Laden's video tape confession released?  {=2004~2003~2002~2001}
+
+::U7L3Q36::Choose the correct answer.<br>What Act expanded law enforcement powers?  {=PATRIOT Act~Anti-Terror ~Counterterrorism Act ~Homeland Security Act }
+
+::U7L3Q37::Choose the correct answer.<br>Who conducted DNA analysis on human remains?  {=FBI~FEMA ~CDC ~Red Cross }
+
+::U7L3Q38::Choose the correct answer.<br>What was found in the Black Box recorders?  {=Valuable information about hijackings~Evidence of shootouts ~Final words of passengers ~Bomb materials }
+
+::U7L3Q39::Choose the correct answer.<br>When was the Department of Homeland Security established?   {=2002~2003~2001~2000}
+
+::U7L3Q40::Choose the correct answer.<br>Who claimed responsibility for the 9/11 attacks?  {=Al-Qaeda~Hamas ~Taliban ~ISIS }
+
+::U7L3Q41::Answer the following questions.<br>Briefly summarize the key events that occurred on September 11, 2001.{=On September 11, 2001, 19 terrorists associated with the Islamic extremist group al-Qaeda hijacked 4 commercial airplanes. Two planes crashed into the twin towers of the World Trade Center in NYC, another into the Pentagon and the fourth crashed in a field in Pennsylvania after passengers tried to regain control. Nearly 3,000 people were killed in the attacks.}
+
+::U7L3Q42::Answer the following questions.<br>What were some examples of the immediate international response to the 9/11 attacks?{=Examples of the immediate international response included: widespread condemnation and shock; NATO invoking Article 5 for the first time, considering it an attack on all members; and allies pledging intelligence and law enforcement support for the U.S. investigation.}
+
+::U7L3Q43::Answer the following questions.<br>What are some long-term impacts of 9/11 on global politics and international relations?{=Long-term impacts include: the U.S. War on Terror in Afghanistan, Iraq and beyond; strained U.S. relations with some Muslim-majority countries; increased surveillance and security worldwide; enduring threat from Islamic extremist groups carrying out attacks globally.}
+
+::U7L3Q44::Answer the following questions.<br>How did investigators determine that Al-Qaeda and Osama bin Laden were responsible for planning the 9/11 attacks?{=Investigators traced financing to al-Qaeda, matched intelligence naming al-Qaeda and Bin Laden and eventually found video of Bin Laden discussing advanced knowledge of the attacks. Key al-Qaeda operatives also later claimed responsibility.}
+
+::U7L3Q45::Answer the following questions.<br>What types of new security policies and agencies were introduced after 9/11 to defend the U.S. homeland?{=New homeland security policies/agencies included: the Department of Homeland Security, TSA and the Patriot Act expanding surveillance powers. Airports instituted new screening processes.}
+
+::U7L3Q46::Answer the following questions.<br>What are some ways that civil liberties advocates argue the policy response to 9/11 went too far?{=Civil liberties advocates argue some policies go too far - e.g. unwarranted domestic surveillance in the Patriot Act violating privacy rights.}
+
+::U7L3Q47::Answer the following questions.<br>Why do proponents argue that controversial tactics were necessary responses to the terrorist threat?{=Proponents argue tactics are a necessary response to an unprecedented national security threat from global terrorism in a post-9/11 world.}
+
+::U7L3Q48::Answer the following questions.<br>What were the key findings and recommendations of the 9/11 Commission concerning the failure to prevent the attacks?{=The 9/11 Commission concluded that there were intelligence failures and a lack of coordination between agencies - resulting in recommendations for intelligence reform.}
+
+::U7L3Q49::Answer the following questions.<br>How did the events of 9/11 fundamentally change air travel security screening processes in the U.S.?{=Air travel security was fundamentally changed by new passenger and baggage screening processes, no-fly lists, limits on liquids and heightened onboard security procedures.}
+
+::U7L3Q50::Answer the following questions.<br>What lingering questions or matters of debate still surround the 9/11 attacks and responses 20 years later?{=Lingering questions include the Saudi government's possible ties to the hijackers and how Building 7 collapsed. Also, there are debates around civil liberties tradeoffs in counterterrorism and the scope of US military action abroad.}

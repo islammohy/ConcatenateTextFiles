@@ -1,0 +1,99 @@
+::U6L5Q1::Choose True or False.<br>The Russian-Croatian War began in 1991. {T}
+
+::U6L5Q2::Choose True or False.<br>Russia provided no support to Serbian forces during the conflict. {F}
+
+::U6L5Q3::Choose True or False.<br>The war had no impact on global economic stability.  {F}
+
+::U6L5Q4::Choose True or False.<br>Croatia declared independence from the Soviet Union in 1991.  {F}
+
+::U6L5Q5::Choose True or False.<br>The United Nations tried to mediate peace negotiations during the war.  {T}
+
+::U6L5Q6::Choose True or False.<br>The conflict worsened diplomatic relations between Russia and Western nations.  {T}
+
+::U6L5Q7::Choose True or False.<br>The war highlighted weaknesses in post-Cold War international diplomacy.  {T}
+
+::U6L5Q8::Choose True or False.<br>The war debt from the conflict helped strengthen Croatia's long-term economic stability.  {F}
+
+::U6L5Q9::Choose True or False.<br>Russia faced no diplomatic isolation over its involvement in the war.  {F}
+
+::U6L5Q10::Choose True or False.<br>No refugees or displaced people resulted from the fighting. {F}
+
+::U6L5Q11::Complete the sentences with suitable words.<br>The Russian-Croatian War began when Croatia declared independence from ................... in 1991. {=Yugoslavia}
+
+::U6L5Q12::Complete the sentences with suitable words.<br>Russia provided support to ................... forces at the expense of its own recovering economy. {=Serbian}
+
+::U6L5Q13::Complete the sentences with suitable words.<br>The United Nations tried to broker ................... and peace negotiations between the warring factions during the conflict. {=ceasefires }
+
+::U6L5Q14::Complete the sentences with suitable words.<br>Russia's involvement supported Serbian territorial disputes but led to ................... from Western nations. {=diplomatic isolation}
+
+::U6L5Q15::Complete the sentences with suitable words.<br>Defending itself from Serbian aggression diverted Croatia's limited ................... from economic development. {=resources}
+
+::U6L5Q16::Complete the sentences with suitable words.<br>Rebuilding after the devastating war left Croatia in substantial ................... . {=debt}
+
+::U6L5Q17::Complete the sentences with suitable words.<br>The conflict worsened East-West ..................., affecting economic cooperation. {=relations}
+
+::U6L5Q18::Complete the sentences with suitable words.<br>The difficulty in brokering peace highlighted problems with ................... that had emerged after the Cold War. {=international diplomacy}
+
+::U6L5Q19::Complete the sentences with suitable words.<br>In the long term, the resolution of the conflict brought greater ................... to the Balkan region. {=stability}
+
+::U6L5Q20::Complete the sentences with suitable words.<br>The Russian-Croatian War holds lessons about the dangers of ................... conflicts and disputed territories. {=ethnic}
+
+::U6L5Q21::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>The Russian-Croatian War officially began when Serbian forces launched ................... into Croatia in 1991. {=offensives}
+
+::U6L5Q22::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>Russia provided ................... support to Serbia during the conflict. {=tacit}
+
+::U6L5Q23::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>The breakup of ................... set the stage for ethnic tensions in the Balkan region.{=Yugoslavia}
+
+::U6L5Q24::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>Defending its ................... integrity diverted Croatia's limited resources. {=territorial}
+
+::U6L5Q25::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>Russia suffered ................... isolation over its Serbian alliance during the war. {=diplomatic}
+
+::U6L5Q26::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>Rebuilding after the war was a ................... task for Croatia. {=challenging}
+
+::U6L5Q27::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>The conflict worsened ................... between Russia and Western nations. {=relations}
+
+::U6L5Q28::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>The war highlighted holes in ................... diplomacy. {=post-Cold War}
+
+::U6L5Q29::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>Russia's involvement focused attention away from ................... issues. {=domestic economic}
+
+::U6L5Q30::Fill in the blanks using the words in the brackets.<br>(stability – domestic economic – post-Cold War – relations – challenging – diplomatic – territorial – Yugoslavia – tacit – offensives)<br>The resolution of the conflict contributed to ................... in the Balkan region. {=stability}
+
+::U6L5Q31::Choose the correct answer.<br>When did Croatia officially declare independence? {=1991~1992~1990~1989}
+
+::U6L5Q32::Choose the correct answer.<br>What was the name of the former Eastern European nation that both Russia and Croatia were part of?  {=Yugoslavia ~Soviet Union ~Warsaw Pact~Czechoslovakia}
+
+::U6L5Q33::Choose the correct answer.<br>Which of the following tried to mediate peace negotiations during the war?  {=United Nations ~European Union ~G8~NATO }
+
+::U6L5Q34::Choose the correct answer.<br>What type of support did Russia provide to Serbian forces?  {=All of the options~Tactical advisement ~Financial and military equipment ~Direct ground troop support }
+
+::U6L5Q35::Choose the correct answer.<br>Which impact of the war strained Russia's struggling economy?  {=All of the options~Diplomatic isolation ~Loss of foreign investment ~Significant financial burden }
+
+::U6L5Q36::Choose the correct answer.<br>What post-war challenge did Croatia face as a newly independent nation?  {=All of the options~Absorbing war debt ~Rebuilding infrastructure ~Territorial disputes }
+
+::U6L5Q37::Choose the correct answer.<br>What global impact did the conflict have beyond Eastern Europe? {=All of the options~Strained diplomatic relations ~Disrupted trade agreements ~Stock market uncertainty }
+
+::U6L5Q38::Choose the correct answer.<br>What was a geopolitical lesson exemplified by Russia's involvement in the war?  {=Repercussions of military interventions ~All of the options~Caution against territorial disputes ~Avoidance of ethnic conflicts }
+
+::U6L5Q39::Choose the correct answer.<br>Which statement about the lasting regional impact of the war is true?  {=The Balkan region became less politically stable ~Economic underdevelopment increased~Ethnic tensions escalated ~None of the options}
+
+::U6L5Q40::Choose the correct answer.<br>What aspect of global diplomacy was highlighted by the difficulty in resolving the conflict?  {=All of the options~Importance of mediation in civil wars~Role of the United Nations in peacekeeping ~Need for ethnic conflict prevention }
+
+::U6L5Q41::Answer the following questions.<br>Why did Croatia's declaration of independence lead to ethnic conflicts in the Balkan region?{=Croatia's declaration of independence fueled nationalist movements and led to ethnic Serbians within Croatia rebelling to join a Greater Serbia, sparking violence.}
+
+::U6L5Q42::Answer the following questions.<br>How did Russia's support for Serbian forces during the war end up damaging Russia's own recovering economy?{=Supporting Serbian forces was an economic burden that Russia's struggling economy post-Cold War collapse could ill afford. It worsened economic woes.}
+
+::U6L5Q43::Answer the following questions.<br>In what ways did the Russian-Croatian War have consequences that rippled beyond Eastern Europe globally?{=The war disrupted economic markets, trade agreements, diplomatic relations between major powers and highlighted problems with post-Cold War international diplomacy.}
+
+::U6L5Q44::Answer the following questions.<br>What geopolitical lessons does Russia's involvement in the conflict provide about military interventions?{=Russia's involvement highlights consequences of military interventions like diplomatic blowback and economic burdens if not carefully considered.}
+
+::U6L5Q45::Answer the following questions.<br>Why was resolving territorial disputes between Serbian and Croatian ethnic groups so challenging?{=Overlapping territorial claims based on contradictory ethnic histories made brokering compromises very difficult.}
+
+::U6L5Q46::Answer the following questions.<br>How did the war highlight shortcomings in the international diplomatic order that had existed during the Cold War era?{=The war showed mediation mechanisms had not adapted well to new nationalist and ethnic conflicts after Cold War's end.}
+
+::U6L5Q47::Answer the following questions.<br>What factors allowed the Balkan region to regain stability after the devastating war finally ended?{=Eventually fatigue led the warring factions to negotiate peace accords addressing grievances and stabilizing relations.}
+
+::U6L5Q48::Answer the following questions.<br>How could deeper understanding of the Russian-Croatian War help prevent similar ethnic conflicts from unfolding today?{=Understanding the complex root causes could help prevent manipulation of ethnic tensions into violent nationalist causes.}
+
+::U6L5Q49::Answer the following questions.<br>What parallels, if any, are there between Russia's 1990s territorial interventions in the Balkans and its current involvement in Ukraine?{=Parallels include Russia backing separatists in both, suffering consequences and territorial disputes producing conflicts.}
+
+::U6L5Q50::Answer the following questions.<br>Could stronger early diplomatic efforts have prevented the outbreak of war between Croatian and Serbian nationalist movements? Why or why not?{=Potentially, yes - earlier diplomacy could have addressed grievances before violence erupted, but ultimately couldn't force compromise against strong nationalism.}

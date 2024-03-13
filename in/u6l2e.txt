@@ -1,0 +1,99 @@
+::U6L2Q1::Choose True or False.<br>The Cold War lasted from the end of WWII in 1945 until the late 1990s.  {T}
+
+::U6L2Q2::Choose True or False.<br>The Soviet Union was the first country to develop nuclear weapons.  {F}
+
+::U6L2Q3::Choose True or False.<br>The Berlin Airlift involved flying supplies into East Berlin.  {F}
+
+::U6L2Q4::Choose True or False.<br>The Berlin Wall was built to prevent East Germans from defecting to the West.  {F}
+
+::U6L2Q5::Choose True or False.<br>The Truman Doctrine provided economic assistance to Western European countries after WWII. {F}
+
+::U6L2Q6::Choose True or False.<br>NATO was formed as an alliance between the US, Soviet Union and European countries.  {F}
+
+::U6L2Q7::Choose True or False.<br>The concept of Mutually Assured Destruction posited that neither superpower would risk initiating a nuclear conflict.  {T}
+
+::U6L2Q8::Choose True or False.<br>The Berlin Blockade was imposed by the Western Allies.  {F}
+
+::U6L2Q9::Choose True or False.<br>The Red Scare led to blacklisting and investigations of suspected communists in the US.  {T}
+
+::U6L2Q10::Choose True or False.<br>The arms race centered around the development of conventional weapons.  {F}
+
+::U6L2Q11::Complete the sentences with suitable words.<br>The Cold War began at the end of ..................... and lasted until the early 1990s. {=World War Two}
+
+::U6L2Q12::Complete the sentences with suitable words.<br>..................... by the Soviet Union motivated the U.S. policy of containment across Europe and Asia. {=Expansionism}
+
+::U6L2Q13::Complete the sentences with suitable words.<br>The ..................... provided aid to rebuild Western Europe after WWII. {=Marshall Plan}
+
+::U6L2Q14::Complete the sentences with suitable words.<br>Food, fuel and supplies were flown into ..................... during the Berlin Airlift. {=West Berlin}
+
+::U6L2Q15::Complete the sentences with suitable words.<br>The physical and symbolic barrier dividing Berlin was the .................... .{=Berlin Wall}
+
+::U6L2Q16::Complete the sentences with suitable words.<br>Attempts by East Germans to cross the Berlin Wall into West Berlin were ..................... .  {=extremely dangerous}
+
+::U6L2Q17::Complete the sentences with suitable words.<br>The nuclear and technological ..................... intensified the Cold War. {=arms race}
+
+::U6L2Q18::Complete the sentences with suitable words.<br>To avoid ..................... both superpowers developed enough weapons to destroy the other. {=Mutually Assured Destruction}
+
+::U6L2Q19::Complete the sentences with suitable words.<br>..................... by the House Un-American Activities Committee ruined the lives of many.{=Blacklisting}
+
+::U6L2Q20::Complete the sentences with suitable words.<br>The first successful test of an atomic bomb by the ..................... escalated tensions with the United States.{=Soviet Union}
+
+::U6L2Q21::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The Cold War rivalry was between the United States and the ..................... Union. {=Soviet}
+
+::U6L2Q22::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The ..................... policy aimed to prevent the spread of communism globally. {=containment}
+
+::U6L2Q23::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>NATO provided collective defense against the Soviet Union and its ..................... . {=allies}
+
+::U6L2Q24::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The ..................... allowed the U.S. to supply West Berlin despite the Soviet blockade. {=Berlin Airlift}
+
+::U6L2Q25::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The Berlin Wall divided East Berlin from ..................... Berlin. {=West}
+
+::U6L2Q26::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>Crossing the Berlin Wall from East to West Germany was extremely ..................... .  {=dangerous}
+
+::U6L2Q27::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The ..................... led to nuclear stockpiling between the U.S. and U.S.S.R. {=arms race}
+
+::U6L2Q28::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The concept of Mutually Assured Destruction served as a ..................... against nuclear attack. {=deterrent}
+
+::U6L2Q29::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The Red Scare led to ..................... of suspected communists in Hollywood and government. {=blacklisting}
+
+::U6L2Q30::Fill in the blanks using the words in the brackets.<br>(U.S. – blacklisting – deterrent – arms race – dangerous – West – Berlin Airlift – allies – containment – Soviet)<br>The ..................... and Soviet Union developed more powerful hydrogen bombs. {=U.S. }
+
+::U6L2Q31::Choose the correct answer.<br>Which policy argued that the US should work to contain Soviet influence?  {=Containment policy ~Appeasement policy ~Rollback policy ~Domino theory}
+
+::U6L2Q32::Choose the correct answer.<br>When did the Soviet Union test its first atomic bomb?  {=1949~1961~1947~1945}
+
+::U6L2Q33::Choose the correct answer.<br>What was the purpose of the Marshall Plan?  {=Rebuild Western Europe ~Form NATO~Develop nuclear weapons ~Rebuild Japan }
+
+::U6L2Q34::Choose the correct answer.<br>What supplies did the Berlin Airlift provide to West Berlin?  {=Food and fuel ~Weapons ~Communist literature ~None of the options}
+
+::U6L2Q35::Choose the correct answer.<br>What physical barrier divided East and West Berlin?  {=Berlin Wall ~Barbed wire ~Checkpoints ~Trenches}
+
+::U6L2Q36::Choose the correct answer.<br>Which country controlled East Berlin?  {=Soviet Union ~United States~Great Britain ~France }
+
+::U6L2Q37::Choose the correct answer.<br>What theory served to deter nuclear conflict during the Cold War?  {=Mutually assured destruction ~Containment~Proxy wars ~Flexible response }
+
+::U6L2Q38::Choose the correct answer.<br>Who initiated the Berlin Blockade in 1948?  {=Soviet Union ~United States~West Germany ~East Germany }
+
+::U6L2Q39::Choose the correct answer.<br>Which U.S. government committee led investigations into communist influence?  {=House Un-American Activities Committee ~Central Intelligence Agency ~Federal Bureau of Investigation~Senate Foreign Relations Committee }
+
+::U6L2Q40::Choose the correct answer.<br>What marked a new phase in the nuclear arms race between the U.S. and Soviet Union?  {=Hydrogen bombs ~ICBMs ~Submarine-launched missiles~Atomic bombs }
+
+::U6L2Q41::Answer the following questions.<br>Why did the United States adopt a policy of containing communism globally during the Cold War?{=The U.S. aimed to contain Soviet communist ideology and influence around the world in support of its capitalist allies. Containment arose from a view that the Soviet Union was highly expansionist and threatened U.S. interests as well as global stability and peace if its influence spread unchecked.}
+
+::U6L2Q42::Answer the following questions.<br>How did events like the Berlin Blockade and Airlift increase Cold War tensions between the United States and Soviet Union?{=Events like the blockade and airlift directly confronted and opposed the superpowers’ interests in post-WWII Germany and Europe. They demonstrated willingness to take bold action in the face of aggression, rather than compromise, greatly ratcheting up tensions, distrust and ideological animosity between the two nations.}
+
+::U6L2Q43::Answer the following questions.<br>What impact did the nuclear arms race have on Cold War military policy and foreign relations?{=The arms race drastically increased both nations' nuclear stockpiles, leading to policies like Mutually Assured Destruction (MAD), which assumed that neither side would attack due to nuclear deterrence. The threat of nuclear war heavily influenced events; the Cuban Missile Crisis brought the world near catastrophe. It deepened mistrust and constrained diplomatic options, nearly freezing superpower relations for decades.}
+
+::U6L2Q44::Answer the following questions.<br>How did the construction of the Berlin Wall escalate Cold War tensions?{=The Berlin Wall’s construction in 1961 to divide East and West Berlin showed the Soviet Union's desperation to stem emigration and the failure of communism to retain citizens. It also physically and symbolically divided the city, gave rise to further repression by East Germany and brought Soviet communism’s differences with Western democracy into stark relief, showcasing communism's weakness. This embarrassed the USSR, escalating tensions and unwillingness to compromise.}
+
+::U6L2Q45::Answer the following questions.<br>What global impact did events like the Berlin Airlift and the fall of the Berlin Wall have on the outcome of the Cold War?{=The Berlin Airlift showcased Western democratic resolve against Soviet aggression, likely deterring further action. The fall of the Berlin Wall proved the failure of repressive Soviet communist ideology, presaging rebellions across Eastern Europe in 1989-90 that culminated in the dissolution of the USSR itself, decisively ending the Cold War after nearly 50 years.}
+
+::U6L2Q46::Answer the following questions.<br>Why was the Red Scare period significant in shaping domestic U.S. attitudes during the Cold War?{=The Red Scare fueled anti-communist attitudes and hysteria across the U.S. public and government during the 1940s-50s. Blacklisting and allegations of communist sympathy against celebrities, politicians and ordinary citizens led to persecution and ruined lives. The climate of fear and suspicion it engendered constrained policy options, impacted activism around rights and shaped U.S. cultural attitudes to dissidence and radical politics for decades after.}
+
+::U6L2Q47::Answer the following questions.<br>How might events during the Cold War continue to influence global politics today?{=Cold War events created geopolitical spheres of influence, alliances and tensions that persist today between Russia, Europe, China and the U.S. Nuclear non-proliferation policies also remain shaped by the threat of nuclear catastrophe and deterrence theories like Mutually Assured Destruction developed during that period. Events like the Cuban Missile Crisis also provide cautionary tales about escalation risk relevant to present conflicts.}
+
+::U6L2Q48::Answer the following questions.<br>What motivated leaders on both sides to avoid direct military conflict during the Cold War?{=Fears of uncontrolled escalation to catastrophic nuclear war and Mutually Assured Destruction that would destroy both nations constrained leaders once nuclear parity was achieved in the 1960s. Ideological opposition was also limited by economic interdependence and shared interests in avoiding large scale war so soon after WWII. However, these motivations narrowly prevented disaster several times (e.g. Cuban Missile Crisis).}
+
+::U6L2Q49::Answer the following questions.<br>How did meetings between leaders and arms control treaties help ease Cold War tensions?{=Diplomatic overtures during détente, as well as arms limitation talks and treaties like SALT I and II, helped stabilize the nuclear arms race, build understanding, and achieve symbolic cooperation even amidst distrust - proving crucial in reducing global tensions. The thaw facilitated trade, cultural/educational exchanges, collaboration in space and greater restraint in proxy wars. This helped halt the escalatory cycle and later enabled the cooperation needed to end the Cold War peacefully.}
+
+::U6L2Q50::Answer the following questions.<br>What relevance, if any, does political polarization between different ideologies have in the present day compared to during the Cold War?{=While communism vs. capitalism fueled Cold War polarization, ideological polarization persists today both globally and within many nations like the U.S. Issues may evolve but an ‘us vs them’ dynamic endures, complicating diplomacy and enabling political opportunism via division. Hyper-partisanship also leads to policy gridlock, illiberal tactics and erosion of civic trust, threatening stability and progress much like the Red Scare era damagingly fused policy debate with ideological loyalty tests. The Cold War example shows adversarial yet peaceful coexistence of diverging ideologies remains complex but necessary.}

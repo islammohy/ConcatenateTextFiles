@@ -1,0 +1,99 @@
+::U4L2Q1::Choose True or False.<br>The history of colonialism dates back to ancient civilizations like Greece and Rome. {T}
+
+::U4L2Q2::Choose True or False.<br>The British Empire became the smallest colonial empire in history. {F}
+
+::U4L2Q3::Choose True or False.<br>European colonization had only positive effects on indigenous peoples.  {F}
+
+::U4L2Q4::Choose True or False.<br>The scramble for Africa occurred in the 20th century. {F}
+
+::U4L2Q5::Choose True or False.<br>The Spanish had little involvement in colonizing the Americas.{F}
+
+::U4L2Q6::Choose True or False.<br>The British East India Company ruled parts of India by the mid-18th century. {T}
+
+::U4L2Q7::Choose True or False.<br>India gained independence from Britain in the 19th century. {F}
+
+::U4L2Q8::Choose True or False.<br>Missionaries introduced Western education systems in India under British rule. {T}
+
+::U4L2Q9::Choose True or False.<br>Subhas Chandra Bose led violent resistance campaigns against the British. {F}
+
+::U4L2Q10::Choose True or False.<br>Monopolies always result from government regulations. {F}
+
+::U4L2Q11::Complete the sentences with suitable words.<br>Christopher Columbus arrived in the Americas in ...................., seeking a new route to Asia. {=1492}
+
+::U4L2Q12::Complete the sentences with suitable words.<br>The ................... became the largest colonial empire in history. {=British Empire}
+
+::U4L2Q13::Complete the sentences with suitable words.<br>.................... like the Aztecs and Incas fell to Spanish conquistadors. {=Indigenous empires}
+
+::U4L2Q14::Complete the sentences with suitable words.<br>The .................... occurred when European powers claimed African territories. {=Scramble for Africa}
+
+::U4L2Q15::Complete the sentences with suitable words.<br>Mahatma Gandhi led the campaign for India's independence through .................... .  {=nonviolent protest}
+
+::U4L2Q16::Complete the sentences with suitable words.<br>................... refers to the process when colonies gain self-rule from their colonizers. {=Decolonization}
+
+::U4L2Q17::Complete the sentences with suitable words.<br>A .................... forms when a single firm controls an entire market. {=monopoly}
+
+::U4L2Q18::Complete the sentences with suitable words.<br>The ................... expanded British influence in India during colonial rule. {=East India Company}
+
+::U4L2Q19::Complete the sentences with suitable words.<br>The arrival of Europeans had .................... effects on Native American populations. {=devastating}
+
+::U4L2Q20::Complete the sentences with suitable words.<br>................... domination shaped the modern history of colonies like India. {=British}
+
+::U4L2Q21::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>The age of modern colonialism began in the .................... century. {=15th}
+
+::U4L2Q22::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>.................... played a pivotal role in the early colonization of the Americas. {=The Spanish}
+
+::U4L2Q23::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>The .................... sought to colonize Africa in the late 19th century. {=European powers}
+
+::U4L2Q24::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>.................... led nonviolent resistance campaigns against British rule in India. {=Mahatma Gandhi}
+
+::U4L2Q25::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>.................... refers to the establishment of control over a region by a foreign power. {=Colonialism}
+
+::U4L2Q26::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>The .................................... Company influenced British control in India. {=East India}
+
+::U4L2Q27::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>Europeans brought .................... that devastated Native American populations after contact. {=diseases}
+
+::U4L2Q28::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>.................... was established as the first permanent English colony in North America in 1607. {=Jamestown}
+
+::U4L2Q29::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>African nations began to gain .................... from colonial rule after World War II. {=independence}
+
+::U4L2Q30::Fill in the blanks using the words in the brackets.<br>(monopoly – independence – Jamestown – diseases – East India – Colonialism – Mahatma Gandhi – European powers – The Spanish – 15th)<br>A .................... dominates an entire market without facing direct competitors. {=monopoly}
+
+::U4L2Q31::Choose the correct answer.<br>Which explorer arrived in the Americas in 1492? {=Christopher Columbus ~Ferdinand Magellan ~Hernán Cortés~Vasco da Gama }
+
+::U4L2Q32::Choose the correct answer.<br>Which European nation established the largest colonial empire?  {=Britain ~France~Portugal ~Spain }
+
+::U4L2Q33::Choose the correct answer.<br>What was an impact of European colonization on indigenous peoples?  {=Loss of land~Population growth ~Cultural blending ~Improved health }
+
+::U4L2Q34::Choose the correct answer.<br>Which African nation was the first to gain independence in 1957?  {=Ghana ~South Africa ~Nigeria~Kenya }
+
+::U4L2Q35::Choose the correct answer.<br>Who established the first permanent English colony in North America?  {=John Smith ~Christopher Columbus~Walter Raleigh ~Hernán Cortés }
+
+::U4L2Q36::Choose the correct answer.<br>What was a consequence of British rule in India?  {=Higher taxation~Social equality ~Preservation of Indian culture ~Economic prosperity }
+
+::U4L2Q37::Choose the correct answer.<br>Who led the Indian independence movement?  {=Mahatma Gandhi ~Akbar ~Shah Jahan ~Babur}
+
+::U4L2Q38::Choose the correct answer.<br>Which term refers to ending colonial rule?  {=Decolonization ~Exploration ~Imperialism ~Industrialization}
+
+::U4L2Q39::Choose the correct answer.<br>When did India gain independence from Britain?  {=1947~1997~1857~1757}
+
+::U4L2Q40::Choose the correct answer.<br>What enables monopolies to charge higher prices?  {=No direct competitors ~Superior technology ~Consumer demand~Government subsidies }
+
+::U4L2Q41::Answer the following questions.<br>How did the history of colonialism shape interactions between Europeans and indigenous peoples in colonized lands?{=Colonialism led to exploitation, loss of land and resources, spread of disease, destruction of indigenous cultures and violent conflict between Europeans and native peoples. However, it also resulted in some blending of cultures and technologies.}
+
+::U4L2Q42::Answer the following questions.<br>What were some of the major economic and social impacts of European imperialism in Asia and Africa?{=Major impacts included loss of local control/power, economic disruption from resource extraction, new social hierarchies based on race, spread of Christianity/loss of traditional beliefs, more stratified/rigid class structures.}
+
+::U4L2Q43::Answer the following questions.<br>Why was the British East India Company so influential in expanding British colonial rule in India?{=The British East India Company formed a monopoly, maintained a private military, acted as a proto-government and expanded british influence. This set the stage for formal colonial control.}
+
+::U4L2Q44::Answer the following questions.<br>How did resistance movements in colonized regions contribute to eventual decolonization?{=Resistance raised local awareness, prompted brutal crackdowns that fueled further resistance, weakened colonial grips over territories, emboldened independence movements and led to consideration of autonomy.}
+
+::U4L2Q45::Answer the following questions.<br>What kinds of legacy and long-term impacts has colonialism had on the cultures and economies of previously colonized nations?{=Legacy impacts include economic disruption and dependence, lasting social inequalities, fragmented societies/identities, political instability and conflict, loss of traditional cultures/knowledge and health impacts.}
+
+::U4L2Q46::Answer the following questions.<br>How were indigenous empires in the Americas, like the Aztecs and Incas, affected by Spanish colonization?{=Indigenous empires collapsed, huge population decline due to disease, slavery and exploitation (ex. silver mining), Catholic missions established, intermixing of indigenous and Spanish peoples over time.}
+
+::U4L2Q47::Answer the following questions.<br>In what ways did the Scramble for Africa exemplify the characteristics and motivations driving 19th century European imperialism?{=Claiming African lands exemplified the search for new resources/markets, spread of Western nationalism and racism, acting without consideration for indigenous rights or consequences, short-term resource extraction and brutal/unjust subjugation of locals.}
+
+::U4L2Q48::Answer the following questions.<br>How did British colonization change Indian society and culture over time?{=Introduction of English governance and law, displaced local rulers/structures, loss of industries like textiles, famines under British taxation, hierarchical class system based on Western ideas about race, spread of Western education and religion at expense of traditional Indian culture.}
+
+::U4L2Q49::Answer the following questions.<br>What conditions enable the formation of monopolies and why can monopolies be economically problematic?{=Monopolies can form when large firms dominate network infrastructure, leverage vast financial resources to undercut competition, benefit from government policies or lack of regulation over an industry, utilize patents/IP protections to block alternatives, or operate in industries with huge infrastructure costs posing barriers to market entry. They can then charge higher prices without competition checks, at a social cost.}
+
+::U4L2Q50::Answer the following questions.<br>How might the historical legacy of colonialism continue to influence global politics and international relations today?{=Legacy of colonialism includes ongoing global inequality and stratification, economic disruption and dependence of former colonies, political instability and conflict tied to colonial borders and structures, loss of indigenous identity/culture, lasting health impacts from disease epidemics and famines, intergenerational trauma and persisting power differentials between the Global North and South.}

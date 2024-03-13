@@ -1,0 +1,103 @@
+::U1L3Q1::Choose True or False.<br>Savannah is located along the Mississippi River.{F}
+
+::U1L3Q2::Choose True or False.<br>Savannah was founded in the 19th century.{F}
+
+::U1L3Q3::Choose True or False.<br>Savannah played a role in the Civil War.{T}
+
+::U1L3Q4::Choose True or False.<br>The Port of Savannah is one of the smallest in the US.{F}
+
+::U1L3Q5::Choose True or False.<br>SCAD focuses on science and technology.{F}
+
+::U1L3Q6::Choose True or False.<br>Unsustainable logging cannot lead to deforestation.{F}
+
+::U1L3Q7::Choose True or False.<br>Agriculture provides employment for few people.{F}
+
+::U1L3Q8::Choose True or False.<br>Deserts can be found in the Midwest.{F}
+
+::U1L3Q9::Choose True or False.<br>National parks aim to conserve biodiversity.{T}
+
+::U1L3Q10::Choose True or False.<br>Gettysburg is an example of a national battlefield.{T}
+
+::U1L3Q11::Complete the sentences with suitable words.<br>Savannah played an important role during the American Revolutionary War and the ........................ .{=Civil War}
+
+::U1L3Q12::Complete the sentences with suitable words.<br>Savannah is renowned for its antebellum mansions and .................................. .{=distinctive architecture}
+
+::U1L3Q13::Complete the sentences with suitable words.<br>The timber industry provides ........................ and contributes to national economies.{=jobs}
+
+::U1L3Q14::Complete the sentences with suitable words.<br>Sustainable ............................. can help maintain forests' role in absorbing carbon dioxide.{=forestry practices}
+
+::U1L3Q15::Complete the sentences with suitable words.<br>National parks protect natural, cultural and ........................ resources.{=historical}
+
+::U1L3Q16::Complete the sentences with suitable words.<br>National battlefields allow visitors to ........................ on the history and impact of past wars.{=reflect}
+
+::U1L3Q17::Complete the sentences with suitable words.<br>Despite deserts' harsh conditions, they support unique ecosystems and .......................... .{=wildlife}
+
+::U1L3Q18::Complete the sentences with suitable words.<br>The ........................ Desert stretches across parts of New Mexico and Texas.{=Chihuahuan}
+
+::U1L3Q19::Complete the sentences with suitable words.<br>Deforestation can lead to increased ........................... emissions.{=greenhouse gas}
+
+::U1L3Q20::Complete the sentences with suitable words.<br>Agriculture provides ........................ for millions of people globally.{=employment}
+
+::U1L3Q21::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>Savannah is located in the ........................ region of the United States.{=southeastern}
+
+::U1L3Q22::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>Savannah was founded in the year ........................ .{=1733}
+
+::U1L3Q23::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>The river that forms part of Savannah's border is the ........................ River.{=Savannah}
+
+::U1L3Q24::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>Savannah has a well-preserved ........................ district.{=historic}
+
+::U1L3Q25::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>The Port of Savannah is one of the ........................ container ports in the US.{=largest/busiest}
+
+::U1L3Q26::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>........................ can destroy habitats for wildlife species.{=Clear-cutting/Logging}
+
+::U1L3Q27::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>Reforestation involves the regeneration and ........................ of forests.{=replanting}
+
+::U1L3Q28::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>Agricultural runoff can lead to ........................ of water.{=pollution}
+
+::U1L3Q29::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>The ........................ Desert stretches across parts of Arizona and California.{=Sonoran}
+
+::U1L3Q30::Fill in the blanks using the words in the brackets.<br>(Yellowstone – pollution – Clear-cutting/Logging – historic – 1733 – Sonoran – replanting – largest/busiest – Savannah – southeastern)<br>........................ National Park was the first designated national park.{=Yellowstone}
+
+::U1L3Q31::Choose the correct answer.<br>In what state is Savannah located?{=Georgia~Florida~South Carolina~North Carolina}
+
+::U1L3Q32::Choose the correct answer.<br>What river serves as the border between Georgia and South Carolina near Savannah?{=Savannah River~Missouri River~Ohio River~Mississippi River}
+
+::U1L3Q33::Choose the correct answer.<br>Who founded the city of Savannah?{=General Oglethorpe~General Sherman~General Washington~General Lee}
+
+::U1L3Q34::Choose the correct answer.<br>What is SCAD focused on?{=Art, design and creative fields~Law~Medicine~Engineering}
+
+::U1L3Q35::Choose the correct answer.<br>What can unsustainable logging lead to?{=Deforestation~Biodiversity~Economic growth~Reforestation}
+
+::U1L3Q36::Choose the correct answer.<br>What can the use of pesticides and fertilizers lead to?{=Water pollution~Soil enrichment~Water conservation~Air pollution}
+
+::U1L3Q37::Choose the correct answer.<br>What recreational activities can you do in national parks?{=Hiking~Racing~Logging~Hunting}
+
+::U1L3Q38::Choose the correct answer.<br>What war are many national battlefields related to?{=Civil War~Revolutionary War~World War II~World War I}
+
+::U1L3Q39::Choose the correct answer.<br>The Chihuahuan Desert is located in which states?{=New Mexico and Texas~Arizona and New Mexico~Nevada and Utah~California and Nevada}
+
+::U1L3Q40::Choose the correct answer.<br>Which was the first national park?{=Yellowstone~Yosemite~Grand Canyon~Great Smoky Mountains}
+
+::U1L3Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Savannah College of Art and Design->art, design, creative fields=Port of Savannah->container port=General Oglethorpe->founder of Savannah=Deforestation->loss of biodiversity=Reforestation->replanting forests}
+
+::U1L3Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Fertilizers and pesticides->water pollution=National parks->conserve biodiversity=Gettysburg->example of national battlefield=Sonoran Desert->located in Arizona and California=Yellowstone->first national park}
+
+::U1L3Q43::Answer the following questions.<br>Describe Savannah's key role in American history.{=Savannah played a key role as one of the original colonial cities established in British America in 1733. It served as the colonial capital of the Province of Georgia and was a strategic coastal port city. The city was a center for the cotton trade and Atlantic maritime activities.}
+
+::U1L3Q44::Answer the following questions.<br>What are some key features of Savannah's architecture and historic districts?{=Savannah's architecture features many examples of Georgian and Greek Revival styles, such as the Gothic Revival Cathedral of St. John the Baptist. The city's historic districts, like the Savannah Historic District, showcase preserved 18th and 19th century buildings, parks, cobblestone streets and famous public squares.}
+
+::U1L3Q45::Answer the following questions.<br>How can sustainable forestry practices benefit the economy and the environment?{=Sustainable forestry practices that promote responsible management of forest resources can benefit the economy through sustainable timber production while also preserving forest ecosystems, protecting biodiversity, preventing soil erosion and mitigating climate change through carbon sequestration.}
+
+::U1L3Q46::Answer the following questions.<br>What are some negative environmental impacts of agriculture?{=Some negative environmental impacts of agriculture include soil erosion, water pollution from fertilizer runoff, greenhouse gas emissions, deforestation for farmland and loss of biodiversity due to habitat destruction.}
+
+::U1L3Q47::Answer the following questions.<br>How do national parks aim to balance conservation efforts with visitor access and recreation?{=National parks aim to protect natural resources and ecosystems while allowing for visitor access and recreation opportunities. They employ strategies like visitor education, designated trails and campsites, limits on visitors and zoning for different use levels to balance conservation with public enjoyment.}
+
+::U1L3Q48::Answer the following questions.<br>Why are national battlefields significant historical sites in the United States?{=National battlefields are significant historical sites that preserve and commemorate important American battle locations. They educate visitors about the events, strategies, sacrifices and consequences of these conflicts, which shaped the nation's history.}
+
+::U1L3Q49::Answer the following questions.<br>How have desert species adapted to the arid, harsh conditions?{=Desert species have adapted remarkably to the arid, harsh conditions through physiological and behavioral mechanisms. Examples include water conservation abilities, nocturnal behaviors, burrowing, reduced surface areas to minimize water loss, seeds that can remain dormant for years and specialized feeding strategies.}
+
+::U1L3Q50::Answer the following questions.<br>Compare and contrast two major deserts located in the United States.{=The Mojave Desert and the Sonoran Desert are two major deserts in the United States. The Mojave is higher in elevation, has colder winters, hotter summers and receives less rainfall than the Sonoran. The Sonoran has a higher biodiversity of plant and animal life adapted to its milder winters and biannual rainfall patterns.}
+
+::U1L3Q51::Answer the following questions.<br>Analyze some pros and cons of establishing national parks.{=Pros of establishing national parks include preserving natural environments, protecting ecosystems and wildlife habitats, providing recreational and educational opportunities, driving tourism and economic benefits and safeguarding culturally/historically significant areas. Potential cons involve restricting land use, prohibiting extractive industries, managing visitor impacts and requiring funding for operations and maintenance.}
+
+::U1L3Q52::Answer the following questions.<br>Discuss the importance of preserving biodiversity within protected wilderness areas.{=Preserving biodiversity within protected wilderness areas is crucial for maintaining the health and resilience of ecosystems. It safeguards genetic diversity, allows species to adapt to changing environments, prevents extinctions, supports ecosystem services like pollination and nutrient cycling and upholds the intrinsic value of all life. Protected areas act as biodiversity refuges amid human disturbance.}

@@ -1,0 +1,99 @@
+::U4L1Q1::Choose True or False.<br>King Dinis played a minor role in Portugal's early history.  {F}
+
+::U4L1Q2::Choose True or False.<br>Vasco da Gama reached India on his 1498 voyage.  {T}
+
+::U4L1Q3::Choose True or False.<br>The Treaty of Tordesillas gave Portugal control of lands in Africa and Asia.  {T}
+
+::U4L1Q4::Choose True or False.<br>Prince Henry established a school for art and music.  {F}
+
+::U4L1Q5::Choose True or False.<br>Spain is located on the Scandinavian Peninsula.  {F}
+
+::U4L1Q6::Choose True or False.<br>Spain played a major role in the Age of Exploration. {T}
+
+::U4L1Q7::Choose True or False.<br>The Reconquista refers to the Muslim conquest of Spain. {F}
+
+::U4L1Q8::Choose True or False.<br>Spanish is the only official language of Spain.  {F}
+
+::U4L1Q9::Choose True or False.<br>France shares borders with Spain and Switzerland.  {T}
+
+::U4L1Q10::Choose True or False.<br>The Norman invasion of England originated from Scotland.  {F}
+
+::U4L1Q11::Complete the sentences with suitable words.<br>Christopher Columbus reached the Americas in 1492, leading to Spain's establishment of a vast ................... .  {=colonial empire}
+
+::U4L1Q12::Complete the sentences with suitable words.<br>England went through major social and political upheaval during the ................... .  {=English Civil War}
+
+::U4L1Q13::Complete the sentences with suitable words.<br>................... refers to the gradual process of Christian kingdoms retaking control of the Iberian Peninsula.{=Reconquista}
+
+::U4L1Q14::Complete the sentences with suitable words.<br>Artists like Leonardo Da Vinci created great works of art during the ..................., a time of rebirth in Europe.{=Renaissance}
+
+::U4L1Q15::Complete the sentences with suitable words.<br>Spain lost many of its colonies in the 19th century due to various ................... .  {=independence movements}
+
+::U4L1Q16::Complete the sentences with suitable words.<br>Today, France is known for its vibrant ..................., landmarks and cuisine.{=culture}
+
+::U4L1Q17::Complete the sentences with suitable words.<br>Prince Henry established a school to train navigators for ................... .  {=exploration}
+
+::U4L1Q18::Complete the sentences with suitable words.<br>John White returned to Roanoke Island in 1590 to find the colony ................... .  {=abandoned}
+
+::U4L1Q19::Complete the sentences with suitable words.<br>England established ................... in colonies in North America, Asia, Africa and elsewhere.{=settlements}
+
+::U4L1Q20::Complete the sentences with suitable words.<br>The ................... enabled rapid industrial growth and transformation in England's economy.{=Industrial Revolution}
+
+::U4L1Q21::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>Portugal established a vast ..................... empire with colonies and trading posts around the world. {=maritime}
+
+::U4L1Q22::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>Prince Henry the Navigator encouraged expeditions along the coast of .................... .  {=Africa}
+
+::U4L1Q23::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>.................... da Gama sailed around Africa's Cape of Good Hope and reached India in 1498. {=Vasco}
+
+::U4L1Q24::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>As a result of the Reconquista, the Iberian Peninsula became unified under ................... rule. {=Christian}
+
+::U4L1Q25::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>The .................... Revolution transformed France through the overthrow of the monarchy. {=French}
+
+::U4L1Q26::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>The famous Roman general Julius Caesar conquered the region then known as ................... in 58 BCE. {=Gaul}
+
+::U4L1Q27::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>The ..................... Dynasty ruled England during the time of Henry VIII and Elizabeth I. {=Tudor}
+
+::U4L1Q28::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>The .................... Empire was one of the largest in history, spanning continents.{=British}
+
+::U4L1Q29::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>John White left the Roanoke Colony in 1587 to gather more .................... from England. {=supplies}
+
+::U4L1Q30::Fill in the blanks using the words in the brackets.<br>(Colony – supplies – British – Tudor – Gaul – French – Christian – Vasco – Africa – maritime)<br>The mysterious disappearance of the Roanoke colonists became known as the "Lost .................... of Roanoke." {=Colony}
+
+::U4L1Q31::Choose the correct answer.<br>What century did King Dinis rule Portugal?  {=13th century ~12th century ~14th century ~15th century}
+
+::U4L1Q32::Choose the correct answer.<br>Who established a school for navigation?  {=Prince Henry ~Vasco da Gama ~John White~King Dinis }
+
+::U4L1Q33::Choose the correct answer.<br>What valuable resource did Portugal later extract from Brazil?  {=Sugar ~Coffee ~Tea ~Tobacco}
+
+::U4L1Q34::Choose the correct answer.<br>Which modern-day country did Christopher Columbus sail for?  {=Spain~England ~Portugal ~France }
+
+::U4L1Q35::Choose the correct answer.<br>Which modern-day country did Christopher Columbus sail for?  {=Portugal ~France ~England ~Spain}
+
+::U4L1Q36::Choose the correct answer.<br>What time period refers to the gradual reconquest of Spain from Muslim rule?  {=The Reconquista ~The Inquisition ~The Renaissance~The Restoration }
+
+::U4L1Q37::Choose the correct answer.<br>Which of the following is NOT an official language of Spain? {=Portuguese ~Catalan ~Galician ~Basque}
+
+::U4L1Q38::Choose the correct answer.<br>Who conquered Gaul in 58 BCE?  {=Julius Caesar ~Charlemagne ~Clovis ~Charles Martel}
+
+::U4L1Q39::Choose the correct answer.<br>Which dynasty ruled France during the Hundred Years' War?  {=Carolingian ~Merovingian~Bourbon ~Valois }
+
+::U4L1Q40::Choose the correct answer.<br>Where did the Roanoke Colony attempt to settle?  {=South Carolina~North Carolina ~Virginia ~Florida }
+
+::U4L1Q41::Answer the following questions.<br>What factors allowed Portugal to become an influential maritime power?{=Portugal's naval technology, sponsored exploration, lucrative trade routes, treaty to claim new lands, establishment of maritime empire.}
+
+::U4L1Q42::Answer the following questions.<br>What impact did Spanish colonization have on the Americas?{=Widespread disease, slavery, destruction of indigenous empires, mixing of cultures/peoples, introduction of Christianity, languages, crops etc.}
+
+::U4L1Q43::Answer the following questions.<br>How did the French Revolution transform France politically and socially?{=Overthrew monarchy, ended divine right, shift towards democracy, mob violence, Reign of Terror, eventually Napoleon's rise.}
+
+::U4L1Q44::Answer the following questions.<br>What key events and figures helped shape England's national identity?{=War of Roses, Tudor dynasty, Elizabethan era, British empire, colonialism, English Reformation, Civil War, Glorious Revolution.}
+
+::U4L1Q45::Answer the following questions.<br>Why was the establishment of the Roanoke Colony significant, even though it failed?{=First English colony in North America, mysterious fate influenced future settlements, represented England's vision for colonization.}
+
+::U4L1Q46::Answer the following questions.<br>How did prince Henry's efforts help launch the Age of Discovery?{=Sponsored naval expeditions & navigation school, encouraged exploration of African coast, laid foundation for future discoveries.}
+
+::U4L1Q47::Answer the following questions.<br>What lasting cultural contributions is France renowned for?{=Cuisine, art, philosophy, gothic/Roman architecture, Enlightenment thinkers, fashion, wine.}
+
+::U4L1Q48::Answer the following questions.<br>How was Spain transformed as a result of the Reconquista?{=Catholic kingdoms unified region, expelled Moors/Muslims, consolidated Christian rule on Iberian peninsula.}
+
+::U4L1Q49::Answer the following questions.<br>What major changes did industrialization bring to England?{=Urbanization, transportation networks, economic shifts from farming to manufacturing, class divides.}
+
+::U4L1Q50::Answer the following questions.<br>What theories might explain the mysterious fate of the Lost Colony?{=Assimilation, conflict with natives, abandonment, dispersal by weather event or disease.}

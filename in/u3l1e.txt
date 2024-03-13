@@ -1,0 +1,97 @@
+::U3L1Q1::Choose True or False.<br>Global warming refers to the long-term increase in Earth's average surface temperature due to the accumulation of greenhouse gases in the atmosphere.{T}
+
+::U3L1Q2::Choose True or False.<br>The clearing of forests reduces the Earth's capacity to absorb carbon dioxide (CO2) through photosynthesis.{T}
+
+::U3L1Q3::Choose True or False.<br>Using synthetic fertilizers in agriculture emits nitrous oxide (N2O), which is not a greenhouse gas.{F}
+
+::U3L1Q4::Choose True or False.<br>Certain industrial activities do not release any greenhouse gases.{F}
+
+::U3L1Q5::Choose True or False.<br>Urbanization and soil degradation can release stored carbon into the atmosphere.{T}
+
+::U3L1Q6::Choose True or False.<br>Tropical storms are given names once wind speeds exceed 23 mph.{F}
+
+::U3L1Q7::Choose True or False.<br>A hurricane is categorized as Category 5 if wind speeds exceed 154 mph.{T}
+
+::U3L1Q8::Choose True or False.<br>The initial stage of a hurricane's development is called a tropical disturbance.{T}
+
+::U3L1Q9::Choose True or False.<br>Hurricanes in the Northern Hemisphere rotate clockwise.{F}
+
+::U3L1Q10::A mature hurricane has a poorly defined eye surrounded by scattered thunderstorms.{F}
+
+::U3L1Q11::Complete the sentences with suitable words.<br>The long-term increase in Earth's average temperature due to greenhouse gas accumulation is known as …………..... .{=global warming}
+
+::U3L1Q12::Complete the sentences with suitable words.<br>The natural atmospheric phenomenon that is essential for maintaining habitable temperatures on Earth is called ....................... .{=the greenhouse effect}
+
+::U3L1Q13::Complete the sentences with suitable words.<br>Two major causes of increased greenhouse gas emissions are ………………… .{=fossil fuels and deforestation}
+
+::U3L1Q14::Complete the sentences with suitable words.<br>Strategies to reduce greenhouse gas emissions in order to mitigate climate change effects include ……………... .{=transitioning to renewable energy, improving energy efficiency, sustainable land practices}
+
+::U3L1Q15::Complete the sentences with suitable words.<br>Potential adaptation strategies in Moscow for dealing with climate change could include ……………….. .{=heat-resilient urban planning, enhanced water management, emergency plans}
+
+::U3L1Q16::Complete the sentences with suitable words.<br>The first stage in hurricane development after the initial tropical disturbance is called .......................... .{=tropical depression}
+
+::U3L1Q17::Complete the sentences with suitable words.<br>Two defining features of a mature hurricane are .......................... .{=a well-defined eye and surrounding intense eyewall}
+
+::U3L1Q18::Complete the sentences with suitable words.<br>Evidence of climate change includes ………….......... .{=tropical storm}
+
+::U3L1Q19::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>The initial stage of a hurricane's development begins with a ........................ .{=tropical disturbance}
+
+::U3L1Q20::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>................... gases trap heat from the sun in the Earth's atmosphere.{=Greenhouse}
+
+::U3L1Q21::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>Burning ........................ fuels is the largest contributor to greenhouse gas emissions.{=fossil}
+
+::U3L1Q22::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>Global warming causes ..........................., more frequent heatwaves and ocean acidification.{=rising sea levels}
+
+::U3L1Q23::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>The ............................. Hurricane Wind Scale categorizes hurricanes based on wind speed.{=Saffir-Simpson}
+
+::U3L1Q24::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>Mature hurricanes have a well-defined ……................... surrounded by intense thunderstorms.{=eye}
+
+::U3L1Q25::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>Strategies to combat global warming are known as mitigation and ............................... .{=adaptation}
+
+::U3L1Q26::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>As a hurricane develops, it begins rotating counterclockwise in the Northern Hemisphere and ........................ in the Southern Hemisphere.{=clockwise}
+
+::U3L1Q27::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>Deforestation reduces the Earth's capacity to absorb ........................ through photosynthesis.{=carbon dioxide}
+
+::U3L1Q28::Fill in the blanks using the words in the brackets.<br>(Carbon dioxide – clockwise – eye – rising sea levels – Greenhouse – carbon dioxide – adaptation – Saffir-Simpson – fossil – tropical disturbance)<br>....................... is a potential greenhouse gas released from industrial activities like cement and steel production.{=Carbon dioxide}
+
+::U3L1Q29::Choose the correct answer.<br>Which of the following is the largest contributor to greenhouse gas emissions?{=Burning fossil fuels~Industrial processes~Deforestation~Agriculture}
+
+::U3L1Q30::Choose the correct answer.<br>What is the primary greenhouse gas emitted from agricultural activities?{=Methane~Nitrous oxide~Water vapor~Carbon dioxide}
+
+::U3L1Q31::Choose the correct answer.<br>Which category of hurricane has the fastest wind speeds?{=Category 5~Tropical depression~Category 3~Category 1}
+
+::U3L1Q32::Choose the correct answer.<br>What term refers to a cluster of thunderstorms that can develop into a tropical storm or hurricane?{=Tropical disturbance~Tropical wave~Tropical cyclone~Tropical depression}
+
+::U3L1Q33::Choose the correct answer.<br>Which human activity is a direct result of deforestation?{=Release of stored carbon~Urbanization~Soil degradation~Increased photosynthesis}
+
+::U3L1Q34::Choose the correct answer.<br>What occurs first in the development of a hurricane?{=Tropical disturbance~Tropical storm~Hurricane~Tropical depression}
+
+::U3L1Q35::Choose the correct answer.<br>What atmospheric phenomenon is essential for maintaining a habitable temperature on Earth?{=Greenhouse effect~Global dimming~Urban heat island~Particulate matter}
+
+::U3L1Q36::Choose the correct answer.<br>Which gas contributes the most to amplified greenhouse effect?{=Carbon dioxide~Methane~Nitrous oxide~Ozone}
+
+::U3L1Q37::Choose the correct answer.<br>Which consequence is least likely to result from global warming?{=Lower sea levels~More severe heatwaves~Reduced biodiversit~Ocean acidification}
+
+::U3L1Q38::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Tropical disturbance->Cluster of thunderstorms that starts hurricane development=Tropical depression->23-39 mph wind speeds=Tropical storm->40-74 mph wind speeds=Hurricane->Above 74 mph wind speeds=Greenhouse gases->Trap heat in Earth’s atmosphere}
+
+::U3L1Q39::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Fossil fuels->Coal, oil, natural gas=Deforestation->Reduces CO2 absorption=Mitigation->Reduce emissions to address climate change=Adaptation->Strategies to deal with climate change effects=Mature hurricane->Well-defined eye and eyewall}
+
+::U3L1Q40::Answer the following questions.<br>What is the greenhouse effect and why is it important?{=The greenhouse effect is the trapping of heat from the sun in the Earth's atmosphere by greenhouse gases. It is important because the natural greenhouse effect is essential for maintaining a habitable average temperature on Earth.}
+
+::U3L1Q41::Answer the following questions.<br>How do human activities contribute to climate change?{=Human activities like burning fossil fuels, deforestation, agriculture and certain industrial processes emit greenhouse gases, amplifying the greenhouse effect and contributing to climate change.}
+
+::U3L1Q42::Answer the following questions.<br>What are some impacts of global warming?{=Impacts of global warming include rising sea levels, more frequent and severe heatwaves, changing precipitation patterns that can increase floods or droughts, ocean acidification harming marine ecosystems and disruptions to biodiversity and natural habitats.}
+
+::U3L1Q43::Answer the following questions.<br>What adaptation strategies could Moscow implement to deal with climate change?{=Moscow’s climate adaptation strategies could include improving heat-resilient urban planning using reflective materials and green spaces, enhancing water resource management systems, and developing emergency response plans for extreme weather events worsened by climate change.}
+
+::U3L1Q44::Answer the following questions.<br>Describe the step-by-step development of a hurricane.{=Hurricanes develop from tropical disturbances which organize into tropical depressions. As wind speeds increase, they become tropical storms and then eventually hurricanes if winds exceed 74 mph. Hurricanes have a well-defined eye surrounded by an intense eyewall of thunderstorms.}
+
+::U3L1Q45::Answer the following questions.<br>How do greenhouse gases emitted from human activities differ from natural greenhouse gas emissions?{=Natural greenhouse gas emissions maintain a livable climate on Earth. Human emissions of greenhouse gases from burning fuels, agriculture, deforestation and industry are excess emissions that amplify the greenhouse effect more than natural cycles can balance, causing global warming and climate change.}
+
+::U3L1Q46::Answer the following questions.<br>What measures can individuals take to reduce their impact on climate change?{=Individuals can drive and fly less, walk, bike, or use public transport to reduce emissions. They can also switch household utilities to renewable options, improve home insulation, eat less meat, waste less food and participate in reforestation tree planting activities in their local area.}
+
+::U3L1Q47::Answer the following questions.<br>What are the pros and cons of different alternative energy sources?{=Solar and wind energy produce no direct emissions but rely on batteries or other technology to provide consistent power. Hydroelectric power provides very consistent renewable electricity but affects local water supplies and ecosystems. Biofuels may have fewer emissions but still release carbon and require land and resources to produce. Nuclear produces no direct emissions but poses radioactive waste risks and disasters.}
+
+::U3L1Q48::Answer the following questions.<br>Should governments prioritize climate change mitigation or local economic development? Why?{=Governments should balance mitigation and development based on level of development, resources, vulnerabilities, etc. Poorer countries may focus first on development to reduce poverty and build resilient infrastructure. Rich countries who historically benefitted most from emissions may have more responsibility to lead in mitigation efforts. Mitigating climate change supports long-term development.}
+
+::U3L1Q49::Answer the following questions.<br>How would you convince a climate change skeptic to take action on this issue?{=would focus on localized effects they already see, connect impacts to values they hold dear, discuss risk management/prevention, provide apolitical scientific evidence, give concrete reasonable steps they can take, appeal to responsibility we each have towards future generations. The goal is finding common ground and planting seeds of willingness to address this complex challenge.}

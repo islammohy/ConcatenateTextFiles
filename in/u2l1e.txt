@@ -1,0 +1,103 @@
+::U2L1Q1::Choose True or False.<br>Russia shares a border with Norway.{T}
+
+::U2L1Q2::Choose True or False.<br>The Ural Mountains divide Russia between Europe and Asia.{T}
+
+::U2L1Q3::Choose True or False.<br>Russia has coastlines along the Arctic Ocean and Pacific Ocean.{T}
+
+::U2L1Q4::Choose True or False.<br>The majority of Russia's territory lies in the Western Hemisphere.{F}
+
+::U2L1Q5::Choose True or False.<br>Kaliningrad is an exclave of Russia located between Poland and Lithuania.{T}
+
+::U2L1Q6::Choose True or False.<br>Siberia contains vast wilderness areas and taiga forests.{T}
+
+::U2L1Q7::Choose True or False.<br>Russia crosses the equator in South America.{F}
+
+::U2L1Q8::Choose True or False.<br>The Russian Far East borders countries like China and India.{F}
+
+::U2L1Q9::Choose True or False.<br>St. Petersburg is located in Eastern Europe.{T}
+
+::U2L1Q10::Choose True or False.<br>Russia has no maritime borders.{F}
+
+::U2L1Q11::Complete the sentences with suitable words.<br>Russia shares maritime borders with countries like ........................, Japan off its eastern coast.{=Alaska}
+
+::U2L1Q12::Complete the sentences with suitable words.<br>A small part of Russia known as ........................ lies in the Western Hemisphere.{=Kaliningrad}
+
+::U2L1Q13::Complete the sentences with suitable words.<br>Russia's vast northern coastline includes bodies of water such as the ........................ and Laptev Sea.{=Kara Sea}
+
+::U2L1Q14::Complete the sentences with suitable words.<br>............................., Russia's easternmost region, extends to the Pacific Ocean.{=The Russian Far East}
+
+::U2L1Q15::Complete the sentences with suitable words.<br>The ........................, an imaginary line circling the globe, divides the Earth into Northern and Southern Hemispheres.{=equator}
+
+::U2L1Q16::Complete the sentences with suitable words.<br>Russia possesses a multifaceted role including political, ......................... and cultural dimensions.{=economic}
+
+::U2L1Q17::Complete the sentences with suitable words.<br>Russia bridges the continents of Europe and Asia, occupying a vast territory across ............................ .{=Eurasia}
+
+::U2L1Q18::Complete the sentences with suitable words.<br>Siberia contains geographical features like ........................, tundra and extensive forest vegetation.{=mountain ranges}
+
+::U2L1Q19::Complete the sentences with suitable words.<br>Russia plays a complex role in ..................................... with other nations and organizations.{=complex relations}
+
+::U2L1Q20::Complete the sentences with suitable words.<br>As a nation with rich history, diverse .................... and complex politics, Russia holds a unique global position.{=cultures}
+
+::U2L1Q21::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia shares land borders with countries like ........................ and Finland.{=Norway}
+
+::U2L1Q22::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>The ........................ separate European Russia from Asian Russia.{=Ural Mountains}
+
+::U2L1Q23::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia borders the ........................................ along its northern coastline.{=Arctic Ocean}
+
+::U2L1Q24::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>........................ is an exclave of Russia between Poland and Lithuania.{=Kaliningrad}
+
+::U2L1Q25::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Much of Siberia consists of ........................ and tundra.{=taiga}
+
+::U2L1Q26::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia's easternmost region borders the ................................... .{=Pacific Ocean}
+
+::U2L1Q27::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>The majority of Russia lies in the ........................ Hemisphere.{=Northern}
+
+::U2L1Q28::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia does not cross the ...................................... .{=equator}
+
+::U2L1Q29::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia occupies a unique position between the continents of ........................ and Asia.{=Europe}
+
+::U2L1Q30::Fill in the blanks using the words in the brackets.<br>(shaping – equator – Pacific Ocean – Kaliningrad – Ural Mountains – Europe – Northern – taiga – Arctic Ocean – Norway)<br>Russia plays a pivotal role in ........................ the global stage.{=shaping}
+
+::U2L1Q31::Choose the correct answer.<br>What sea borders the Russian Far East?{=Sea of Okhotsk~Mediterranean Sea~Baltic Sea~Black Sea}
+
+::U2L1Q32::Choose the correct answer.<br>What European countries border Russia?{=Norway and Finland~Greece and Albania~Portugal and France~Italy and Switzerland}
+
+::U2L1Q33::Choose the correct answer.<br>What natural divide separates European Russia from Asian Russia?{=Ural Mountains~Rocky Mountains~Great Dividing Range~Caucasus Mountains}
+
+::U2L1Q34::Choose the correct answer.<br>What bodies of water border Russia's northern coastline?{=Arctic Ocean and Kara Sea~Beaufort Sea and Chukchi Sea~Labrador Sea and Hudson Bay~North Sea and Irish Sea}
+
+::U2L1Q35::Choose the correct answer.<br>What is Russia's easternmost region known as?{=Russian Far East~West Siberia~Kazakhstan~Mongolia}
+
+::U2L1Q36::Choose the correct answer.<br>What hemisphere contains the majority of Russia's territory?{=Western~Northern~Eastern~Southern}
+
+::U2L1Q37::Choose the correct answer.<br>What geographic feature characterizes much of Siberia?{=Taiga forests~Rainforests~Deserts~Grasslands}
+
+::U2L1Q38::Choose the correct answer.<br>Where is Kaliningrad located?{=Between Poland and Lithuania~Central Asia~Russian Far East~Eastern Europe}
+
+::U2L1Q39::Choose the correct answer.<br>What climate is Russia's northern coastline known for?{=Extreme cold~Hot and humid~Wet and rainy~Dry and arid}
+
+::U2L1Q40::Choose the correct answer.<br>Does Russia cross the equator?{=No~Only in some areas~Yes~The text does not say}
+
+::U2L1Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Ural Mountains->Divides Europe from Asia=Siberia->Harsh climate, tundra=Baltic Sea->Borders Kaliningrad=Ukraine->Shares land border with Russia=Pacific Ocean->Borders Russian Far East}
+
+::U2L1Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Northern Asia->Location of most of Russia's territory=Arctic Ocean->Russia's northern coastline=Russian Far East->Russia's easternmost region=Eastern Europe->Location of western Russia=Equator->Russia does not cross it}
+
+::U2L1Q43::Answer the following questions.<br>How would you describe Russia's geographical position in the world?{=Russia has a vast transcontinental geographical position spanning across northern Eurasia. It stretches from Eastern Europe all the way to the Pacific Ocean, occupying a large portion of the landmass between the two continents.}
+
+::U2L1Q44::Answer the following questions.<br>What role have Russia's vast size and diverse landscape played in its history and development?{=Russia's immense size and diverse landscapes have played a profound role in shaping its history and development. The vast territory provided abundant natural resources but also posed logistical challenges for governance, communication, and transportation. The varied landscapes, from the fertile Western plains to the harsh Siberian wilderness, influenced regional cultures, economies and settlement patterns.}
+
+::U2L1Q45::Answer the following questions.<br>How has Russia's location between Europe and Asia influenced its culture and global perspectives?{=Russia's location between Europe and Asia has given it a unique cultural and global perspective. It has absorbed influences from both the East and West, creating a blend of European and Asian traditions. This positioning has also made Russia a bridge between the two continents, shaping its foreign policy and geopolitical outlook.}
+
+::U2L1Q46::Answer the following questions.<br>What are some key geographic features of Russia's landscape?{=Some key geographic features of Russia's landscape include the Ural Mountains, which divide European and Asian Russia; the Siberian Taiga, one of the world's largest forest regions; the Arctic tundra in the north; the Caucasus Mountains in the south; and major rivers like the Volga, Ob and Yenisei.}
+
+::U2L1Q47::Answer the following questions.<br>Why does control of coastal access to oceans play an important role in Russia's geopolitics?{=Control of coastal access to oceans plays a crucial role in Russia's geopolitics because it ensures access to global trade routes and naval power projection. Russia's historical quest for warm water ports, such as those on the Black Sea and the Pacific, has been a driving force behind many of its territorial expansions and conflicts.}
+
+::U2L1Q48::Answer the following questions.<br>How does Russia's climate vary across its vast territory? What challenges or advantages does this pose?{=Russia's climate varies greatly across its vast territory, with Arctic conditions in the north, a continental climate in the interior and more temperate conditions in the southwest. This climatic diversity poses challenges for transportation, agriculture, and resource extraction in certain regions. However, it also provides opportunities for diverse economic activities and self-sufficiency in various sectors.}
+
+::U2L1Q49::Answer the following questions.<br>What event marked the divide between European and Asian Russia? Why was this significant?{=The Ural Mountains, which run from the Arctic Ocean to Kazakhstan, are often considered the geographical divide between European and Asian Russia. This divide has been significant both culturally and economically, as the regions have developed distinct identities and economic specializations over time.}
+
+::U2L1Q50::Answer the following questions.<br>Why is Siberia often characterized as harsh and uninhabitable despite its natural resource wealth?{=Despite its natural resource wealth, Siberia is often characterized as harsh and uninhabitable due to its extreme climate conditions, remoteness and lack of infrastructure. The long, severe winters, vast distances and sparse population have made large-scale development and settlement in Siberia challenging, although the region remains an important source of natural resources for Russia.}
+
+::U2L1Q51::Answer the following questions.<br>How would you characterize Russia's position in the global community?{=Russia occupies a prominent position in the global community as a major economic and military power, a permanent member of the United Nations Security Council and a key player in international organizations like the G20 and the Shanghai Cooperation Organization. However, its assertive foreign policy and involvement in regional conflicts have sometimes strained its relationships with other nations.}
+
+::U2L1Q52::Answer the following questions.<br>What current issues demonstrate Russia's influential role in global affairs?{=Russia's influential role in global affairs is demonstrated by various current issues, such as its involvement in the ongoing conflict in Ukraine, its relationships with countries like China and India, its role in energy markets and climate change negotiations and its stance on issues like cybersecurity and nuclear non-proliferation. These issues underscore Russia's ability to shape global events and its continued relevance as a major world power.}

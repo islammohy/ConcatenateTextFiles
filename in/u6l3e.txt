@@ -1,0 +1,100 @@
+::U6L3Q1::Choose True or False.<br>The space race was a peaceful, cooperative effort between the US and Soviet Union.  {F}
+
+::U6L3Q2::Choose True or False.<br>Sputnik 1 was the first artificial satellite launched into space.  {T}
+
+::U6L3Q3::Choose True or False.<br>NASA was established before the launch of Sputnik 1. {F}
+
+::U6L3Q4::Choose True or False.<br>Yuri Gagarin was the first human to walk on the moon.  {F}
+
+::U6L3Q5::Choose True or False.<br>The Apollo 11 mission succeeded in landing humans on the moon.  {T}
+
+::U6L3Q6::Choose True or False.<br>The Space Shuttle program ended in 2001.  {F}
+
+::U6L3Q7::Choose True or False.<br>The National Defense Education Act focused on improving science education.  {T}
+
+::U6L3Q8::Choose True or False.<br>The "missile gap" referred to Soviet advantages in missile technology.  {T}
+
+::U6L3Q9::Choose True or False.<br>President Kennedy signed the National Defense Education Act.  {F}
+
+::U6L3Q10::Choose True or False.<br>NASA operates the International Space Station.  {T}
+
+::U6L3Q11::Complete the sentences with suitable words.<br>The Space Race was an intense competition between the United States and Soviet Union to demonstrate ................... in space exploration and technology.{=superiority}
+
+::U6L3Q12::Complete the sentences with suitable words.<br>When the Soviet Union launched Sputnik 1 in 1957, the first artificial ..................., it was a major blow to American prestige.{=satellite}
+
+::U6L3Q13::Complete the sentences with suitable words.<br>In response to Sputnik, the United States created NASA, the National ................... and Space Administration in 1958.{=Aeronautics }
+
+::U6L3Q14::Complete the sentences with suitable words.<br>................... Gagarin became an international celebrity as the first human to travel into space aboard Vostok 1 in 1961.{=Yuri}
+
+::U6L3Q15::Complete the sentences with suitable words.<br>The climax of the space race was the ................... 11 moon landing in 1969, an iconic achievement for the United States.{=Apollo}
+
+::U6L3Q16::Complete the sentences with suitable words.<br>From 1981 to 2011, NASA operated the reusable Space ................... vehicles to transport astronauts and cargo into orbit.{=Shuttle}
+
+::U6L3Q17::Complete the sentences with suitable words.<br>The National ................... Education Act invested federal funding into improving science and technology education in American schools.{=Defense}
+
+::U6L3Q18::Complete the sentences with suitable words.<br>Fears about a dangerous "................... gap" with the Soviet Union motivated increased military spending and missile development.{=missile}
+
+::U6L3Q19::Complete the sentences with suitable words.<br>John F. ................... 's presidential campaign gave prominence to the concept of a "missile gap" with the Soviet Union.{=Kennedy}
+
+::U6L3Q20::Complete the sentences with suitable words.<br>President ................... signed the National Defense Education Act into law in September 1958.{=Eisenhower}
+
+::U6L3Q21::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>The Space Race was an intense competition between the United States and the Soviet .................. . {=Union}
+
+::U6L3Q22::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>................... was the first artificial satellite launched into space on October 4, 1957.{=Sputnik 1}
+
+::U6L3Q23::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>NASA stands for the National ................... and Space Administration.{=Aeronautics}
+
+::U6L3Q24::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>................... became the first human in space in 1961 aboard Vostok 1.{=Yuri Gagarin}
+
+::U6L3Q25::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>The ................... 11 mission succeeded in landing astronauts on the lunar surface in 1969.{=Apollo}
+
+::U6L3Q26::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>The Space Shuttle program operated from 1981 to .................. .{=2011}
+
+::U6L3Q27::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>The National Defense Education Act was signed in 1958 following the launch of ................... 1 by the Soviet Union.{=Sputnik}
+
+::U6L3Q28::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>There were concerns about a ".................... gap" related to perceptions of Soviet missile superiority.{=missile}
+
+::U6L3Q29::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>................... was elected president in 1960 after highlighting the "missile gap" during his campaign.{=Kennedy}
+
+::U6L3Q30::Fill in the blanks using the words in the brackets.<br>(Eisenhower – Kennedy – missile – Sputnik – 2011 – Apollo – Yuri Gagarin – Aeronautics – Sputnik 1 – Union)<br>................... signed the National Defense Education Act into law in September 1958.{=Eisenhower}
+
+::U6L3Q31::Choose the correct answer.<br>What was the first artificial satellite launched into space?  {=Sputnik 1 ~Gemini~Apollo 11 ~Explorer 1 }
+
+::U6L3Q32::Choose the correct answer.<br>When was NASA established?  {=1958~1957~1961~1969}
+
+::U6L3Q33::Choose the correct answer.<br>Who was the first human in space?  {=Yuri Gagarin ~Alan Shepard~Buzz Aldrin ~Neil Armstrong}
+
+::U6L3Q34::Choose the correct answer.<br>What was the goal of the National Defense Education Act?  {=Improve math and science education ~Build more nuclear weapons ~Increase NASA's budget ~Beat the Soviet Union in the space race}
+
+::U6L3Q35::Choose the correct answer.<br>What famous words were spoken when humans first stepped on the moon?  {="One small step for man"~"Godspeed, John Glenn" ~"Mission accomplished"~"The Eagle has landed"}
+
+::U6L3Q36::Choose the correct answer.<br>What program operated from 1981-2011?  {=Space Shuttle~Apollo ~Mercury ~Gemini }
+
+::U6L3Q37::Choose the correct answer.<br>What event triggered the establishment of NASA?  {=Sputnik launch ~Moon landing ~Challenger explosion ~Columbine disaster}
+
+::U6L3Q38::Choose the correct answer.<br>What gap referred to perceptions of Soviet missile superiority?  {=Missile gap ~Technology gap ~Funding gap~Space gap }
+
+::U6L3Q39::Choose the correct answer.<br>Who signed the National Defense Education Act?  {=Eisenhower ~Kennedy ~Nixon ~Johnson}
+
+::U6L3Q40::Choose the correct answer.<br>What does NASA stand for?  {=National Aeronautics and Space Administration ~National Association of Space Aviation ~National Aeronautics and Aeronautics~National Authority on Space Activities }
+
+::U6L3Q41::Answer the following questions.<br>Why was the launch of Sputnik 1 in 1957 such a significant event? What impact did it have?{=The launch of Sputnik 1 in 1957 was a significant event because it marked the beginning of the space age and the space race between the United States and the Soviet Union. It was the first artificial satellite to be launched into Earth's orbit, and it caught the United States by surprise, as the Soviets had achieved a major technological breakthrough. Sputnik's launch had a profound psychological impact on the American public, creating fears of Soviet technological superiority and concerns about national security.}
+
+::U6L3Q42::Answer the following questions.<br>What were some of the key motivations behind the space race between the US and Soviet Union?{=The space race between the US and Soviet Union was driven by a complex mix of motivations, including national prestige, technological competition, military considerations, and ideological rivalry during the Cold War era. Both superpowers sought to demonstrate their technological prowess and scientific capabilities, as well as assert their dominance on the global stage. There were also concerns about potential military applications of space technology, such as intercontinental ballistic missiles and satellite reconnaissance.}
+
+::U6L3Q43::Answer the following questions.<br>What role did the perceived "missile gap" play in shaping American politics and policy in the late 1950s?{=The perceived "missile gap" played a significant role in shaping American politics and policy in the late 1950s. There was a widespread belief, fueled by Soviet propaganda, that the Soviet Union had surpassed the United States in the development of intercontinental ballistic missiles (ICBMs). This perceived gap in missile capabilities created a sense of urgency and fear in the United States, leading to increased military spending, the acceleration of missile development programs, and a renewed emphasis on science and technology education.}
+
+::U6L3Q44::Answer the following questions.<br>What were some of the technological and scientific achievements to emerge from the space race era?{=The space race era fostered numerous technological and scientific achievements, including advancements in rocket propulsion, materials science, computer technology, telecommunications, and our understanding of the Earth and the solar system. It led to the development of sophisticated launch vehicles, spacecraft, and space-based systems for navigation, communication, and Earth observation. The need to solve complex engineering and scientific challenges also drove innovation in fields such as aerodynamics, electronics, and life support systems.}
+
+::U6L3Q45::Answer the following questions.<br>How did events like Sputnik influence American concerns about math, science and technology education?{=Events like Sputnik highlighted perceived deficiencies in American math, science, and technology education. The launch of Sputnik sparked a national effort to improve science and engineering education in the United States. This led to the establishment of new educational initiatives, such as the National Defense Education Act of 1958, which provided funding for science, mathematics, and foreign language instruction. It also encouraged curriculum reforms and the development of new teaching methods to better prepare students for careers in science, technology, engineering, and mathematics (STEM) fields.}
+
+::U6L3Q46::Answer the following questions.<br>What made the moon landing by Apollo 11 in 1969 such an iconic moment? What did it represent?{=The moon landing by Apollo 11 in 1969 was an iconic moment that represented a remarkable achievement in human exploration and technological capabilities. It was a culmination of the space race between the United States and the Soviet Union, with the United States emerging as the winner in the race to land humans on the Moon. The Moon landing captured the imagination of people around the world and demonstrated the potential of human ingenuity and determination. It represented a triumph of science, engineering, and human spirit, and it continues to inspire generations of explorers and scientists.}
+
+::U6L3Q47::Answer the following questions.<br>How have NASA's human spaceflight programs like Mercury, Gemini, Apollo and the Space Shuttle contributed to space exploration?{=NASA's human spaceflight programs, including Mercury, Gemini, Apollo, and the Space Shuttle, have made significant contributions to space exploration. They have enabled the exploration of low Earth orbit, the Moon, and the development of technologies and techniques for long-duration spaceflight. These programs have advanced our understanding of the effects of microgravity on the human body, developed techniques for rendezvous and docking, and facilitated the construction and maintenance of the International Space Station. They have also inspired generations of scientists, engineers, and explorers, and have fostered international cooperation in space exploration.}
+
+::U6L3Q48::Answer the following questions.<br>What have been NASA's most important roles, responsibilities and contributions over the decades?{=NASA's most important roles, responsibilities, and contributions over the decades have included advancing scientific knowledge through robotic and human exploration missions, developing cutting-edge technologies for space exploration and aeronautics, conducting Earth and space science research, and fostering international cooperation in space activities. NASA has played a crucial role in expanding human knowledge of the Earth, the solar system, and the universe through missions like the Hubble Space Telescope, the Mars Exploration Rovers, and the James Webb Space Telescope. NASA has also contributed to the development of technologies that have had wide-ranging applications, from weather satellites to GPS navigation.}
+
+::U6L3Q49::Answer the following questions.<br>How did the rivalry between the superpowers influence technological development during the Cold War era?{=The rivalry between the superpowers during the Cold War era significantly influenced technological development. The space race, in particular, acted as a catalyst for innovation and rapid progress in fields such as rocketry, materials science, and computer technology. The drive to achieve technological superiority and to demonstrate national capabilities fueled investments in research and development, leading to advancements that had both military and civilian applications. The competition between the United States and the Soviet Union accelerated the pace of technological progress and pushed the boundaries of what was possible.}
+
+::U6L3Q50::Answer the following questions.<br>What legacy and impact has the space race had on present-day space exploration, science and technology?{=The space race has left a lasting legacy and has had a profound impact on present-day space exploration, science and technology. It laid the foundation for international cooperation in space activities, as demonstrated by initiatives like the International Space Station. The technological advancements made during the space race continue to inspire and enable current space exploration efforts, such as missions to study the solar system, explore the universe with advanced telescopes, and develop new launch vehicles and spacecraft. The spirit of exploration and the drive to push the boundaries of human knowledge and capabilities, which were hallmarks of the space race era, continue to motivate and guide space agencies, scientists, and engineers today. The space race also sparked interest in STEM education and inspired generations of scientists and engineers, 
+contributing to the ongoing technological and scientific progress in various fields.}

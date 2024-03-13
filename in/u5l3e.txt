@@ -1,0 +1,99 @@
+::U5L3Q1::Choose True or False.<br>The Civil War took place between 1850 and 1860. {F}
+
+::U5L3Q2::Choose True or False.<br>The North was also called the Confederacy. {F}
+
+::U5L3Q3::Choose True or False.<br>The South relied heavily on agriculture and farming. {T}
+
+::U5L3Q4::Choose True or False.<br>The North wanted slavery to continue existing.  {F}
+
+::U5L3Q5::Choose True or False.<br>The Emancipation Proclamation immediately freed all enslaved people.  {F}
+
+::U5L3Q6::Choose True or False.<br>Soldiers on both sides endured harsh conditions during the war.  {T}
+
+::U5L3Q7::Choose True or False.<br>Medical care was quite advanced during the Civil War.  {F}
+
+::U5L3Q8::Choose True or False.<br>The South was more industrialized than the North.  {F}
+
+::U5L3Q9::Choose True or False.<br>President Lincoln issued the Emancipation Proclamation.  {T}
+
+::U5L3Q10::Choose True or False.<br>The Civil War had no major effects on the country.  {F}
+
+::U5L3Q11::Complete the sentences with suitable words.<br>One name for the northern states was the .................. . {=Union}
+
+::U5L3Q12::Complete the sentences with suitable words.<br>The southern states believed in ...................., which means each state should control its own laws.{=states rights}
+
+::U5L3Q13::Complete the sentences with suitable words.<br>The North was against ..................... and wanted to make it illegal.{=slavery}
+
+::U5L3Q14::Complete the sentences with suitable words.<br>The South relied more on .................... and farming  for its economy.{=agriculture}
+
+::U5L3Q15::Complete the sentences with suitable words.<br>.................................. said that slaves in the Confederate states would be freed.{=Abraham Lincoln}
+
+::U5L3Q16::Complete the sentences with suitable words.<br>The Emancipation Proclamation led to more rights for ................... . {=African Americans}
+
+::U5L3Q17::Complete the sentences with suitable words.<br>.................... was President of the U.S. during the Civil War.{=Abraham Lincoln}
+
+::U5L3Q18::Complete the sentences with suitable words.<br>Soldiers faced dangers like .................... on the battlefield along with infections and inadequate medical care.{=gunshot wounds}
+
+::U5L3Q19::Complete the sentences with suitable words.<br>After the war ended in ...................., the country was forever changed.{=1865}
+
+::U5L3Q20::Complete the sentences with suitable words.<br>Key ................... and leaders  like Abraham Lincoln and Robert E. Lee shaped events.{=figures}
+
+::U5L3Q21::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The northern states were known as the .................. . {=Union}
+
+::U5L3Q22::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The southern states formed their own group called the .................... of America.{=Confederate States}
+
+::U5L3Q23::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The North wanted to .................. slavery.{=abolish}
+
+::U5L3Q24::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The South relied heavily on .................. .{=agriculture}
+
+::U5L3Q25::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>Many people were injured or died on the .................. . {=battlefield}
+
+::U5L3Q26::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>..................... said enslaved people in the South would be freed.{=Abraham Lincoln}
+
+::U5L3Q27::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The Emancipation Proclamation led to rights and freedom for all .................. . {=African Americans}
+
+::U5L3Q28::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>Life as a ................... on either side was very difficult.{=soldier}
+
+::U5L3Q29::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The North had more big factories and .................. . {=cities}
+
+::U5L3Q30::Fill in the blanks using the words in the brackets.<br>(changes – cities – soldier – African Americans – Abraham Lincoln – battlefield – agriculture – abolish – Confederate States – Union)<br>The Civil War caused major ..................... to the country.{=changes}
+
+::U5L3Q31::Choose the correct answer.<br>What were the two main sides fighting each other in the Civil War? {=The Union and Confederacy~The Democrats and Republicans~The North and South ~The Allies and the Central Powers }
+
+::U5L3Q32::Choose the correct answer.<br>What issue was a major cause of the Civil War?  {=States' rights~Trade disputes ~Immigration policy ~Taxation}
+
+::U5L3Q33::Choose the correct answer.<br>What type of economy did the South have?  {=Agricultural~Industrial~Trading ~Manufacturing}
+
+::U5L3Q34::Choose the correct answer.<br>Who issued the Emancipation Proclamation?  {=Abraham Lincoln~Robert E. Lee ~Ulysses S. Grant ~Jefferson Davis }
+
+::U5L3Q35::Choose the correct answer.<br>Where did most fighting take place during the war?  {=In the southern states~In the northern states~In the western territories ~At sea }
+
+::U5L3Q36::Choose the correct answer.<br>What did the Emancipation Proclamation state?  {=That slaves were freed only in Confederate states~That slavery would still be allowed~That all slaves were free in the United States ~That the South had won the war }
+
+::U5L3Q37::Choose the correct answer.<br>Who was the President of the United States during the Civil War?  {=Abraham Lincoln~Franklin Roosevelt ~Woodrow Wilson~Andrew Jackson }
+
+::U5L3Q38::Choose the correct answer.<br>Medicine during the Civil War was:  ...................... .{=Rudimentary~Advanced ~Mostly herbal ~Modern}
+
+::U5L3Q39::Choose the correct answer.<br>The North had more:  ...................... .{=Factories and cities~Plantations~Dirt roads ~Rural farmland }
+
+::U5L3Q40::Choose the correct answer.<br>The Civil War ended in:  .......................... .{=1865~1860~1950~1954}
+
+::U5L3Q41::Answer the following questions.<br>What were some of the main factors that led to the Civil War?{=Main factors leading to the Civil War included disputes over states' rights versus federal authority, differences between the North's and South's economies and ways of life and most importantly, moral disagreements over the issue of slavery.}
+
+::U5L3Q42::Answer the following questions.<br>Why did the North and South disagree so strongly over the issue of slavery?{=The North viewed slavery as immoral and wanted to abolish it nationwide. The Southern economy depended on slavery and Southerners wanted to protect it as an institution.}
+
+::U5L3Q43::Answer the following questions.<br>What hardships did soldiers face during the Civil War?{=Soldiers faced grueling marches, disease, inadequate medical care, poor conditions in camp and the horror of battles' carnage. Many soldiers died from illness rather than combat.}
+
+::U5L3Q44::Answer the following questions.<br>Why was the Emancipation Proclamation such a significant event?{=The Emancipation Proclamation freed all slaves in rebelling states. This transformed the war into a struggle against slavery, preventing European allies for the South and enabling African American troops for the North.}
+
+::U5L3Q45::Answer the following questions.<br>How did the economies of the North and South differ?{=The industrial North had an urban economy while the agrarian South relied on cash crops, especially cotton, cultivated by the slave system.}
+
+::U5L3Q46::Answer the following questions.<br>What tactics were used by each side during battlefield fighting?{=Tactics included infantry charges, trench warfare, artillery barrages, naval engagements, low-scale guerrilla actions, cavalry raids and finally total war against infrastructure and civilian resources.}
+
+::U5L3Q47::Answer the following questions.<br>What modern medical practices could have improved care for wounded Civil War soldiers?{=Modern nursing care, sterilization procedures, ambulances and triage principles could have reduced deaths from wounds and disease. Overcrowded field hospitals contributed to infections and death.}
+
+::U5L3Q48::Answer the following questions.<br>How did leaders like Abraham Lincoln influence the course and outcome of the war?{=Lincoln's political leadership preserved unity in the North, advanced moral opposition to slavery and fostered commitment to restoring the Union by force. His Gettysburg Address articulated democratic principles central to the war.}
+
+::U5L3Q49::Answer the following questions.<br>What were some of the long-term impacts of the Civil War?{=The Civil War boosted federal authority, settled the slavery issue, unified the nation under democratic government, accelerated industrialization and led to over 600,000 military deaths alone, more than any other U.S. conflict.}
+
+::U5L3Q50::Answer the following questions.<br>How did slavery's abolition transform social culture in America?{=Abolishing slavery led to amendments guaranteeing civil rights and equality before the law, although implementation has been problematic. Cultural impacts include promoting human rights as a moral imperative which influences U.S. policy and debates today.}

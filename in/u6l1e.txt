@@ -1,0 +1,99 @@
+::U6L1Q1::Choose True or False.<br>The Cold War was a direct military conflict between the U.S. and Soviet Union.  {F}
+
+::U6L1Q2::Choose True or False.<br>The U.S. supported capitalism while the Soviet Union championed communism.  {T}
+
+::U6L1Q3::Choose True or False.<br>The Cuban Missile Crisis took place in 1963.  {T}
+
+::U6L1Q4::Choose True or False.<br>Fidel Castro came from a poor family in Cuba.  {F}
+
+::U6L1Q5::Choose True or False.<br>The Bay of Pigs invasion succeeded in overthrowing Castro. {F}
+
+::U6L1Q6::Choose True or False.<br>The Cold War led to a nuclear arms race between the superpowers. {T}
+
+::U6L1Q7::Choose True or False.<br>The U.S. placed missiles near the Soviet border in Yugoslavia.  {F}
+
+::U6L1Q8::Choose True or False.<br>The Soviet Union sent the first human into space.  {T}
+
+::U6L1Q9::Choose True or False.<br>The Korean War involved China supporting North Korea.  {T}
+
+::U6L1Q10::Choose True or False.<br>The Cold War only influenced Europe and North America.  {F}
+
+::U6L1Q11::Complete the sentences with suitable words.<br>The Cold War was characterized by intense rivalry between the capitalist United States and communist Soviet Union after .................... . {=World War II}
+
+::U6L1Q12::Complete the sentences with suitable words.<br>Instead of direct warfare, the superpowers engaged in proxy wars by supporting opposing sides in regional conflicts like the Korean War and .................... .  {=Vietnam War}
+
+::U6L1Q13::Complete the sentences with suitable words.<br>The Cold War led to a dangerous nuclear .................... between the United States and Soviet Union. {=arms race}
+
+::U6L1Q14::Complete the sentences with suitable words.<br>Major events during the Cold War included the .................... when the U.S. discovered Soviet nuclear missiles in Cuba. {=Cuban Missile Crisis}
+
+::U6L1Q15::Complete the sentences with suitable words.<br>Fidel Castro was a Cuban revolutionary who aligned with the .................... bloc after seizing power in 1959. {=Soviet}
+
+::U6L1Q16::Complete the sentences with suitable words.<br>The United States attempted and failed to overthrow Castro in the 1961 ................... invasion of Cuba.{=Bay of Pigs}
+
+::U6L1Q17::Complete the sentences with suitable words.<br>Tensions erupted in the Korean peninsula in 1950 when .................... invaded South Korea, sparking full-scale war.{=North Korea}
+
+::U6L1Q18::Complete the sentences with suitable words.<br>The Cold War era featured rivalry between capitalist and communist ideologies championed by the .................... and Soviet blocs.{=Western}
+
+::U6L1Q19::Complete the sentences with suitable words.<br>Major Cold War .................... agencies included the American CIA and Soviet KGB. {=intelligence}
+
+::U6L1Q20::Complete the sentences with suitable words.<br>The Soviet Union beat the U.S. in key early space race milestones like launching .................... in 1957.{=Sputnik}
+
+::U6L1Q21::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The Cold War was an intense rivalry between the United States and the ..................... Union. {=Soviet}
+
+::U6L1Q22::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>Instead of direct military conflict, the superpowers often engaged in .................... wars. {=proxy}
+
+::U6L1Q23::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The .................... race was a key part of the U.S.-Soviet rivalry during the Cold War.{=space}
+
+::U6L1Q24::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>.................... intelligence agencies like the CIA and KGB played major roles during the Cold War. {=Espionage}
+
+::U6L1Q25::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The discovery of Soviet nuclear missiles in Cuba sparked the dangerous .................... Missile Crisis. {=Cuban}
+
+::U6L1Q26::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>Fidel Castro led the 1959 Cuban Revolution in …............. . {=Cuba}
+
+::U6L1Q27::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>Castro aligned his government with the communist .................... bloc after taking power. {=Soviet}
+
+::U6L1Q28::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The failed 1961 Bay of Pigs invasion aimed to .................... Castro from power in Cuba. {=remove}
+
+::U6L1Q29::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The Korean War started after North Korea invaded .................... in 1950. {=South Korea}
+
+::U6L1Q30::Fill in the blanks using the words in the brackets.<br>(bipolar – South Korea – remove – Soviet – Cuba – Cuban – Espionage – space – proxy – Soviet)<br>The Cold War era from 1945-1991 is often described as ...................., dominated by two superpowers. {=bipolar}
+
+::U6L1Q31::Choose the correct answer.<br>What type of economic system did the United States favor during the Cold War?  {=Capitalism ~Communism ~Socialism ~Fascism }
+
+::U6L1Q32::Choose the correct answer.<br>When did the Cuban Missile Crisis occur?  {=1962~1963~1961~1959}
+
+::U6L1Q33::Choose the correct answer.<br>Who led the failed Bay of Pigs invasion of Cuba?  {=Cuban exiles ~John F. Kennedy ~Dwight Eisenhower ~Fidel Castro }
+
+::U6L1Q34::Choose the correct answer.<br>Which country sent the first human into space?  {=Soviet Union ~China ~United States~Japan }
+
+::U6L1Q35::Choose the correct answer.<br>What triggered the start of the Korean War?  {=North Korean invasion of South Korea ~South Korean invasion of North Korea~United Nations invasion of North Korea ~U.S. invasion of North Korea }
+
+::U6L1Q36::Choose the correct answer.<br>What is MAD an acronym for?  {=Mutually Assured Destruction~Massive Atomic Devices ~Military Alliance for Defense ~Militarized Armored Division }
+
+::U6L1Q37::Choose the correct answer.<br>What political ideology did Fidel Castro align Cuba with?  {=Communism~Socialism ~Democracy ~Capitalism }
+
+::U6L1Q38::Choose the correct answer.<br>What was the name of the Soviet spy agency during the Cold War?  {=KGB ~MI6 ~CIA ~NSA }
+
+::U6L1Q39::Choose the correct answer.<br>What triggered the Cuban Missile Crisis?  {=Discovery of Soviet nukes in Cuba~Cuba leaving the Soviet bloc ~Cuba joining NATO ~U.S. invasion plan for Cuba }
+
+::U6L1Q40::Choose the correct answer.<br>Which Cold War conflict involved Soviet and Chinese support for North Korea?  {=Korean War~Soviet-Afghan War ~Angolan Civil War ~Vietnam War }
+
+::U6L1Q41::Answer the following questions.<br>What were the key causes of the onset and origins of the Cold War after WWII between the capitalist United States and communist Soviet Union spheres?{=The key causes of the onset and origins of the Cold War after WWII were the ideological differences between the capitalist United States and the communist Soviet Union, along with mutual distrust and suspicion. The two superpowers emerged from WWII with competing economic and political systems, leading to a struggle for global influence.}
+
+::U6L1Q42::Answer the following questions.<br>How did the Cold War lead to an extensive nuclear arms buildup and tense situations like the Cuban Missile Crisis?{=The Cold War led to an extensive nuclear arms buildup as both sides sought to deter the other through the threat of mutually assured destruction. Tense situations like the Cuban Missile Crisis arose due to the high stakes involved and the potential for miscalculation or escalation between the two heavily armed blocs.}
+
+::U6L1Q43::Answer the following questions.<br>What role did intelligence agencies and espionage play during the Cold War between the United States and Soviet spheres?{=Intelligence agencies and espionage played a crucial role during the Cold War. Both sides engaged in extensive spying and counterintelligence operations to gather information and undermine the other's efforts. Agencies like the CIA and KGB were at the forefront of this covert struggle.}
+
+::U6L1Q44::Answer the following questions.<br>In what ways were newly independent developing nations impacted by Cold War tensions and ideology struggles between the two superpowers?{=Newly independent developing nations were often caught in the middle of the Cold War tensions and ideological struggles between the United States and the Soviet Union. Both superpowers sought to expand their spheres of influence and win over these nations through economic aid, military assistance, or ideological persuasion.}
+
+::U6L1Q45::Answer the following questions.<br>What impact did space exploration have as a dimension of Cold War superpower competition between the United States and Soviet Spheres?{=Space exploration became a key dimension of Cold War superpower competition, with both the United States and the Soviet Union seeking to demonstrate technological superiority and project global power through achievements like the Space Race and the Moon landings.}
+
+::U6L1Q46::Answer the following questions.<br>How did proxy wars, regional conflicts and wars like Korea and Vietnam reflect Cold War tensions between West and East blocs?{=Proxy wars, regional conflicts, and wars like Korea and Vietnam reflected the broader Cold War tensions between the Western and Eastern blocs. These conflicts allowed the superpowers to exert influence and support their respective allies without engaging in direct military confrontation.}
+
+::U6L1Q47::Answer the following questions.<br>What was the long-term global impact of Cold War policies and interventions pursued by the two rival superpowers?{=The long-term global impact of Cold War policies and interventions pursued by the two rival superpowers was significant. It shaped the geopolitical landscape, led to the formation of alliances and blocs and had lasting effects on many countries' political, economic, and social systems.}
+
+::U6L1Q48::Answer the following questions.<br>Why did the United States perceive Castro's Cuba as an ideological and geopolitical threat in the context of Cold War dynamics in the Americas?{=The United States perceived Castro's Cuba as an ideological and geopolitical threat in the context of Cold War dynamics in the Americas due to Cuba's embrace of communism and its alignment with the Soviet Union. This was seen as a potential foothold for Soviet influence in the Western Hemisphere, prompting actions like the Bay of Pigs invasion.}
+
+::U6L1Q49::Answer the following questions.<br>What common themes connect Cold War events like Korean War, Cuban Missile Crisis, nuclear arms race and the Bay of Pigs invasion?{=Common themes that connect events like the Korean War, the Cuban Missile Crisis, the nuclear arms race and the Bay of Pigs invasion include superpower rivalry, the struggle for global influence, the threat of nuclear escalation, and the use of proxy forces and interventions to further ideological and geopolitical objectives.}
+
+::U6L1Q50::Answer the following questions.<br>In what ways did the Cold War era between 1945-1991 shape current international geopolitics and relations between former rival spheres and allies?{=The Cold War era between 1945-1991 shaped current international geopolitics and relations in significant ways. It led to the formation of NATO and the Warsaw Pact, which still influence global security dynamics. It also left a legacy of mistrust and competition between former rivals like the United States and Russia, as well as complex relationships with former allies and client states.}

@@ -1,0 +1,99 @@
+::U4L3Q1::Choose True or False.<br>Mercantilism was an economic theory that emerged in the 16th century. {T}
+
+::U4L3Q2::Choose True or False.<br>Mercantilism focused on accumulating land as a source of national wealth. {F}
+
+::U4L3Q3::Choose True or False.<br>Colonial expansion was encouraged under mercantilist policies.{T}
+
+::U4L3Q4::Choose True or False.<br>Mercantilism promoted free trade policies with minimal government intervention. {F}
+
+::U4L3Q5::Choose True or False.<br>Jean-Baptist Colbert coined the term “mercantilism” in the 17th century. {T}
+
+::U4L3Q6::Choose True or False.<br>The Industrial Revolution strengthened mercantilist ideas and practices. {F}
+
+::U4L3Q7::Choose True or False.<br>Enlightenment thinkers like Adam Smith argued in support of mercantilism. {F}
+
+::U4L3Q8::Choose True or False.<br>Maintaining overseas colonies became less economically beneficial over time. {T}
+
+::U4L3Q9::Choose True or False.<br>The American Revolution reinforced British mercantilist control. {F}
+
+::U4L3Q10::Choose True or False.<br>Mercantilism was eventually replaced by capitalist economic systems. {T}
+
+::U4L3Q11::Complete the sentences with suitable words.<br>Mercantilism was based on the central idea that national power depended on accumulating .................. . {=precious metals}
+
+::U4L3Q12::Complete the sentences with suitable words.<br>To expand national wealth under mercantilism, governments sought to export more than they .................. .{=imported}
+
+::U4L3Q13::Complete the sentences with suitable words.<br>European nations established colonial territories overseas to secure resources and develop new ................... for exports.{=markets}
+
+::U4L3Q14::Complete the sentences with suitable words.<br>Protectionist trade policies aimed to ................... domestic industries against foreign competition.{=protect}
+
+::U4L3Q15::Complete the sentences with suitable words.<br>Jean-Baptist Colbert served King ................... XIV and first coined the term “mercantilism.”{=Louis}
+
+::U4L3Q16::Complete the sentences with suitable words.<br>The ................................... represented a break from British mercantilist control in North America.{=American Revolution}
+
+::U4L3Q17::Complete the sentences with suitable words.<br>Over time, the economic focus shifted from precious ................... to productive capacities like factories.{=metals }
+
+::U4L3Q18::Complete the sentences with suitable words.<br>The ideas of .................................... and free trade markets gained influence as alternatives to mercantilism.{=Adam Smith}
+
+::U4L3Q19::Complete the sentences with suitable words.<br>By the late 18th and early 19th centuries, ................... ideas had displaced mercantilist policies.{=Enlightenment}
+
+::U4L3Q20::Complete the sentences with suitable words.<br>The decline of mercantilism cleared the way for the eventual rise of ................... economies in the 19th century.{=capitalist}
+
+::U4L3Q21::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Mercantilism was an economic system prominent in Europe between the 16th and ................... centuries.{=18th}
+
+::U4L3Q22::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Mercantilism encouraged accumulating wealth through ................... trade balances.{=favorable}
+
+::U4L3Q23::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Colonies provided raw materials and served as markets for the ................... country's goods.{=mother}
+
+::U4L3Q24::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Protectionist policies like ................... aimed to ensure favorable trade balances.{=tariffs}
+
+::U4L3Q25::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Under mercantilism, governments actively ....................... industry and trade.{=regulated}
+
+::U4L3Q26::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>Core mercantilist beliefs originated in an age of ................... and colonization by European powers.{=exploration}
+
+::U4L3Q27::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>The ................... challenged prevailing assumptions about colonial power and mercantilist control.{=American Revolution}
+
+::U4L3Q28::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>................... like Adam Smith critiqued mercantilism and promoted free trade.{=Enlightenment thinkers  }
+
+::U4L3Q29::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>The costs of maintaining ................... made colonies less economically beneficial overtime.{=colonies}
+
+::U4L3Q30::Fill in the blanks using the words in the brackets.<br>(capitalist theories – colonies – Enlightenment thinkers – American Revolution – exploration – regulated – tariffs – mother – favorable – 18th)<br>By the 19th century, ............................... had displaced mercantilism as the dominant theory.{=capitalist theories}
+
+::U4L3Q31::Choose the correct answer.<br>What was the main goal of mercantilist policies?  {=Accumulate precious metals like gold and silver ~Promote individual property rights ~Establish a system of free trade ~Develop a feudal economy}
+
+::U4L3Q32::Choose the correct answer.<br>How did European powers expand under mercantilism?  {=Establishment of colonies overseas ~Distribution of land~Development of trade routes ~Territorial conquests }
+
+::U4L3Q33::Choose the correct answer.<br>What facilitated the rise of industrialization?  {=The Industrial Revolution ~Imperialism~Capitalism ~Mercantilism }
+
+::U4L3Q34::Choose the correct answer.<br>What kind of economic policies did mercantilism favor?  {=Laissez-faire ~Protectionist ~Socialist ~Communist}
+
+::U4L3Q35::Choose the correct answer.<br>Who coined the term “mercantilism”?  {=John Locke~Napoleon Bonaparte ~Jean-Baptist Colbert ~Adam Smith }
+
+::U4L3Q36::Choose the correct answer.<br>What challenged the foundations of mercantilism?  {=The Napoleonic Wars ~The Enlightenment~The Industrial Revolution ~Colonialism }
+
+::U4L3Q37::Choose the correct answer.<br>What idea threatened mercantilist policies?  {=accumulate precious metals ~restricted trade ~free markets ~government control of the economy}
+
+::U4L3Q38::Choose the correct answer.<br>What war demonstrated challenges with maintaining overseas colonies?  {=The Napoleonic Wars~The French Revolution ~World War I ~The American Revolution }
+
+::U4L3Q39::Choose the correct answer.<br>What system eventually replaced mercantilism?  {=Communism ~Socialism ~Feudalism ~Capitalism}
+
+::U4L3Q40::Choose the correct answer.<br>Mercantilism focused on precious metals rather than: …..................... .{=Land ~Factories ~Ships ~Crops}
+
+::U4L3Q41::Answer the following questions.<br>How did mercantilism define economic power, and what policies did governments pursue as a result?{=Mercantilism defined economic power through accumulation of precious metals gained via trade surpluses. Governments sought favorable trade balances through protectionism, colonialism, etc.}
+
+::U4L3Q42::Answer the following questions.<br>What was the role of colonies under the mercantilist system?{=Colonies provided raw materials, markets for exports, revenue streams for the home country.}
+
+::U4L3Q43::Answer the following questions.<br>Why did European powers embrace colonial expansion under mercantilism? What benefits did they hope to achieve?{=Benefits included precious metals, new resources, expanded markets and influence.}
+
+::U4L3Q44::Answer the following questions.<br>In what ways did protectionist trade policies align with mercantilist ideas? How were imports and exports managed?{=Protectionism aligned by restricting imports to improve trade balances and prioritizing domestic production.}
+
+::U4L3Q45::Answer the following questions.<br>What are some factors that led to the decline of mercantilism between the 17th and 19th centuries?{=Factors include new economic realities, Enlightenment ideas, industrialization, high costs of colonies, American Revolution, rise of capitalism.}
+
+::U4L3Q46::Answer the following questions.<br>How did alternative schools of thought, like those promoted during the Enlightenment, challenge mercantilism?{=Enlightenment thinkers promoted free trade rather than restrictions.}
+
+::U4L3Q47::Answer the following questions.<br>What was the impact of the Industrial Revolution on traditional mercantilist theory?{=Industrialization shifted focus from precious metals to manufacturing capability.}
+
+::U4L3Q48::Answer the following questions.<br>How did events like the American Revolution and Napoleonic Wars influence European economic policies?{=Conflicts disrupted trade and made maintaining colonies more trouble than they were worth.}
+
+::U4L3Q49::Answer the following questions.<br>Explain how mercantilism was transformed into a capitalist system over time. What changed and what stayed the same?{=Capitalism adopted free trade but maintained private property rights and individual profit motives rather than government control.}
+
+::U4L3Q50::Answer the following questions.<br>Do you think the arguments made by mercantilist theorists were valid at the time? Why or why not?{=Valid in expanding wealth and influence. But costs likely outweighed long-term benefits as economic landscape evolved.}

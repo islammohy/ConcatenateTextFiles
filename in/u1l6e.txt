@@ -1,0 +1,103 @@
+::U1L6Q1::Choose True or False.<br>New York City is located in the southeastern United States.{F}
+
+::U1L6Q2::Choose True or False.<br>New York City is home to iconic landmarks like the Statue of Liberty.{T}
+
+::U1L6Q3::Choose True or False.<br>Wall Street and the New York Stock Exchange are located in Los Angeles.{F}
+
+::U1L6Q4::Choose True or False.<br>New York City occupies a strategic geographic location along the Atlantic Ocean.{T}
+
+::U1L6Q5::Choose True or False.<br>Central Park is an example of New York's natural urban landscapes.{T}
+
+::U1L6Q6::Choose True or False.<br>New York City has focused efforts on sustainability and resilient infrastructure.{T}
+
+::U1L6Q7::Choose True or False.<br>Immigrants have not really influenced New York City's culture.{F}
+
+::U1L6Q8::Choose True or False.<br>New York City has had little impact on global fashion trends.{F}
+
+::U1L6Q9::Choose True or False.<br>New York is considered a major hub for music and theater.{T}
+
+::U1L6Q10::Choose True or False.<br>American television has shaped narratives nationally but not globally.{F}
+
+::U1L6Q11::Complete the sentences with suitable words.<br>New York City occupies an important strategic geographic location along the .................. .{=Atlantic Ocean}
+
+::U1L6Q12::Complete the sentences with suitable words.<br>New York City features a vibrant mix of ................... that contribute to its cultural fabric.{=religious communities}
+
+::U1L6Q13::Complete the sentences with suitable words.<br>Wall Street and the New York Stock Exchange in Manhattan serve as hubs of global ................... .{=global finance}
+
+::U1L6Q14::Complete the sentences with suitable words.<br>Immigrants from around the world have helped shape New York City's ................... diversity.{=cultural diversity}
+
+::U1L6Q15::Complete the sentences with suitable words.<br>New York City boasts an influential ................... scene from Broadway theaters to iconic museums.{=arts}
+
+::U1L6Q16::Complete the sentences with suitable words.<br>Central Park provides a natural urban oasis amidst New York City’s towering ................... .{=skyscrapers}
+
+::U1L6Q17::Complete the sentences with suitable words.<br>New York City’s thriving commercial sector features luxury ................... and dining establishments.{=boutiques}
+
+::U1L6Q18::Complete the sentences with suitable words.<br>New York City’s culture and innovation have had far-reaching global influence across areas like finance, culture, ................... .{=innovation}
+
+::U1L6Q19::Complete the sentences with suitable words.<br>New York City is making efforts to build a more ................... city infrastructure.{=resilient}
+
+::U1L6Q20::Complete the sentences with suitable words.<br>New York City's strategic coastal location made it an important Atlantic ................... historically.{=trade}
+
+::U1L6Q21::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City occupies a strategic ...................................... along the Atlantic Ocean.{=geographic location}
+
+::U1L6Q22::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City is home to iconic ........................ like the Empire State Building.{=skyscrapers}
+
+::U1L6Q23::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>Wall Street and the New York Stock Exchange contribute significantly to the ....................................... .{=global economy}
+
+::U1L6Q24::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City features a vibrant mix of ..................................... including churches, synagogues and mosques.{=religious communities}
+
+::U1L6Q25::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>Immigrants to New York City have helped shape its unique ....................................... .{=cultural fabric}
+
+::U1L6Q26::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City's theater and ........................ scenes have influenced trends across the globe.{=music}
+
+::U1L6Q27::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>The ..................................... and MoMA are two famous New York art museums.{=Metropolitan Museum of Art}
+
+::U1L6Q28::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City's ........................ scene is known for its LUXURY boutiques and upscale dining establishments.{=commercial}
+
+::U1L6Q29::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>Central Park provides a natural reprieve from New York's bustling ........................ landscapes.{=urban}
+
+::U1L6Q30::Fill in the blanks using the words in the brackets.<br>(innovation – commercial – music – religious communities – skyscrapers – urban – Metropolitan Museum of Art – cultural fabric – global economy – geographic location)<br>New York City's global influence extends to finance, culture and ........................ .{=innovation}
+
+::U1L6Q31::Choose the correct answer.<br>What is New York City renowned for?{=Skyscrapers~Deserts~Beaches~Mountains}
+
+::U1L6Q32::Choose the correct answer.<br>New York City is considered a global center for: ............. .{=Finance~Manufacturing~Agriculture~Fishing}
+
+::U1L6Q33::Choose the correct answer.<br>Which borough is home to Wall Street?{=Manhattan~Bronx~Queens~Brooklyn}
+
+::U1L6Q34::Choose the correct answer.<br>A diverse mix of religious communities can be found in New York City, including: ............. .{=All of the options~Mosques and synagogues~Synagogues and churches~Churches and temples}
+
+::U1L6Q35::Choose the correct answer.<br>Which art museum is located in New York City?{=Metropolitan Museum of Art~Smithsonian~Louvre~Getty Museum}
+
+::U1L6Q36::Choose the correct answer.<br>Central Park is an example of New York's: ............. .{=Urban landscapes~Natural environments~Historic architecture~Modern skyscrapers}
+
+::U1L6Q37::Choose the correct answer.<br>Which transportation hub serves New York City?{=John F. Kennedy International Airport~O'Hare International Airport~LAX~Dallas/Fort Worth International Airport}
+
+::U1L6Q38::Choose the correct answer.<br>New York City's location along the Atlantic Ocean made it an important: …………… .{=Port for trade~Technology campus~Manufacturing hub~Agricultural center }
+
+::U1L6Q39::Choose the correct answer.<br>What industry does New York City influence globally?{=Fashion~Hospitality~Healthcare~Education}
+
+::U1L6Q40::Choose the correct answer.<br>Immigrants to New York City have contributed to its: ……………… .{=Cultural diversity~Tax burden~Traffic congestion~Crime rate}
+
+::U1L6Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Skyscrapers->Iconic buildings=Global finance->Wall Street=Immigration->Cultural diversity=Broadway->Theater productions=Central Park->Urban nature}
+
+::U1L6Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Atlantic Ocean->Strategic location=Cultural fabric->Diverse communities=Fashion trends->Cultural influence=Resilient infrastructure->Urban planning=Trade hub->Port commerce}
+
+::U1L6Q43::Answer the following questions.<br>Why has immigration been important to shaping New York City over time?{=Immigration has been vital in shaping NYC over time by providing an influx of diverse cultures, labor, ideas and ambition. As a major gateway for immigrants to America, NYC became a true melting pot of ethnicities and traditions that influenced everything from neighborhoods to industries.}
+
+::U1L6Q44::Answer the following questions.<br>How would you characterize New York City’s influence on global music and fashion trends?{=NYC has long been an influential trendsetter for global music and fashion due to its status as a cultural crossroads. From hip hop and punk rock to haute couture, many groundbreaking artistic movements were born or amplified in NYC's dynamic creative scene.}
+
+::U1L6Q45::Answer the following questions.<br>What are some examples of ethnic and religious diversity found across New York City’s neighborhoods?{=Examples of NYC's ethnic and religious diversity span Chinatown, Little Italy, Spanish Harlem, the Jewish communities of Brooklyn, Korean enclaves in Queens and recent immigrant populations from Mexico, Dominican Republic, Bangladesh and more across the boroughs.}
+
+::U1L6Q46::Answer the following questions.<br>Why has New York City’s coastal position been strategically important over time?{=NYC's coastal position made it strategically important as an accessible deep-water port and naval defensive location. Its harbor and rivers allowed growth of maritime trade, shipbuilding and later immigration processing.}
+
+::U1L6Q47::Answer the following questions.<br>How do you think innovations in architecture and infrastructure have impacted New York City’s growth?{=Visionary architecture like the Brooklyn Bridge, skyscrapers, and mass transit systems enabled NYC's dense verticality and ability to move people efficiently, catalyzing population and economic growth.}
+
+::U1L6Q48::Answer the following questions.<br>What are some ways New York City is working to develop resilient and sustainable urban systems?{=NYC is investing in resilient infrastructure like floodwalls, green roofs and stormwater management to protect against climate threats. It also promotes energy efficiency, clean transportation and waste reduction to enhance sustainability.}
+
+::U1L6Q49::Answer the following questions.<br>How would you compare and contrast New York City’s commercial sector to other global cities?{=While rivaling London as a global financial capital, NYC's commercial diversity across media, tech, fashion, tourism and more industries distinguishes it. Its sheer scale and density of business activity is unmatched.}
+
+::U1L6Q50::Answer the following questions.<br>Why do you think New York City developed as such an influential hub for arts and culture?{=NYC developed as an arts/culture hub due to its role as an immigrant destination, urban density nurturing creativity, prominence of iconic venues like Broadway and ability to concentrate talent and resources.}
+
+::U1L6Q51::Answer the following questions.<br>What lasting impacts do you think periods of crisis and challenge have had on shaping New York City’s character?{=NYC's grit and resilience were reinforced by periods like the Depression, fiscal crisis of the 1970s, 9/11 and more, instilling a persevering spirit that defines the city's character.}
+
+::U1L6Q52::Answer the following questions.<br>If you had to summarize New York City’s significance as a global city, how would you characterize its importance across finance, culture, immigration, innovation and influence?{=NYC's global significance stems from its long reign as America's economic and cultural nucleus, perpetually reimagining itself through finance, immigration, innovation and creative influence that reverberate worldwide.}

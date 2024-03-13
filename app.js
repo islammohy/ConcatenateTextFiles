@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Folder path where the text files are located
-const folderPath = 'C:/Users/islam/Downloads/drive-download-20240212T074255Z-001/Social Studies Book 1';
+const folderPath = '/Users/islammohy/Desktop/GitHub/ConcatenateTextFiles/in';
 
 // Read all files in the folder
 fs.readdir(folderPath, (err, files) => {

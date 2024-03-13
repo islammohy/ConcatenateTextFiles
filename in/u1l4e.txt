@@ -1,0 +1,97 @@
+::U1L4Q1::Choose True or False.<br>The USA has limited coastlines and access to shipping routes.{F}
+
+::U1L4Q2::Choose True or False.<br>Entrepreneurship is one of the four factors of production.{T}
+
+::U1L4Q3::Choose True or False.<br>Non-renewable resources can be easily replaced over time.{F}
+
+::U1L4Q4::Choose True or False.<br>Fossil fuels are considered abiotic resources.{T}
+
+::U1L4Q5::Choose True or False.<br>The USA's large landmass contributes to its ecological diversity.{T}
+
+::U1L4Q6::Choose True or False.<br>The Midwest region is known for producing mainly wheat crops.{F}
+
+::U1L4Q7::Choose True or False.<br>Renewable resources include wind, sunlight and timber.{T}
+
+::U1L4Q8::Choose True or False.<br>The USA is deficient in water resources for agriculture.{F}
+
+::U1L4Q9::Choose True or False.<br>The labor force plays no role in driving innovation.{F}
+
+::U1L4Q10::Choose True or False.<br>Sustainable resource management is not an important issue.{F}
+
+::U1L4Q11::Complete the sentences with suitable words.<br>Non-renewable resources like oil and gas are considered ........................ resources.{=abiotic}
+
+::U1L4Q12::Complete the sentences with suitable words.<br>Vast expanses of fertile land make the USA one of the world's leading ................................ .{=agricultural producers}
+
+::U1L4Q13::Complete the sentences with suitable words.<br>Extensive coastlines provide access to .................................. and enable transportation of goods.{=shipping routes}
+
+::U1L4Q14::Complete the sentences with suitable words.<br>The Midwest region encompassing the "Corn Belt" is vital for ............................ .{=crop production}
+
+::U1L4Q15::Complete the sentences with suitable words.<br>Rivers, lakes and aquifers provide ........................ for agriculture, industry and households.{=water}
+
+::U1L4Q16::Complete the sentences with suitable words.<br>Oil, ........................ and natural gas are the major fossil fuel reserves.{=coal}
+
+::U1L4Q17::Complete the sentences with suitable words.<br>The diverse and dynamic ............................... allows economic adaptation.{=labor force}
+
+::U1L4Q18::Complete the sentences with suitable words.<br>The USA must balance utilization of fossil fuels with ........................ to cleaner energy.{=transition}
+
+::U1L4Q19::Complete the sentences with suitable words.<br>Sustainability efforts aim to achieve ............................. use of resources.{=responsible/balanced}
+
+::U1L4Q20::Complete the sentences with suitable words.<br>Resource extraction can impact economics ........................ and society.{=environment}
+
+::U1L4Q21::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>Resources that can be replaced or regenerated over time are ........................ resources.{=renewable}
+
+::U1L4Q22::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>Fossil fuels, ........................ and natural gas are examples of non-renewable resources.{=coal}
+
+::U1L4Q23::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>........................ resources like crops and timber are derived from living organisms.{=Biotic}
+
+::U1L4Q24::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>The four factors of production are land, labor, capital and ........................ .{=entrepreneurship}
+
+::U1L4Q25::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>The USA's ........................ coastlines provide access to shipping routes and trade.{=extensive}
+
+::U1L4Q26::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>The Midwest region is an important center of ............................... production.{=agricultural/crop}
+
+::U1L4Q27::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>Aquifers, reservoirs, rivers and lakes provide essential ........................ resources.{=water}
+
+::U1L4Q28::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>Oil, coal and .................................. are the major fossil fuels.{=natural gas}
+
+::U1L4Q29::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>The labor force contributes significantly to ........................, technological advancement and economic growth.{=innovation}
+
+::U1L4Q30::Fill in the blanks using the words in the brackets.<br>(renewable – Biotic – coal – management – natural gas – agricultural/crop – extensive – innovation – water – entrepreneurship)<br>Resource sustainable ........................ is crucial for the sustainable utilization of resources.{=management}
+
+::U1L4Q31::Choose the correct answer.<br>What type of resources can be naturally regenerated over time?{=Renewable resources~Biotic resources~Abiotic resources~Non-renewable resources}
+
+::U1L4Q32::Choose the correct answer.<br>Which of these is NOT a factor of production?{=Technology~Labor~Capital~Land}
+
+::U1L4Q33::Choose the correct answer.<br>What provides the USA access to international shipping routes?{=Extensive coastlines~Glaciers~Mountain ranges~Vast forests}
+
+::U1L4Q34::Choose the correct answer.<br>Which region is known as America's "Breadbasket"?{=The Great Plains~New England~Pacific Northwest~Florida}
+
+::U1L4Q35::Choose the correct answer.<br>What resource do aquifers and reservoirs provide?{=Water~Natural gas~Gold~Oil}
+
+::U1L4Q36::Choose the correct answer.<br>Which fuel source raises the most environmental concerns?{=Fossil fuels~Hydroelectric power~Geothermal energy~Solar power}
+
+::U1L4Q37::Choose the correct answer.<br>What characteristic of the labor force allows adaptation to changing markets?{=Diversity~Complacency~Quantity~Specialization}
+
+::U1L4Q38::Choose the correct answer.<br>Which factors are biotic natural resources derived from?{=Living organisms~Non-living matter~Water sources~The sun}
+
+::U1L4Q39::Choose the correct answer.<br>What does entrepreneurship provide in the factors of production?{=Creativity and innovation~Manual labor~Assets~Skills}
+
+::U1L4Q40::Choose the correct answer.<br>What can sustainable resource management help achieve?{=A balanced future~Technological regression~Economic stability~Profit maximization}
+
+::U1L4Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Renewable resources->Sunlight, wind, forests=Fossil fuels, minerals, nuclear fuels->Factors of production=Land, labor, capital, entrepreneurship->Major fossil fuels=Oil, coal, natural gas->Agricultural region=Great Plains, Breadbasket->Provides water}
+
+::U1L4Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Aquifers, reservoirs->Access to trade=Extensive coastlines->Economic driver=Economic driver->Dynamic labor force=Resource management->Sustainability=Agricultural producer->USA}
+
+::U1L4Q43::Answer the following questions.<br>How have natural resources like fossil fuels and agricultural lands contributed to the development of the United States historically?{=Natural resources like fossil fuels and agricultural lands have played a crucial role in the development of the United States historically. The availability of vast fossil fuel reserves, such as coal, oil, and natural gas, provided the energy required to power the nation's industrial growth and economic expansion. Agricultural lands, with their fertile soils and favorable climate, enabled the development of a robust agricultural sector, contributing significantly to the country's food security and exports.}
+
+::U1L4Q44::Answer the following questions.<br>What are some key differences between renewable and non-renewable natural resources? Provide examples of each.{=Renewable and non-renewable natural resources differ in their ability to be replenished. Non-renewable resources, such as fossil fuels (coal, oil, natural gas) and certain minerals, exist in finite quantities and cannot be replenished at a rate comparable to their consumption. Examples include fossil fuels, metals, and diamonds. On the other hand, renewable resources are those that can be replenished naturally or through sustainable practices. Examples include solar energy, wind energy, biomass and water.}
+
+::U1L4Q45::Answer the following questions.<br>Discuss the major geographical features and ecosystems that characterize the landscape of the USA.{=The United States has a diverse landscape characterized by various geographical features and ecosystems. Major features include the Rocky Mountains, the Appalachian Mountains, the Great Plains, the Mississippi River basin, the Great Lakes, and extensive coastlines along the Atlantic and Pacific Oceans. The country's ecosystems range from forests (e.g., the Pacific Northwest rainforests) to deserts (e.g., the Mojave and Sonoran Deserts), grasslands (e.g., the Great Plains) and wetlands (e.g., the Everglades).}
+
+::U1L4Q46::Answer the following questions.<br>What is the importance of extensive coastlines and access to shipping routes? How has this impacted the United States economically?{=Extensive coastlines and access to shipping routes have been crucial for the economic development of the United States. The country's strategic location between the Atlantic and Pacific Oceans, combined with its extensive coastlines, has facilitated international trade and commerce. Access to major shipping routes has enabled the efficient transportation of goods, raw materials, and finished products, contributing significantly to the growth of industries and the economy.}
+
+::U1L4Q47::Answer the following questions.<br>Compare the Midwest region and the Great Plains as major agricultural production centers. What are their key crops?{=The Midwest region and the Great Plains are major agricultural production centers in the United States. The Midwest, with its fertile soils and favorable climate, is a significant producer of crops such as corn, soybeans, wheat and livestock. The Great Plains, known for its vast grasslands and semi-arid climate, is a major producer of crops like wheat, corn, sorghum and cattle ranching.}
+
+::U1L4Q48::Answer the following questions.<br>Explain why transitioning to sustainable energy sources has become an increasing area of focus in the USA amid its abundant fossil fuel reserves.{=Despite its abundant fossil fuel reserves, the United States has increasingly focused on transitioning to sustainable energy sources due to concerns over environmental impact, climate change and the long-term sustainability of non-renewable resources. Renewable energy sources, such as solar, wind, and hydroelectric power, offer cleaner and more sustainable alternatives to fossil fuels. Additionally, the transition to sustainable energy sources aims to reduce greenhouse gas emissions, mitigate the effects of climate change and achieve greater energy independence.}
+
+::U1L4Q49::Answer the following questions.<br>How has the diverse labor force provided the USA with a competitive economic advantage? What unique qualities does it possess?{=The diverse labor force of the United States has provided a competitive economic advantage by bringing together a wide range of skills, perspectives and experiences. This diversity has fostered innovation, creativity, and adaptability in the workforce, enabling businesses to better cater to diverse markets and respond to changing economic conditions. The unique qualities of the diverse labor force include multilingual capabilities, cultural awareness and a broad range of educational backgrounds and professional expertise.}

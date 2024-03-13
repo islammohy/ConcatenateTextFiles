@@ -1,0 +1,101 @@
+::U1L1Q1::Choose True or False.<br>The USA shares land borders with three countries.{F}
+
+::U1L1Q2::Choose True or False.<br>The USA is located entirely within the Northern Hemisphere.{T}
+
+::U1L1Q3::Choose True or False.<br>The Appalachian Mountains are located in the USA.{T}
+
+::U1L1Q4::Choose True or False.<br>The USA has coastlines along the Indian Ocean.{F}
+
+::U1L1Q5::Choose True or False.<br>Alaska is a contiguous state separated from the rest of the USA.{F}
+
+::U1L1Q6::Choose True or False.<br>Hawaii is located in the Atlantic Ocean.{F}
+
+::U1L1Q7::Choose True or False.<br>The USA is located in both the Northern and Southern Hemispheres.{F}
+
+::U1L1Q8::Choose True or False.<br>The USA is situated west of the Prime Meridian.{T}
+
+::U1L1Q9::Choose True or False.<br>The Sonoran Desert is located outside of the USA.{F}
+
+::U1L1Q10::Choose True or False.<br>The Mississippi River system is located in the USA.{T}
+
+::U1L1Q11::Complete the sentences with suitable words.<br>The Atlantic Ocean borders the USA to the ........................ .{=east}
+
+::U1L1Q12::Complete the sentences with suitable words.<br>Two countries that the USA shares land borders with are ........................ and Canada.{=Mexico}
+
+::U1L1Q13::Complete the sentences with suitable words.<br>................... separates Alaska from the rest of the USA.{=Canada}
+
+::U1L1Q14::Complete the sentences with suitable words.<br>The ....................... Mountain range stretches along the East Coast of the USA.{=Appalachian}
+
+::U1L1Q15::Complete the sentences with suitable words.<br>........................ is an archipelago and the only state located outside of the contiguous USA.{=Hawaii}
+
+::U1L1Q16::Complete the sentences with suitable words.<br>The USA lies entirely within the ........................ Hemisphere.{=Northern}
+
+::U1L1Q17::Complete the sentences with suitable words.<br>The ........................ is a line of longitude that divides the Earth into the Western and Eastern Hemispheres.{=180th meridian/International Date Line}
+
+::U1L1Q18::Complete the sentences with suitable words.<br>The ........................ desert is located in Arizona and northern Mexico.{=Sonoran}
+
+::U1L1Q19::Complete the sentences with suitable words.<br>The ........................ is one of the Great Lakes located along the border between the USA and Canada.{=Superior}
+
+::U1L1Q20::Complete the sentences with suitable words.<br>The ........................ river system flows from northern Minnesota down to the Gulf of Mexico.{=Mississippi}
+
+::U1L1Q21::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The USA shares a border with Canada to the ........................ .{=north}
+
+::U1L1Q22::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The ......................... are a major mountain range located in the western USA.{=Rocky Mountains}
+
+::U1L1Q23::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The USA has coastlines along both the Atlantic and ........................ Oceans.{=Pacific}
+
+::U1L1Q24::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>........................ is located in the central Pacific Ocean as part of the USA.{=Hawaii}
+
+::U1L1Q25::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The ........................ is an imaginary line that divides the Earth into the Northern and Southern Hemispheres.{=equator}
+
+::U1L1Q26::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The ........................ is a desert located in the southwestern USA.{=Sonoran}
+
+::U1L1Q27::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The USA is situated in the ........................ Hemisphere.{=Western}
+
+::U1L1Q28::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The ........................ is a major river system located within the USA.{=Mississippi}
+
+::U1L1Q29::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>Alaska is separated from the rest of the USA by the country of ........................ .{=Canada}
+
+::U1L1Q30::Fill in the blanks using the words in the brackets.<br>(central – Mississippi – Sonoran – Hawaii – Rocky Mountains – north – Pacific – equator – Western – Canada)<br>The Great Plains are located in the ........................ USA.{=central}
+
+::U1L1Q31::Choose the correct answer.<br>Which ocean borders the USA to the west?{=Pacific Ocean~Indian Ocean~Arctic Ocean~Atlantic Ocean}
+
+::U1L1Q32::Choose the correct answer.<br>Which mountain range is located in the USA?{=Rocky Mountains~Atlas Mountains~Alpines~Andes}
+
+::U1L1Q33::Choose the correct answer.<br>The USA shares a border with which country to the south?{=Mexico~Panama~Canada~Cuba}
+
+::U1L1Q34::Choose the correct answer.<br>Which U.S. state is an archipelago located in the Pacific Ocean?{=Hawaii~California~Alaska~Florida}
+
+::U1L1Q35::Choose the correct answer.<br>Which hemispheres contain parts of the USA?{=Only Northern Hemisphere~Only Southern Hemisphere~Both Northern and Southern Hemispheres~Only Eastern Hemisphere}
+
+::U1L1Q36::Choose the correct answer.<br>The Great Plains geographic region is located in the: .................. .{=Central USA~Western USA~Southeastern USA~Northeastern USA}
+
+::U1L1Q37::Choose the correct answer.<br>Which sea does NOT border the United States?{=South China Sea~Coral Sea~Bering Sea~Caribbean Sea}
+
+::U1L1Q38::Choose the correct answer.<br>Which river system is located within the USA?{=Mississippi~Mekong~Congo~Amazon}
+
+::U1L1Q39::Choose the correct answer.<br>Alaska is separated from the contiguous USA by which country?{=Canada~Russia~Mexico~Greenland}
+
+::U1L1Q40::Choose the correct answer.<br>Which meridian divides the Earth into the Western and Eastern Hemispheres?{=180th Meridian~Prime Meridian~Equator~45th Parallel}
+
+::U1L1Q41::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=Rocky Mountains->Mountain range in western USA=Great Plains->Located in central USA=Mexico->Southern land border=Hawaii->Located in Pacific Ocean=Located in Pacific Ocean->Northern Hemisphere}
+
+::U1L1Q42::Match one part from “B” to suit one part from “A” to complete meaningful sentences.{=USA is entirely situated here->Sonoran Desert=Desert in southwestern USA->Canada=Pacific Ocean->Western border=Alaska->Separated from rest of USA=Appalachian Mountains->Eastern mountain range}
+
+::U1L1Q43::Answer the following questions.<br>How does the location of the USA within the Northern Hemisphere and Western Hemisphere impact its geography and climate?{=The USA's location in the Northern and Western Hemispheres impacts its geography and climate significantly. Being in the northern latitudes, it experiences distinct seasonal variations with warm summers and cold winters in most regions. Its westerly location puts most of the country under the influence of prevailing westerly winds from the Pacific Ocean, bringing moisture to the West Coast. The central regions experience a continental climate with hot summers and cold winters due to their inland position.}
+
+::U1L1Q44::Answer the following questions.<br>What two countries does the USA share land borders with and where are they located?{=The USA shares land borders with two countries - Canada to the north and Mexico to the south. Canada borders the states of Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire and Maine. Mexico borders the states of California, Arizona, New Mexico and Texas.}
+
+::U1L1Q45::Answer the following questions.<br>What are some differences between the geography of Alaska, the Contiguous USA and Hawaii?{=Alaska, the Contiguous USA, and Hawaii have distinct geographical differences. Alaska is an Arctic region with vast tundra, glaciers, and mountains. The Contiguous USA (the 48 connected states) has a diverse geography ranging from the Rocky Mountains to the Great Plains and from coastal regions to deserts. Hawaii is an archipelago of volcanic islands in the Pacific Ocean with tropical beaches, rainforests and volcanoes.}
+
+::U1L1Q46::Answer the following questions.<br>What oceans border the east and west coasts of the USA? How do they impact trade and transportation routes?{=The Atlantic Ocean borders the east coast of the USA, while the Pacific Ocean borders the west coast. These oceans have played a crucial role in shaping trade and transportation routes for the country. The Atlantic facilitated early trade with Europe, while the Pacific opened up trade with Asia. Major ports like New York, Los Angeles and Seattle serve as gateways for international trade and cruise ship travel.}
+
+::U1L1Q47::Answer the following questions.<br>How have major rivers like the Mississippi impacted the development and expansion of the USA?{=Major rivers like the Mississippi have played a vital role in the development and expansion of the USA. The Mississippi River system provided a transportation route for early settlers and facilitated the westward expansion of the country. Rivers were crucial for agriculture, industry and commerce, enabling the growth of cities along their banks.}
+
+::U1L1Q48::Answer the following questions.<br>What role has the relative isolation of the USA from Europe and Asia played in the country's growth?{=The relative isolation of the USA from Europe and Asia, separated by vast oceans, has played a role in the country's growth. This isolation provided a sense of security and allowed the USA to develop its own unique identity and culture, free from the direct influence of Old World powers. It also facilitated the influx of immigrants from diverse backgrounds, contributing to the cultural melting pot.}
+
+::U1L1Q49::Answer the following questions.<br>How might the land borders with Canada and Mexico influence cultural exchanges and immigration patterns?{=The land borders with Canada and Mexico influence cultural exchanges and immigration patterns. The long border with Canada has fostered close economic and cultural ties, with frequent cross-border travel and trade. The border with Mexico has been a major source of immigration, both legal and illegal, shaping the cultural diversity of states like California, Texas and others in the Southwest.}
+
+::U1L1Q50::Answer the following questions.<br>What are some ways the diverse climates and geographical zones of the USA have contributed to agricultural output and economic activities?{=The diverse climates and geographical zones of the USA have contributed significantly to its agricultural output and economic activities. The fertile Great Plains and Central Valley of California are major agricultural regions. The warm climates of the South and West Coast are ideal for citrus fruits, vineyards and other crops. The varying landscapes have also supported different industries, such as mining in the Rocky Mountains, fishing along the coasts and forestry in the Pacific Northwest.}
+
+::U1L1Q51::Answer the following questions.<br>How does the unique geographical positioning of the USA provide it with some natural defenses?{=The unique geographical positioning of the USA, separated from Europe and Asia by vast oceans, and bordering only two countries, provides it with natural defenses. This relative isolation has historically made it more difficult for foreign powers to mount large-scale invasions or attacks on the continental United States. The oceans and friendly borders with Canada and Mexico offer a degree of security and strategic advantage.}

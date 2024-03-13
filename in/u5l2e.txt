@@ -1,0 +1,91 @@
+::U5L2Q1::Choose True or False.<br>The concept of Manifest Destiny justified westward expansion at the expense of Native American populations. {T}
+
+::U5L2Q2::Choose True or False.<br>Technological advances made it more difficult for people to travel westward. {F}
+
+::U5L2Q3::Choose True or False.<br>The Homestead Act provided free land to settlers willing to develop it.{T}
+
+::U5L2Q4::Choose True or False.<br>Most settlers moved westward in search of worse economic opportunities.{F}
+
+::U5L2Q5::Choose True or False.<br>Population growth in eastern states contributed to westward expansion. {T}
+
+::U5L2Q6::Choose True or False.<br>Native American communities welcomed the settlers moving onto their ancestral lands. {F}
+
+::U5L2Q7::Choose True or False.<br>Westward expansion provided solutions to overcrowding in eastern cities. {T}
+
+::U5L2Q8::Choose True or False.<br>The pioneer spirit of adventure motivated migrations west. {T}
+
+::U5L2Q9::Choose True or False.<br>The Pacific Railway Act aided transportation of agricultural and mining resources eastward. {T}
+
+::U5L2Q10::Choose True or False.<br>Federal forts provided no aid to settlers journeying west. {F}
+
+::U5L2Q11::Complete the sentences with suitable words.<br>Westward expansion began due to economic opportunities, population growth, .................... and the pioneer spirit.{=overcrowding destiny}
+
+::U5L2Q12::Complete the sentences with suitable words.<br>Americans felt it was their ................... to expand west to the Pacific under Manifest Destiny.{=Homestead Act}
+
+::U5L2Q13::Complete the sentences with suitable words.<br>The land railroads offered free ................... to settlers willing to develop it.{=steamboats}
+
+::U5L2Q14::Complete the sentences with suitable words.<br>Technological advances in mining aid and .................... made travel westward easier.{=resources }
+
+::U5L2Q15::Complete the sentences with suitable words.<br>Settlers were drawn by economic opportunities like land, …................... and new markets.{=Native Americans }
+
+::U5L2Q16::Complete the sentences with suitable words.<br>The federal government provided .................... and legislation to help settlers.{=adventure }
+
+::U5L2Q17::Complete the sentences with suitable words.<br>Westward expansion had profound impacts on .................................. like displacement and conflict.{=new life }
+
+::U5L2Q18::Complete the sentences with suitable words.<br>The Pacific Railway transported goods like ................................... and minerals eastward. {=minerals towns}
+
+::U5L2Q19::Complete the sentences with suitable words.<br>Settlers built communities by constructing towns and ................... in undeveloped areas.{=railroads}
+
+::U5L2Q20::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Westward expansion provided solutions to .................... in eastern cities.{=overcrowding }
+
+::U5L2Q21::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Americans believed it was their ................... to expand west under Manifest Destiny.{=destiny}
+
+::U5L2Q22::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>The ................... offered free land to settlers.{=Homestead Act }
+
+::U5L2Q23::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Technological advances like .................... made it easier to travel west.{=railroads }
+
+::U5L2Q24::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Settlers sought economic opportunities like mining, cattle, farms assistance conflict and new .................. .{=displacement}
+
+::U5L2Q25::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Federal government .................... came through money, resources and legislation.{=pioneer }
+
+::U5L2Q26::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Native American communities faced .................................. and loss of traditions.{=spirit }
+
+::U5L2Q27::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Many settlers were drawn by the ....................................... . {=Pacific }
+
+::U5L2Q28::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>The ................... aided transportation of goods eastward.{=Railway}
+
+::U5L2Q29::Fill in the blanks using the words in the brackets.<br>(towns – Railway – Pacific – spirit – pioneer – displacement – railroads – Homestead Act – destiny – overcrowding )<br>Settlers built ................... and railroads  in undeveloped areas.{=towns}
+
+::U5L2Q30::Choose the correct answer.<br>Why did many Americans move west in the 1800s?  {=All of the options~For space and land ~For adventure ~For economic opportunities }
+
+::U5L2Q31::Choose the correct answer.<br>What is Manifest Destiny?  {=Destiny to expand from sea to shining sea~Destiny to take Native lands ~Destiny to build railroads ~Destiny to move westward }
+
+::U5L2Q32::Choose the correct answer.<br>What technological advance aided westward expansion?  {=Railroad ~Telephone ~Automobile ~Airplane}
+
+::U5L2Q33::Choose the correct answer.<br>The Homestead Act provided:  {=Free land ~Farm equipment ~Building materials ~All of the options}
+
+::U5L2Q34::Choose the correct answer.<br>Who were settlers?  {=Pioneers occupying new lands ~Factory workers~People in eastern states ~Native Americans }
+
+::U5L2Q35::Choose the correct answer.<br>Federal government assistance came in what forms?  {=All of the options~Money ~Legislation ~Resources }
+
+::U5L2Q36::Choose the correct answer.<br>Westward expansion impacted Native Americans through:  {=All of the options~Loss of traditional ways ~Displacement ~Conflicts }
+
+::U5L2Q37::Choose the correct answer.<br>What was transported eastward over the Pacific Railway?  {=All of the options~Minerals ~Cattle~Produce }
+
+::U5L2Q38::Choose the correct answer.<br>What challenges faced settlers in the West?  {=All of the options~Land disputes ~Harsh weather ~Dangerous wildlife }
+
+::U5L2Q39::Choose the correct answer.<br>Federal forts in the West provided:  {=Aid ~Safety ~Shelter ~All of the options}
+
+::U5L2Q40::Answer the following questions.<br>What is the concept of Manifest Destiny and how did it impact western expansion?{=Manifest Destiny was the belief that it was America's destiny to expand across the continent. This justified taking Native American lands in the name of westward expansion.}
+
+::U5L2Q41::Answer the following questions.<br>What role did the Homestead Act and Pacific Railway Act play in enabling western migration and development?{=The Homestead Act gave free land to settlers. The Pacific Railway transported goods and enabled access. These were crucial in making settlement feasible.}
+
+::U5L2Q42::Answer the following questions.<br>What forms of federal government assistance were provided to settlers in newly acquired western territories?{=The government provided legislation like the Homestead Act, resources, money and federal forts for aid and safety.}
+
+::U5L2Q43::Answer the following questions.<br>In what ways did western settlement profoundly impact Native American populations living on ancestral lands?{=Native Americans faced displacement, loss of land, damage to traditions and ways of life and violent conflict with settlers.}
+
+::U5L2Q44::Answer the following questions.<br>What were some of the major economic opportunities that attracted settlers west? What resources or industries were they seeking to develop?{=Opportunities included mining, ranching, farming and developing new industries like logging, trading, banking, etc. in frontier towns.}
+
+::U5L2Q45::Answer the following questions.<br>How did technological innovations of the era, such as railroads and steamboats, facilitate migrations west? What goods or resources traveled eastward over these new transportation links?{=Railroads and steamboats enabled faster, cheaper travel west. They transported cattle, produce, minerals east.}
+
+::U5L2Q46::Answer the following questions.<br>What were day-to-day frontier life and the process of building new western settlements like for pioneers in the 1800s? What steps did settlers take to construct new communities?{=Settlers built homes, businesses, farms and infrastructure like roads. They cooperated on food, defense and shelter while developing town governance. Day-to-day life was difficult work in harsh conditions.}

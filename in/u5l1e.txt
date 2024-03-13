@@ -1,0 +1,99 @@
+::U5L1Q1::Choose True or False.<br>The Proclamation of 1763 aimed to reduce conflicts with Native American tribes. {T}
+
+::U5L1Q2::Choose True or False.<br>The Sugar Act imposed taxes on items like sugar and molasses. {T}
+
+::U5L1Q3::Choose True or False.<br>The Stamp Act required the purchase of stamps for playing cards and newspapers.{T}
+
+::U5L1Q4::Choose True or False.<br>The Boston Massacre occurred in the morning of March 5, 1770. {F}
+
+::U5L1Q5::Choose True or False.<br>The Boston Tea Party took place in 1774. {F}
+
+::U5L1Q6::Choose True or False.<br>The First Continental Congress was attended by delegates from all 13 colonies. {F}
+
+::U5L1Q7::Choose True or False.<br>The shot heard round the world took place at the Battle of Bunker Hill. {F}
+
+::U5L1Q8::Choose True or False.<br>The Second Continental Congress issued the Declaration of Independence. {F}
+
+::U5L1Q9::Choose True or False.<br>Thomas Jefferson authored the Declaration of Independence. {T}
+
+::U5L1Q10::Choose True or False.<br>The Treaty of Paris was signed in London. {F}
+
+::U5L1Q11::Complete the sentences with suitable words.<br>The Proclamation of 1763 recognized Native American ................... to their lands.{=Rights}
+
+::U5L1Q12::Complete the sentences with suitable words.<br>The Sugar Act imposed stricter .................... and penalties for smuggling.{=enforcement}
+
+::U5L1Q13::Complete the sentences with suitable words.<br>The purpose of the Stamp Act Congress was to protest taxation without .................. . {=representation }
+
+::U5L1Q14::Complete the sentences with suitable words.<br>The Boston Massacre contributed to growing anti .................... sentiments.{=British rights,}
+
+::U5L1Q15::Complete the sentences with suitable words.<br>The First Continental Congress issued declarations outlining colonial ..................... and grievances.{=grievances}
+
+::U5L1Q16::Complete the sentences with suitable words.<br>The shot heard round the world marked the beginning of ..................... . {=Revolutionary War}
+
+::U5L1Q17::Complete the sentences with suitable words.<br>A primary objective of the Second Continental Congress was to coordinate a response to the ................... with Britain.{=conflict }
+
+::U5L1Q18::Complete the sentences with suitable words.<br>The Declaration of Independence outlined reasons for ..................... from British rule.{=separation}
+
+::U5L1Q19::Complete the sentences with suitable words.<br>The Treaty of Paris established the ................... of the United States.{=independence}
+
+::U5L1Q20::Complete the sentences with suitable words.<br>Great Britain formally .................... American independence in the Treaty of Paris.{=formally acknowledged}
+
+::U5L1Q21::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The Proclamation of 1763 established a boundary line along the ....................  Mountains.{=Appalachian}
+
+::U5L1Q22::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The phrase ".................... without representation" became a colonial rallying cry against British taxes.{=Taxation }
+
+::U5L1Q23::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>Colonists formed groups like the Sons  of .................... to protest the Stamp Act.{=Liberty}
+
+::U5L1Q24::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>Colonists disguised themselves as .................................... during the Boston Tea Party.{=Boston Mohawk Indians }
+
+::U5L1Q25::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The Coercive Acts were also known as the ..................... Acts.{=Intolerable }
+
+::U5L1Q26::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>................................. famously shouted "The British are coming!" to warn colonists.{=Paul Revere}
+
+::U5L1Q27::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>George Washington was appointed commander of the .................... .{=Continental Army }
+
+::U5L1Q28::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The Declaration of Independence was primarily written by ....................  . {=Thomas Jefferson}
+
+::U5L1Q29::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The Treaty of Paris was signed in ................... in 1783.{=Paris}
+
+::U5L1Q30::Fill in the blanks using the words in the brackets.<br>(independence – Paris – Thomas Jefferson – Continental Army – Paul Revere – Intolerable Acts – Boston Mohawk Indians – Liberty – Taxation – Appalachian)<br>The Treaty of Paris recognized American ................... from Great Britain.{=independence}
+
+::U5L1Q31::Choose the correct answer.<br>What act imposed taxes on sugar and molasses?  {=Sugar Act ~Currency Act ~Quartering Act~Proclamation Act }
+
+::U5L1Q32::Choose the correct answer.<br>What groups did the Proclamation of 1763 aim to reduce conflicts between? {=British and Native Americans~Colonists and Native Americans ~Colonists and British ~French and British }
+
+::U5L1Q33::Choose the correct answer.<br>Where did delegates from the colonies meet to protest the Stamp Act?  {=Philadelphia ~Boston ~New York ~Lexington}
+
+::U5L1Q34::Choose the correct answer.<br>Who invented the engraving of the Boston Massacre?  {=Paul Revere ~Crispus Attucks~Samuel Adams ~John Adams }
+
+::U5L1Q35::Choose the correct answer.<br>Where was the tea dumped during the Boston Tea Party located?  {=Boston Harbor ~Thames River~Charleston Harbor ~Griffin's Wharf }
+
+::U5L1Q36::Choose the correct answer.<br>What act required colonists to quarter British soldiers?  {=Quartering Act ~Declaratory Act~Currency Act ~Sugar Act }
+
+::U5L1Q37::Choose the correct answer.<br>Who shouted "The British are coming!"?  {=Paul Revere ~George Washington ~William Dawes ~Patrick Henry}
+
+::U5L1Q38::Choose the correct answer.<br>Who was appointed commander-in-chief at the Second Continental Congress?  {=George Washington ~Benjamin Franklin ~John Hancock~John Adams }
+
+::U5L1Q39::Choose the correct answer.<br>Who physically wrote the Declaration of Independence? {=Thomas Jefferson ~Benjamin Franklin~John Adams ~George Washington }
+
+::U5L1Q40::Choose the correct answer.<br>What treaty ended the Revolutionary War?  {=Treaty of Paris~Treaty of Versailles ~Treaty of Yorktown ~Treaty of London }
+
+::U5L1Q41::Answer the following questions.<br>Why did American colonists oppose the Proclamation of 1763? What effects did this act have?{=American colonists opposed the Proclamation of 1763 because it restricted colonial settlement west of the Appalachian Mountains after the French and Indian War. This angered colonists who wanted to expand westward. The act also led some colonists to start questioning Britain's policies towards North America.}
+
+::U5L1Q42::Answer the following questions.<br>What were the main colonial objections to the Sugar Act and Stamp Act? Why did colonists view these acts as problematic?{=Colonists saw the Sugar Act and Stamp Act as problematic because they were direct taxes levied without colonial consent. The Sugar Act taxed imported goods like sugar and molasses, while the Stamp Act put a tax on printed materials like newspapers, legal documents, and playing cards. Colonists protested taxation without representation.}
+
+::U5L1Q43::Answer the following questions.<br>Why was the Boston Massacre significant in shaping colonial views towards the British in the years leading up to revolution?{=The Boston Massacre fueled anti-British sentiments by portraying British soldiers as aggressors against civilian protesters. It showed tensions were escalating in Massachusetts and rallied opposition against perceived British tyranny.}
+
+::U5L1Q44::Answer the following questions.<br>What actions did the First Continental Congress take in response to British policies? What impact did they hope to achieve?{=The First Continental Congress petitioned the British government to repeal objectionable acts like the Coercive Acts. They organized an economic boycott to try to force British concessions while urging unity amongst the diverse colonies.}
+
+::U5L1Q45::Answer the following questions.<br>Why was the "shot heard round the world" at Lexington green considered the beginning the Revolutionary War? What were the longer term tensions underlying this outbreak of violence?{=The skirmish at Lexington initiated armed conflict between colonial militia and British troops, marking the start of the Revolutionary War. It reflected growing militancy in New England and simmering tensions after years of protests against British colonial policies.}
+
+::U5L1Q46::Answer the following questions.<br>What roles and powers did the Second Continental Congress have in organizing the independence effort? Why were they seen as a unifying body?{=As a provisional government, the Second Continental Congress coordinated the war effort, managed finances, enacted laws and policies, handled foreign affairs, and ultimately declared independence from Britain. It provided leadership and helped unify the colonies.}
+
+::U5L1Q47::Answer the following questions.<br>Why did Thomas Jefferson and the Continental Congress feel it necessary to declare independence from Britain? What key ideological arguments did they put forth to justify this drastic step?{=Jefferson and Congress declared independence because British policies over taxation, coercion, and the use of force showed the American colonies could not be reconciled with Britain. Natural rights philosophy was invoked to assert liberty and equality.}
+
+::U5L1Q48::Answer the following questions.<br>What were the main objectives achieved from an American perspective in the Treaty of Paris negotiations? Why were issues like fishing rights and loyalist property also addressed?{=Key objectives met in the Treaty of Paris were recognizing American independence, establishing generous western borders for the new nation, protecting territorial fishing rights, and addressing confiscation of loyalist properties during the war.}
+
+::U5L1Q49::Answer the following questions.<br>How did British policies towards the American colonies evolve in the years 1763-1783? What major shifts helped drive the escalation from protest to revolution over this period?{=Starting with taxation policies in 1763-1765, the British shifted from salutary neglect of the colonies towards tighter control, prompting colonial protests and eventually military conflict after 1775 once reconciliation failed.}
+
+::U5L1Q50::Answer the following questions.<br>Why has the American Revolutionary period had such a lasting influence both within the United States and on other independence movements globally? What core ideas and principles defined this historical moment?{=Revolutionary principles of inalienable rights, consent of the governed, social contract theory, and the right of revolution against tyranny became foundations of American political identity and inspired revolutionary movements globally for generations.}
